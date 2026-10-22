@@ -2056,10 +2056,10 @@
         "scramble": [
           "X",
           "M",
-          "O",
+          "U",
           "M"
         ],
-        "hint": "Mom → mẹ",
+        "hint": "Mum → mẹ",
         "eraseFlag": 1
       },
       {
@@ -2831,7 +2831,7 @@
       },
       {
         "id": 973,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/aredcup.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/aredcup.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "an"
@@ -3011,7 +3011,7 @@
       },
       {
         "id": 985,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/icanrun.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/icanrun.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "runs."
@@ -3101,7 +3101,7 @@
       },
       {
         "id": 991,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/awhitecap.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/awhitecap.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "an"
@@ -3146,7 +3146,7 @@
       },
       {
         "id": 994,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/threebooks.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/threebooks.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "book"
@@ -3221,7 +3221,7 @@
       },
       {
         "id": 999,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/icanjump.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/icanjump.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "jumping."
@@ -5598,7 +5598,7 @@
       },
       {
         "id": 1031,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/icandance.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/icandance.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "dancing."
@@ -5613,7 +5613,7 @@
       },
       {
         "id": 1032,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/fourpapayas.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/fourpapayas.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "papaya"
@@ -5718,7 +5718,7 @@
       },
       {
         "id": 1039,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/goodbyeba.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/goodbyeba.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Goodbuy,"
@@ -5898,7 +5898,7 @@
       },
       {
         "id": 1051,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/twonotebooks.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/twonotebooks.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "twoo"
@@ -5913,7 +5913,7 @@
       },
       {
         "id": 1052,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/agreenshirt.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/agreenshirt.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "green shrit"
@@ -6048,7 +6048,7 @@
       },
       {
         "id": 1061,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/goodbyerosy.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/goodbyerosy.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Goodbuy,"
@@ -6063,7 +6063,7 @@
       },
       {
         "id": 1062,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ayellowplane.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ayellowplane.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "yellow plaen"
@@ -6078,7 +6078,7 @@
       },
       {
         "id": 1063,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/goodbyewendy.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/goodbyewendy.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Goodbuy,"
@@ -6093,7 +6093,7 @@
       },
       {
         "id": 1064,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/goodbyehenry.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/goodbyehenry.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Goodbuy,"
@@ -6108,7 +6108,7 @@
       },
       {
         "id": 1065,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/goodbyekatie.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/goodbyekatie.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Goodbuy,"
@@ -6123,7 +6123,7 @@
       },
       {
         "id": 1066,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/goodbyepolly.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/goodbyepolly.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Goodbuy,"
@@ -6138,7 +6138,7 @@
       },
       {
         "id": 1067,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/goodbyeeddie.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/goodbyeeddie.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Goodbuy,"
@@ -6153,7 +6153,7 @@
       },
       {
         "id": 1068,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/abrownnotebook.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/abrownnotebook.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "an"
@@ -6245,7 +6245,7 @@
       },
       {
         "id": 1074,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/iliketea.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/iliketea.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Me"
@@ -6293,7 +6293,7 @@
       },
       {
         "id": 1077,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ilikecake.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ilikecake.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Me"
@@ -6341,7 +6341,7 @@
       },
       {
         "id": 1080,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ilikesoup.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ilikesoup.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Me"
@@ -6357,7 +6357,7 @@
       },
       {
         "id": 1081,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ilikemilk.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ilikemilk.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "likes"
@@ -6469,7 +6469,7 @@
       },
       {
         "id": 1088,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ilikechips.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ilikechips.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "likes"
@@ -6501,7 +6501,7 @@
       },
       {
         "id": 1090,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ilikejuice.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ilikejuice.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Me"
@@ -6581,7 +6581,7 @@
       },
       {
         "id": 1095,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ilikewater.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ilikewater.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "warter."
@@ -8754,7 +8754,7 @@
       },
       {
         "id": 1111,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/touchyourear.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/touchyourear.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Touches"
@@ -8770,7 +8770,7 @@
       },
       {
         "id": 1112,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ilikebananas.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ilikebananas.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "likes"
@@ -8786,7 +8786,7 @@
       },
       {
         "id": 1113,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ilikemangoes.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ilikemangoes.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Me"
@@ -8802,7 +8802,7 @@
       },
       {
         "id": 1114,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ilikeoranges.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ilikeoranges.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Me"
@@ -8818,7 +8818,7 @@
       },
       {
         "id": 1115,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/touchyourarm.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/touchyourarm.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Touches"
@@ -8834,7 +8834,7 @@
       },
       {
         "id": 1116,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ilikenoodles.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ilikenoodles.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "likes"
@@ -8882,7 +8882,7 @@
       },
       {
         "id": 1119,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ilikechicken.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ilikechicken.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Me"
@@ -8898,7 +8898,7 @@
       },
       {
         "id": 1120,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/touchyoureye.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/touchyoureye.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "you"
@@ -8914,7 +8914,7 @@
       },
       {
         "id": 1121,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/touchyourleg.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/touchyourleg.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Touches"
@@ -8930,7 +8930,7 @@
       },
       {
         "id": 1122,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/touchyourhead.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/touchyourhead.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Touches"
@@ -8946,7 +8946,7 @@
       },
       {
         "id": 1123,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/touchyourfoot.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/touchyourfoot.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Touches"
@@ -8962,7 +8962,7 @@
       },
       {
         "id": 1124,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/touchyourface.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/touchyourface.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "you"
@@ -8994,7 +8994,7 @@
       },
       {
         "id": 1126,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/touchyourhand.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/touchyourhand.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Touches"
@@ -9010,7 +9010,7 @@
       },
       {
         "id": 1127,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/touchyourhair.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/touchyourhair.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "hiar."
@@ -9074,7 +9074,7 @@
       },
       {
         "id": 1131,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/touchyourmouth.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/touchyourmouth.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "you"
@@ -9223,7 +9223,7 @@
       },
       {
         "id": 1140,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ihaveamap.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ihaveamap.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Me"
@@ -9240,7 +9240,7 @@
       },
       {
         "id": 1141,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ihaveabag.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ihaveabag.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "bagg."
@@ -9427,7 +9427,7 @@
       },
       {
         "id": 1152,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ihaveapen.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ihaveapen.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Me"
@@ -9478,7 +9478,7 @@
       },
       {
         "id": 1155,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ihaveadog.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ihaveadog.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Me"
@@ -9682,7 +9682,7 @@
       },
       {
         "id": 1167,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ihaveabook.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ihaveabook.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "has"
@@ -9699,7 +9699,7 @@
       },
       {
         "id": 1168,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ihaveabike.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ihaveabike.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Me"
@@ -9733,7 +9733,7 @@
       },
       {
         "id": 1170,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ihaveadesk.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ihaveadesk.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "has"
@@ -9835,7 +9835,7 @@
       },
       {
         "id": 1176,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/thisismynet.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thisismynet.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "I"
@@ -9886,7 +9886,7 @@
       },
       {
         "id": 1179,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ihavearobot.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ihavearobot.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "robat."
@@ -9903,7 +9903,7 @@
       },
       {
         "id": 1180,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/thisismytop.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thisismytop.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "I"
@@ -9920,7 +9920,7 @@
       },
       {
         "id": 1181,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/thisismycar.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thisismycar.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "me"
@@ -10022,7 +10022,7 @@
       },
       {
         "id": 1187,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/thisismyhat.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thisismyhat.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "I"
@@ -10039,7 +10039,7 @@
       },
       {
         "id": 1188,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/thisismybag.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thisismybag.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "are"
@@ -10056,7 +10056,7 @@
       },
       {
         "id": 1189,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ihaveaplane.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ihaveaplane.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "an"
@@ -10090,7 +10090,7 @@
       },
       {
         "id": 1191,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ihaveachair.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ihaveachair.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "an"
@@ -10107,7 +10107,7 @@
       },
       {
         "id": 1192,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/thisismycap.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thisismycap.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "kap."
@@ -10124,7 +10124,7 @@
       },
       {
         "id": 1193,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ihaveamouse.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ihaveamouse.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "has"
@@ -10141,7 +10141,7 @@
       },
       {
         "id": 1194,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ihaveatrain.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ihaveatrain.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "trian."
@@ -10192,7 +10192,7 @@
       },
       {
         "id": 1197,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/ihaveaguitar.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ihaveaguitar.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "has"
@@ -10226,7 +10226,7 @@
       },
       {
         "id": 1199,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/lookatthepig.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/lookatthepig.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "Looks"
@@ -10243,7 +10243,7 @@
       },
       {
         "id": 1200,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/thisismycoat.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thisismycoat.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "me"
@@ -13440,7 +13440,7 @@
       },
       {
         "id": 1271,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/openyourbook.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/openyourbook.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "you",
@@ -13458,7 +13458,7 @@
       },
       {
         "id": 1272,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/closeyourbook.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/closeyourbook.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "you",
@@ -13636,7 +13636,7 @@
       },
       {
         "id": 1282,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/therearefourdogs.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/therearefourdogs.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "four dog.",
@@ -13708,7 +13708,7 @@
       },
       {
         "id": 1286,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/therearefivebirds.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/therearefivebirds.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "five bird.",
@@ -13780,7 +13780,7 @@
       },
       {
         "id": 1290,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/therearefourdolls.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/therearefourdolls.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "fuor dolls.",
@@ -13870,7 +13870,7 @@
       },
       {
         "id": 1295,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/therearetenmangoes.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/therearetenmangoes.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "is",
@@ -13888,7 +13888,7 @@
       },
       {
         "id": 1296,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/thereareeightgeese.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thereareeightgeese.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "is",
@@ -13906,7 +13906,7 @@
       },
       {
         "id": 1297,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/therearetenkittens.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/therearetenkittens.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "ten kitten.",
@@ -16513,7 +16513,7 @@
       },
       {
         "id": 1332,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/thereareeighttrucks.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thereareeighttrucks.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "eigt trucks.",
@@ -16531,7 +16531,7 @@
       },
       {
         "id": 1333,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/therearefourturtles.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/therearefourturtles.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "for turtles.",
@@ -21093,7 +21093,7 @@
       },
       {
         "id": 1464,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/theballisonthetable.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/theballisonthetable.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "am",
@@ -21774,7 +21774,7 @@
       },
       {
         "id": 1499,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/thereisapenonthebed.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thereisapenonthebed.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "are",
@@ -25715,7 +25715,7 @@
       },
       {
         "id": 1588,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/canyourun?yesican.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/canyourunyesican.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "running?",
@@ -25863,7 +25863,7 @@
       },
       {
         "id": 1595,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/canyouread?yesican.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/canyoureadyesican.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "your",
@@ -25903,7 +25903,7 @@
       },
       {
         "id": 1597,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/canyouswim?yesican.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/canyouswimyesican.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "your",
@@ -29767,7 +29767,7 @@
       },
       {
         "id": 1667,
-        "audioUrl": "https://hoangminhtiendev.github.io/ioe1/audios/mygrandmaiscookinginthekitchen.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/mygrandmaiscookinginthekitchen.mp3",
         "question": "Select the extra characters/words in the context.",
         "correctAnswer": [
           "the kichen.",
@@ -30013,14 +30013,14 @@
         ],
         "scramble": [
           "My",
-          "grandma",
+          "teacher",
           "is reading",
           "are reading",
           "in",
           "on",
           "the classroom."
         ],
-        "hint": "Bà của mình đang đọc sách trong lớp học. → My grandma is reading in the classroom.",
+        "hint": "Cô giáo của mình đang đọc sách trong lớp học. → My teacher is reading in the classroom.",
         "eraseFlag": 1
       },
       {
@@ -30489,6 +30489,4807 @@
           "do not."
         ],
         "hint": "Bạn có thích bánh mì không? - Không, mình không thích. → Do you like bread? - No, I do not.",
+        "eraseFlag": 1
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "In the park",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/unit8.png",
+    "scenes": [
+      {
+        "id": 801,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "S",
+          "L",
+          "EE",
+          "P",
+          "ING"
+        ],
+        "scramble": [
+          "P",
+          "S",
+          "EE",
+          "L",
+          "ING"
+        ],
+        "hint": "Sleeping → đang ngủ",
+        "eraseFlag": 0
+      },
+      {
+        "id": 802,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "colour",
+          "is",
+          "the box?",
+          "- It",
+          "is",
+          "blue."
+        ],
+        "scramble": [
+          "What",
+          "colour",
+          "is",
+          "the box?",
+          "- It",
+          "is",
+          "blue."
+        ],
+        "hint": "Cái hộp màu gì? - Nó màu xanh dương. → What colour is the box? - It is blue.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 803,
+        "audioUrl": "",
+        "question": "Cái lưới màu gì? - Nó màu trắng.",
+        "correctAnswer": [
+          "What",
+          "colour",
+          "is",
+          "the net?",
+          "- It",
+          "is",
+          "white."
+        ],
+        "scramble": [
+          "are",
+          "white.",
+          "colur",
+          "- It",
+          "What",
+          "colour",
+          "the net?",
+          "is",
+          "is"
+        ],
+        "hint": "Cái lưới màu gì? - Nó màu trắng. → What colour is the net? - It is white.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 804,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "This",
+          "is",
+          "Eddie.",
+          "He",
+          "has",
+          "a",
+          "black car."
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "Eddie.",
+          "He",
+          "has",
+          "have",
+          "a",
+          "an",
+          "black car."
+        ],
+        "hint": "Đây là Eddie. Cậu ấy có một chiếc ô tô màu đen. → This is Eddie. He has a black car.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 805,
+        "audioUrl": "",
+        "question": "What colour is the book? - It is brown.",
+        "correctAnswer": [
+          "Quyển sách",
+          "màu gì?",
+          "- Nó",
+          "màu nâu."
+        ],
+        "scramble": [
+          "màu gì?",
+          "Quyển sách",
+          "màu xanh lá.",
+          "Cái giỏ",
+          "màu nâu.",
+          "- Nó"
+        ],
+        "hint": "What colour is the book? - It is brown. → Quyển sách màu gì? - Nó màu nâu.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 806,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "BA",
+          "TH",
+          "R",
+          "OO",
+          "M"
+        ],
+        "scramble": [
+          "OO",
+          "M",
+          "R",
+          "BA",
+          "TH"
+        ],
+        "hint": "Bathroom → phòng tắm",
+        "eraseFlag": 0
+      },
+      {
+        "id": 807,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "colour",
+          "is",
+          "the car?",
+          "- It",
+          "is",
+          "purple."
+        ],
+        "scramble": [
+          "What",
+          "colour",
+          "is",
+          "the car?",
+          "- It",
+          "is",
+          "purple."
+        ],
+        "hint": "Chiếc ô tô màu gì? - Nó màu tím. → What colour is the car? - It is purple.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 808,
+        "audioUrl": "",
+        "question": "Con búp bê ở đâu? - Nó ở trong cái cặp.",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the doll?",
+          "- It",
+          "is",
+          "in",
+          "the bag."
+        ],
+        "scramble": [
+          "the doll?",
+          "the hat?",
+          "the bag.",
+          "is",
+          "- It",
+          "are",
+          "is",
+          "Where",
+          "in"
+        ],
+        "hint": "Con búp bê ở đâu? - Nó ở trong cái cặp. → Where is the doll? - It is in the bag.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 809,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Is",
+          "it",
+          "a",
+          "crocodile?",
+          "- No,",
+          "it",
+          "is not."
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "crocodile?",
+          "- No,",
+          "it",
+          "is not."
+        ],
+        "hint": "Đó có phải là con cá sấu không? - Không phải. → Is it a crocodile? - No, it is not.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 810,
+        "audioUrl": "",
+        "question": "What colour is the bike? - It is brown.",
+        "correctAnswer": [
+          "Chiếc xe đạp",
+          "màu gì?",
+          "- Nó",
+          "màu nâu."
+        ],
+        "scramble": [
+          "- Nó",
+          "Chiếc xe đạp",
+          "màu gì?",
+          "màu nâu.",
+          "Cái hộp",
+          "Chiếc ô tô"
+        ],
+        "hint": "What colour is the bike? - It is brown. → Chiếc xe đạp màu gì? - Nó màu nâu.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 811,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "BA",
+          "LL",
+          "OO",
+          "N",
+          "S"
+        ],
+        "scramble": [
+          "OO",
+          "N",
+          "S",
+          "BA",
+          "LL"
+        ],
+        "hint": "Balloons → những quả bóng bay",
+        "eraseFlag": 0
+      },
+      {
+        "id": 812,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the bag?",
+          "- It",
+          "is",
+          "on",
+          "the chair."
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "the bag?",
+          "- It",
+          "is",
+          "on",
+          "the chair."
+        ],
+        "hint": "Cái cặp ở đâu? - Nó ở trên cái ghế. → Where is the bag? - It is on the chair.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 813,
+        "audioUrl": "",
+        "question": "Cái mũ ở đâu? - Nó ở trên ghế sô-pha.",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the hat?",
+          "- It",
+          "is",
+          "on",
+          "the sofa."
+        ],
+        "scramble": [
+          "the sofa.",
+          "are",
+          "the top?",
+          "is",
+          "is",
+          "Where",
+          "on",
+          "the hat?",
+          "- It"
+        ],
+        "hint": "Cái mũ ở đâu? - Nó ở trên ghế sô-pha. → Where is the hat? - It is on the sofa.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 814,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "This",
+          "is",
+          "Eddie.",
+          "He",
+          "has",
+          "a",
+          "yellow mop."
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "Eddie.",
+          "He",
+          "has",
+          "have",
+          "a",
+          "an",
+          "yellow mop."
+        ],
+        "hint": "Đây là Eddie. Cậu ấy có một cây lau nhà màu vàng. → This is Eddie. He has a yellow mop.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 815,
+        "audioUrl": "",
+        "question": "This is Jenny. She has a pink computer.",
+        "correctAnswer": [
+          "Đây là Jenny.",
+          "Cô ấy có",
+          "một cái máy tính",
+          "màu hồng."
+        ],
+        "scramble": [
+          "một cái máy tính",
+          "Đây là Nick.",
+          "Cô ấy có",
+          "màu đỏ.",
+          "màu hồng.",
+          "Đây là Jenny."
+        ],
+        "hint": "This is Jenny. She has a pink computer. → Đây là Jenny. Cô ấy có một cái máy tính màu hồng.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 816,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "G",
+          "IR",
+          "A",
+          "FF",
+          "ES"
+        ],
+        "scramble": [
+          "IR",
+          "G",
+          "FF",
+          "ES",
+          "A"
+        ],
+        "hint": "Giraffes → những con hươu cao cổ",
+        "eraseFlag": 0
+      },
+      {
+        "id": 817,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "colour",
+          "is",
+          "the T-shirt?",
+          "- It",
+          "is",
+          "red."
+        ],
+        "scramble": [
+          "What",
+          "colour",
+          "is",
+          "the T-shirt?",
+          "- It",
+          "is",
+          "red."
+        ],
+        "hint": "Cái áo phông màu gì? - Nó màu đỏ. → What colour is the T-shirt? - It is red.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 818,
+        "audioUrl": "",
+        "question": "Con quay màu gì? - Nó màu đen.",
+        "correctAnswer": [
+          "What",
+          "colour",
+          "is",
+          "the top?",
+          "- It",
+          "is",
+          "black."
+        ],
+        "scramble": [
+          "- It",
+          "colur",
+          "are",
+          "the top?",
+          "What",
+          "black.",
+          "colour",
+          "is",
+          "is"
+        ],
+        "hint": "Con quay màu gì? - Nó màu đen. → What colour is the top? - It is black.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 819,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "This",
+          "is",
+          "Lily.",
+          "She",
+          "has",
+          "a",
+          "green doll."
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "Lily.",
+          "She",
+          "has",
+          "have",
+          "a",
+          "an",
+          "green doll."
+        ],
+        "hint": "Đây là Lily. Cô ấy có một con búp bê màu xanh lá. → This is Lily. She has a green doll.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 820,
+        "audioUrl": "",
+        "question": "What colour is the coat? - It is brown.",
+        "correctAnswer": [
+          "Cái áo khoác",
+          "màu gì?",
+          "- Nó",
+          "màu nâu."
+        ],
+        "scramble": [
+          "Cái áo khoác",
+          "màu nâu.",
+          "màu gì?",
+          "Quả bóng bay",
+          "Quyển sách",
+          "- Nó"
+        ],
+        "hint": "What colour is the coat? - It is brown. → Cái áo khoác màu gì? - Nó màu nâu.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 821,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "NI",
+          "NE",
+          "T",
+          "EE",
+          "N"
+        ],
+        "scramble": [
+          "T",
+          "NE",
+          "N",
+          "EE",
+          "NI"
+        ],
+        "hint": "Nineteen → số mười chín",
+        "eraseFlag": 0
+      },
+      {
+        "id": 822,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the doll?",
+          "- It",
+          "is",
+          "on",
+          "the table."
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "the doll?",
+          "- It",
+          "is",
+          "on",
+          "the table."
+        ],
+        "hint": "Con búp bê ở đâu? - Nó ở trên cái bàn. → Where is the doll? - It is on the table.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 823,
+        "audioUrl": "",
+        "question": "Quả bóng màu gì? - Nó màu xanh dương.",
+        "correctAnswer": [
+          "What",
+          "colour",
+          "is",
+          "the ball?",
+          "- It",
+          "is",
+          "blue."
+        ],
+        "scramble": [
+          "are",
+          "colour",
+          "What",
+          "colur",
+          "is",
+          "- It",
+          "is",
+          "blue.",
+          "the ball?"
+        ],
+        "hint": "Quả bóng màu gì? - Nó màu xanh dương. → What colour is the ball? - It is blue.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 824,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "This",
+          "is",
+          "Nick.",
+          "He",
+          "has",
+          "a",
+          "pink puzzle."
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Nick.",
+          "He",
+          "has",
+          "have",
+          "a",
+          "pink puzzle."
+        ],
+        "hint": "Đây là Nick. Cậu ấy có một bộ xếp hình màu hồng. → This is Nick. He has a pink puzzle.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 825,
+        "audioUrl": "",
+        "question": "What colour is the table? - It is blue.",
+        "correctAnswer": [
+          "Cái bàn",
+          "màu gì?",
+          "- Nó",
+          "màu xanh dương."
+        ],
+        "scramble": [
+          "màu xanh dương.",
+          "màu gì?",
+          "Cái bàn",
+          "màu xanh lá.",
+          "- Nó",
+          "màu đỏ."
+        ],
+        "hint": "What colour is the table? - It is blue. → Cái bàn màu gì? - Nó màu xanh dương.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 826,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "CH",
+          "I",
+          "CK",
+          "EN",
+          "S"
+        ],
+        "scramble": [
+          "S",
+          "I",
+          "EN",
+          "CK",
+          "CH"
+        ],
+        "hint": "Chickens → những con gà",
+        "eraseFlag": 0
+      },
+      {
+        "id": 827,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the plane?",
+          "- It",
+          "is",
+          "on",
+          "the sofa."
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "the plane?",
+          "- It",
+          "is",
+          "on",
+          "the sofa."
+        ],
+        "hint": "Chiếc máy bay ở đâu? - Nó ở trên ghế sô-pha. → Where is the plane? - It is on the sofa.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 828,
+        "audioUrl": "",
+        "question": "Cái nồi màu gì? - Nó màu cam.",
+        "correctAnswer": [
+          "What",
+          "colour",
+          "is",
+          "the pot?",
+          "- It",
+          "is",
+          "orange."
+        ],
+        "scramble": [
+          "the pot?",
+          "colur",
+          "are",
+          "is",
+          "What",
+          "- It",
+          "is",
+          "colour",
+          "orange."
+        ],
+        "hint": "Cái nồi màu gì? - Nó màu cam. → What colour is the pot? - It is orange.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 829,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "This",
+          "is",
+          "Hoa.",
+          "She",
+          "has",
+          "a",
+          "purple crayon."
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Hoa.",
+          "She",
+          "has",
+          "have",
+          "a",
+          "purple crayon."
+        ],
+        "hint": "Đây là Hoa. Cô ấy có một cây bút sáp màu tím. → This is Hoa. She has a purple crayon.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 830,
+        "audioUrl": "",
+        "question": "What colour is the plane? - It is white.",
+        "correctAnswer": [
+          "Chiếc máy bay",
+          "màu gì?",
+          "- Nó",
+          "màu trắng."
+        ],
+        "scramble": [
+          "màu trắng.",
+          "màu gì?",
+          "Cái ổ khóa",
+          "- Nó",
+          "màu tím.",
+          "Chiếc máy bay"
+        ],
+        "hint": "What colour is the plane? - It is white. → Chiếc máy bay màu gì? - Nó màu trắng.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 831,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "SA",
+          "N",
+          "D",
+          "WI",
+          "CH"
+        ],
+        "scramble": [
+          "D",
+          "WI",
+          "SA",
+          "N",
+          "CH"
+        ],
+        "hint": "Sandwich → cái bánh mì kẹp",
+        "eraseFlag": 0
+      },
+      {
+        "id": 832,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the robot?",
+          "- It",
+          "is",
+          "on",
+          "the chair."
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "the robot?",
+          "- It",
+          "is",
+          "on",
+          "the chair."
+        ],
+        "hint": "Con rô-bốt ở đâu? - Nó ở trên cái ghế. → Where is the robot? - It is on the chair.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 833,
+        "audioUrl": "",
+        "question": "Cái bánh quy ở đâu? - Nó ở trong cái hộp.",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the cookie?",
+          "- It",
+          "is",
+          "in",
+          "the box."
+        ],
+        "scramble": [
+          "the bag?",
+          "is",
+          "is",
+          "in",
+          "- It",
+          "the cookie?",
+          "Where",
+          "are",
+          "the box."
+        ],
+        "hint": "Cái bánh quy ở đâu? - Nó ở trong cái hộp. → Where is the cookie? - It is in the box.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 834,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the egg?",
+          "- It",
+          "is",
+          "in",
+          "the bag."
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "are",
+          "the egg?",
+          "- It",
+          "is",
+          "in",
+          "the bag."
+        ],
+        "hint": "Quả trứng ở đâu? - Nó ở trong cái cặp. → Where is the egg? - It is in the bag.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 835,
+        "audioUrl": "",
+        "question": "What colour is the doll? - It is purple.",
+        "correctAnswer": [
+          "Con búp bê",
+          "màu gì?",
+          "- Nó",
+          "màu tím."
+        ],
+        "scramble": [
+          "màu tím.",
+          "màu gì?",
+          "- Nó",
+          "Con búp bê",
+          "Chiếc máy bay",
+          "màu xanh lá."
+        ],
+        "hint": "What colour is the doll? - It is purple. → Con búp bê màu gì? - Nó màu tím.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 836,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "F",
+          "OO",
+          "T",
+          "BA",
+          "LL"
+        ],
+        "scramble": [
+          "LL",
+          "T",
+          "F",
+          "BA",
+          "OO"
+        ],
+        "hint": "Football → bóng đá",
+        "eraseFlag": 0
+      },
+      {
+        "id": 837,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "colour",
+          "is",
+          "the basket?",
+          "- It",
+          "is",
+          "yellow."
+        ],
+        "scramble": [
+          "What",
+          "colour",
+          "is",
+          "the basket?",
+          "- It",
+          "is",
+          "yellow."
+        ],
+        "hint": "Cái giỏ màu gì? - Nó màu vàng. → What colour is the basket? - It is yellow.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 838,
+        "audioUrl": "",
+        "question": "Cái bánh ngọt ở đâu? - Nó ở trên cái kệ.",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the cake?",
+          "- It",
+          "is",
+          "on",
+          "the shelf."
+        ],
+        "scramble": [
+          "on",
+          "the orange?",
+          "is",
+          "are",
+          "Where",
+          "- It",
+          "the shelf.",
+          "the cake?",
+          "is"
+        ],
+        "hint": "Cái bánh ngọt ở đâu? - Nó ở trên cái kệ. → Where is the cake? - It is on the shelf.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 839,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "This",
+          "is",
+          "Wendy.",
+          "She",
+          "has",
+          "a",
+          "yellow shirt."
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "Wendy.",
+          "She",
+          "has",
+          "have",
+          "a",
+          "an",
+          "yellow shirt."
+        ],
+        "hint": "Đây là Wendy. Cô ấy có một cái áo sơ mi màu vàng. → This is Wendy. She has a yellow shirt.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 840,
+        "audioUrl": "",
+        "question": "Where is the bell? - It is on the table.",
+        "correctAnswer": [
+          "Cái chuông",
+          "ở đâu?",
+          "- Nó",
+          "ở trên cái bàn."
+        ],
+        "scramble": [
+          "- Nó",
+          "ở đâu?",
+          "ở trên cái bàn.",
+          "ở trên cái kệ.",
+          "Cái cặp",
+          "Cái chuông"
+        ],
+        "hint": "Where is the bell? - It is on the table. → Cái chuông ở đâu? - Nó ở trên cái bàn.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 841,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "EI",
+          "GH",
+          "T",
+          "EE",
+          "N"
+        ],
+        "scramble": [
+          "T",
+          "EI",
+          "N",
+          "GH",
+          "EE"
+        ],
+        "hint": "Eighteen → số mười tám",
+        "eraseFlag": 0
+      },
+      {
+        "id": 842,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the crayon?",
+          "- It",
+          "is",
+          "in",
+          "the basket."
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "the crayon?",
+          "- It",
+          "is",
+          "in",
+          "the basket."
+        ],
+        "hint": "Cây bút sáp ở đâu? - Nó ở trong cái giỏ. → Where is the crayon? - It is in the basket.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 843,
+        "audioUrl": "",
+        "question": "Chiếc xe tải ở đâu? - Nó ở trên cái kệ.",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the truck?",
+          "- It",
+          "is",
+          "on",
+          "the shelf."
+        ],
+        "scramble": [
+          "is",
+          "the bell?",
+          "on",
+          "the truck?",
+          "is",
+          "- It",
+          "Where",
+          "are",
+          "the shelf."
+        ],
+        "hint": "Chiếc xe tải ở đâu? - Nó ở trên cái kệ. → Where is the truck? - It is on the shelf.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 844,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the bag?",
+          "- It",
+          "is",
+          "on",
+          "the desk."
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "are",
+          "the bag?",
+          "- It",
+          "is",
+          "on",
+          "the desk."
+        ],
+        "hint": "Cái cặp ở đâu? - Nó ở trên cái bàn học. → Where is the bag? - It is on the desk.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 845,
+        "audioUrl": "",
+        "question": "What colour is the computer? - It is purple.",
+        "correctAnswer": [
+          "Cái máy tính",
+          "màu gì?",
+          "- Nó",
+          "màu tím."
+        ],
+        "scramble": [
+          "màu vàng.",
+          "màu đỏ.",
+          "Cái máy tính",
+          "- Nó",
+          "màu gì?",
+          "màu tím."
+        ],
+        "hint": "What colour is the computer? - It is purple. → Cái máy tính màu gì? - Nó màu tím.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 846,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "C",
+          "LI",
+          "M",
+          "B",
+          "ING"
+        ],
+        "scramble": [
+          "C",
+          "M",
+          "B",
+          "ING",
+          "LI"
+        ],
+        "hint": "Climbing → đang leo trèo",
+        "eraseFlag": 0
+      },
+      {
+        "id": 847,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the train?",
+          "- It",
+          "is",
+          "under",
+          "the chair."
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "the train?",
+          "- It",
+          "is",
+          "under",
+          "the chair."
+        ],
+        "hint": "Đoàn tàu hỏa ở đâu? - Nó ở dưới cái ghế. → Where is the train? - It is under the chair.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 848,
+        "audioUrl": "",
+        "question": "Cái đồng hồ ở đâu? - Nó ở trên cái bàn.",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the clock?",
+          "- It",
+          "is",
+          "on",
+          "the table."
+        ],
+        "scramble": [
+          "are",
+          "the clock?",
+          "- It",
+          "the table.",
+          "is",
+          "Where",
+          "on",
+          "the truck?",
+          "is"
+        ],
+        "hint": "Cái đồng hồ ở đâu? - Nó ở trên cái bàn. → Where is the clock? - It is on the table.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 849,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "colour",
+          "is",
+          "the puppet?",
+          "- It",
+          "is",
+          "pink."
+        ],
+        "scramble": [
+          "What",
+          "colour",
+          "is",
+          "are",
+          "the puppet?",
+          "- It",
+          "is",
+          "pink.",
+          "pinc."
+        ],
+        "hint": "Con rối màu gì? - Nó màu hồng. → What colour is the puppet? - It is pink.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 850,
+        "audioUrl": "",
+        "question": "Where is the teddy bear? - It is on the bed.",
+        "correctAnswer": [
+          "Con gấu bông",
+          "ở đâu?",
+          "- Nó",
+          "ở trên cái giường."
+        ],
+        "scramble": [
+          "ở trên cái giường.",
+          "Quả cam",
+          "ở đâu?",
+          "Con gấu bông",
+          "Cái cặp",
+          "- Nó"
+        ],
+        "hint": "Where is the teddy bear? - It is on the bed. → Con gấu bông ở đâu? - Nó ở trên cái giường.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 851,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "E",
+          "LE",
+          "P",
+          "HA",
+          "NT"
+        ],
+        "scramble": [
+          "P",
+          "LE",
+          "E",
+          "HA",
+          "NT"
+        ],
+        "hint": "Elephant → con voi",
+        "eraseFlag": 0
+      },
+      {
+        "id": 852,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "is",
+          "your",
+          "name?",
+          "- My",
+          "name",
+          "is",
+          "Long."
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "your",
+          "name?",
+          "- My",
+          "name",
+          "is",
+          "Long."
+        ],
+        "hint": "Bạn tên là gì? - Mình tên là Long. → What is your name? - My name is Long.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 853,
+        "audioUrl": "",
+        "question": "Quả cam ở đâu? - Nó ở trên cái bàn.",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the orange?",
+          "- It",
+          "is",
+          "on",
+          "the table."
+        ],
+        "scramble": [
+          "the orange?",
+          "Where",
+          "- It",
+          "is",
+          "is",
+          "the table.",
+          "are",
+          "on",
+          "the robot?"
+        ],
+        "hint": "Quả cam ở đâu? - Nó ở trên cái bàn. → Where is the orange? - It is on the table.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 854,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "colour",
+          "is",
+          "the crayon?",
+          "- It",
+          "is",
+          "brown."
+        ],
+        "scramble": [
+          "What",
+          "colour",
+          "is",
+          "are",
+          "the crayon?",
+          "- It",
+          "is",
+          "brown.",
+          "browm."
+        ],
+        "hint": "Cây bút sáp màu gì? - Nó màu nâu. → What colour is the crayon? - It is brown.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 855,
+        "audioUrl": "",
+        "question": "What is your name? - My name is Mia.",
+        "correctAnswer": [
+          "Bạn tên",
+          "là gì?",
+          "- Mình tên là",
+          "Mia."
+        ],
+        "scramble": [
+          "Ba.",
+          "là gì?",
+          "- Mình tên là",
+          "Bạn tên",
+          "Mia.",
+          "Rosy."
+        ],
+        "hint": "What is your name? - My name is Mia. → Bạn tên là gì? - Mình tên là Mia.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 856,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "C",
+          "RO",
+          "CO",
+          "DI",
+          "LE"
+        ],
+        "scramble": [
+          "C",
+          "LE",
+          "DI",
+          "CO",
+          "RO"
+        ],
+        "hint": "Crocodile → con cá sấu",
+        "eraseFlag": 0
+      },
+      {
+        "id": 857,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "is",
+          "your",
+          "name?",
+          "- My",
+          "name",
+          "is",
+          "Phong."
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "your",
+          "name?",
+          "- My",
+          "name",
+          "is",
+          "Phong."
+        ],
+        "hint": "Bạn tên là gì? - Mình tên là Phong. → What is your name? - My name is Phong.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 858,
+        "audioUrl": "",
+        "question": "Chiếc xe tải ở đâu? - Nó ở dưới cái bàn học.",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the truck?",
+          "- It",
+          "is",
+          "under",
+          "the desk."
+        ],
+        "scramble": [
+          "are",
+          "the truck?",
+          "the mango?",
+          "is",
+          "under",
+          "- It",
+          "the desk.",
+          "is",
+          "Where"
+        ],
+        "hint": "Chiếc xe tải ở đâu? - Nó ở dưới cái bàn học. → Where is the truck? - It is under the desk.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 859,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the train?",
+          "- It",
+          "is",
+          "under",
+          "the desk."
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "the train?",
+          "- It",
+          "is",
+          "are",
+          "under",
+          "the desk."
+        ],
+        "hint": "Đoàn tàu hỏa ở đâu? - Nó ở dưới cái bàn học. → Where is the train? - It is under the desk.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 860,
+        "audioUrl": "",
+        "question": "What is your name? - My name is Nga.",
+        "correctAnswer": [
+          "Bạn tên",
+          "là gì?",
+          "- Mình tên là",
+          "Nga."
+        ],
+        "scramble": [
+          "Mia.",
+          "Nga.",
+          "- Mình tên là",
+          "Bạn tên",
+          "là gì?",
+          "Eddie."
+        ],
+        "hint": "What is your name? - My name is Nga. → Bạn tên là gì? - Mình tên là Nga.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 861,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "LO",
+          "LL",
+          "I",
+          "PO",
+          "PS"
+        ],
+        "scramble": [
+          "PS",
+          "LO",
+          "PO",
+          "LL",
+          "I"
+        ],
+        "hint": "Lollipops → những cây kẹo mút",
+        "eraseFlag": 0
+      },
+      {
+        "id": 862,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "many",
+          "ants",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "four."
+        ],
+        "scramble": [
+          "How",
+          "many",
+          "ants",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "four."
+        ],
+        "hint": "Bạn nhìn thấy bao nhiêu con kiến? - Mình nhìn thấy bốn con. → How many ants can you see? - I can see four.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 863,
+        "audioUrl": "",
+        "question": "Bạn tên là gì? - Mình tên là Ba.",
+        "correctAnswer": [
+          "What",
+          "is",
+          "your",
+          "name?",
+          "- My",
+          "name",
+          "is",
+          "Ba."
+        ],
+        "scramble": [
+          "name?",
+          "you",
+          "your",
+          "is",
+          "- My",
+          "What",
+          "Ba.",
+          "names",
+          "is",
+          "name"
+        ],
+        "hint": "Bạn tên là gì? - Mình tên là Ba. → What is your name? - My name is Ba.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 864,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "colour",
+          "is",
+          "the notebook?",
+          "- It",
+          "is",
+          "purple."
+        ],
+        "scramble": [
+          "What",
+          "colour",
+          "colur",
+          "is",
+          "the notebook?",
+          "- It",
+          "is",
+          "purple.",
+          "purpel."
+        ],
+        "hint": "Quyển vở màu gì? - Nó màu tím. → What colour is the notebook? - It is purple.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 865,
+        "audioUrl": "",
+        "question": "What is your name? - My name is Tim.",
+        "correctAnswer": [
+          "Bạn tên",
+          "là gì?",
+          "- Mình tên là",
+          "Tim."
+        ],
+        "scramble": [
+          "là gì?",
+          "Bạn tên",
+          "- Mình tên là",
+          "Wendy.",
+          "Tim."
+        ],
+        "hint": "What is your name? - My name is Tim. → Bạn tên là gì? - Mình tên là Tim.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 866,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "CO",
+          "M",
+          "PU",
+          "TER",
+          "S"
+        ],
+        "scramble": [
+          "TER",
+          "CO",
+          "M",
+          "PU",
+          "S"
+        ],
+        "hint": "Computers → những cái máy tính",
+        "eraseFlag": 0
+      },
+      {
+        "id": 867,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "many",
+          "balls",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "four."
+        ],
+        "scramble": [
+          "How",
+          "many",
+          "balls",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "four."
+        ],
+        "hint": "Bạn nhìn thấy bao nhiêu quả bóng? - Mình nhìn thấy bốn quả. → How many balls can you see? - I can see four.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 868,
+        "audioUrl": "",
+        "question": "Bạn tên là gì? - Mình tên là Dan.",
+        "correctAnswer": [
+          "What",
+          "is",
+          "your",
+          "name?",
+          "- My",
+          "name",
+          "is",
+          "Dan."
+        ],
+        "scramble": [
+          "- My",
+          "is",
+          "name?",
+          "you",
+          "Dan.",
+          "What",
+          "your",
+          "name",
+          "is",
+          "names"
+        ],
+        "hint": "Bạn tên là gì? - Mình tên là Dan. → What is your name? - My name is Dan.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 869,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the teddy bear?",
+          "- It",
+          "is",
+          "on",
+          "the sofa."
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "are",
+          "the teddy bear?",
+          "- It",
+          "is",
+          "on",
+          "the sofa."
+        ],
+        "hint": "Con gấu bông ở đâu? - Nó ở trên ghế sô-pha. → Where is the teddy bear? - It is on the sofa.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 870,
+        "audioUrl": "",
+        "question": "What is your name? - My name is Katie.",
+        "correctAnswer": [
+          "Bạn tên",
+          "là gì?",
+          "- Mình tên là",
+          "Katie."
+        ],
+        "scramble": [
+          "Bạn tên",
+          "là gì?",
+          "Tim.",
+          "Katie.",
+          "Jenny.",
+          "- Mình tên là"
+        ],
+        "hint": "What is your name? - My name is Katie. → Bạn tên là gì? - Mình tên là Katie.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 871,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "PI",
+          "N",
+          "EA",
+          "PP",
+          "LE"
+        ],
+        "scramble": [
+          "PP",
+          "N",
+          "PI",
+          "EA",
+          "LE"
+        ],
+        "hint": "Pineapple → quả dứa",
+        "eraseFlag": 0
+      },
+      {
+        "id": 872,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "many",
+          "mice",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "seven."
+        ],
+        "scramble": [
+          "How",
+          "many",
+          "mice",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "seven."
+        ],
+        "hint": "Bạn nhìn thấy bao nhiêu con chuột? - Mình nhìn thấy bảy con. → How many mice can you see? - I can see seven.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 873,
+        "audioUrl": "",
+        "question": "Bạn tên là gì? - Mình tên là Polly.",
+        "correctAnswer": [
+          "What",
+          "is",
+          "your",
+          "name?",
+          "- My",
+          "name",
+          "is",
+          "Polly."
+        ],
+        "scramble": [
+          "names",
+          "you",
+          "is",
+          "What",
+          "name?",
+          "Polly.",
+          "is",
+          "your",
+          "- My",
+          "name"
+        ],
+        "hint": "Bạn tên là gì? - Mình tên là Polly. → What is your name? - My name is Polly.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 874,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "is",
+          "your",
+          "name?",
+          "- My",
+          "name",
+          "is",
+          "Rosy."
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "your",
+          "you",
+          "name?",
+          "- My",
+          "name",
+          "is",
+          "Rosy."
+        ],
+        "hint": "Bạn tên là gì? - Mình tên là Rosy. → What is your name? - My name is Rosy.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 875,
+        "audioUrl": "",
+        "question": "What is your name? - My name is Jenny.",
+        "correctAnswer": [
+          "Bạn tên",
+          "là gì?",
+          "- Mình tên là",
+          "Jenny."
+        ],
+        "scramble": [
+          "Phong.",
+          "là gì?",
+          "Bạn tên",
+          "Polly.",
+          "- Mình tên là",
+          "Jenny."
+        ],
+        "hint": "What is your name? - My name is Jenny. → Bạn tên là gì? - Mình tên là Jenny.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 876,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "PL",
+          "AYG",
+          "RO",
+          "UN",
+          "D"
+        ],
+        "scramble": [
+          "AYG",
+          "D",
+          "RO",
+          "PL",
+          "UN"
+        ],
+        "hint": "Playground → sân chơi",
+        "eraseFlag": 0
+      },
+      {
+        "id": 877,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "many",
+          "lions",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "eight."
+        ],
+        "scramble": [
+          "How",
+          "many",
+          "lions",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "eight."
+        ],
+        "hint": "Bạn nhìn thấy bao nhiêu con sư tử? - Mình nhìn thấy tám con. → How many lions can you see? - I can see eight.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 878,
+        "audioUrl": "",
+        "question": "Bạn tên là gì? - Mình tên là Wendy.",
+        "correctAnswer": [
+          "What",
+          "is",
+          "your",
+          "name?",
+          "- My",
+          "name",
+          "is",
+          "Wendy."
+        ],
+        "scramble": [
+          "name",
+          "What",
+          "is",
+          "names",
+          "Wendy.",
+          "your",
+          "you",
+          "name?",
+          "is",
+          "- My"
+        ],
+        "hint": "Bạn tên là gì? - Mình tên là Wendy. → What is your name? - My name is Wendy.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 879,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "many",
+          "cows",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "ten."
+        ],
+        "scramble": [
+          "How",
+          "many",
+          "much",
+          "cows",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "sea",
+          "ten."
+        ],
+        "hint": "Bạn nhìn thấy bao nhiêu con bò? - Mình nhìn thấy mười con. → How many cows can you see? - I can see ten.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 880,
+        "audioUrl": "",
+        "question": "How many robots can you see? - I can see nine.",
+        "correctAnswer": [
+          "Bạn nhìn thấy",
+          "bao nhiêu con rô-bốt?",
+          "- Mình nhìn thấy",
+          "chín con."
+        ],
+        "scramble": [
+          "bao nhiêu con rô-bốt?",
+          "- Mình nhìn thấy",
+          "chín con.",
+          "Bạn nhìn thấy",
+          "tám con.",
+          "bao nhiêu quả xoài?"
+        ],
+        "hint": "How many robots can you see? - I can see nine. → Bạn nhìn thấy bao nhiêu con rô-bốt? - Mình nhìn thấy chín con.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 881,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "SA",
+          "ND",
+          "WI",
+          "CH",
+          "ES"
+        ],
+        "scramble": [
+          "WI",
+          "SA",
+          "ND",
+          "ES",
+          "CH"
+        ],
+        "hint": "Sandwiches → những cái bánh mì kẹp",
+        "eraseFlag": 0
+      },
+      {
+        "id": 882,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "many",
+          "ducks",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "seven."
+        ],
+        "scramble": [
+          "How",
+          "many",
+          "ducks",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "seven."
+        ],
+        "hint": "Bạn nhìn thấy bao nhiêu con vịt? - Mình nhìn thấy bảy con. → How many ducks can you see? - I can see seven.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 883,
+        "audioUrl": "",
+        "question": "Bạn tên là gì? - Mình tên là Eddie.",
+        "correctAnswer": [
+          "What",
+          "is",
+          "your",
+          "name?",
+          "- My",
+          "name",
+          "is",
+          "Eddie."
+        ],
+        "scramble": [
+          "is",
+          "is",
+          "your",
+          "name?",
+          "names",
+          "you",
+          "name",
+          "What",
+          "- My",
+          "Eddie."
+        ],
+        "hint": "Bạn tên là gì? - Mình tên là Eddie. → What is your name? - My name is Eddie.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 884,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "many",
+          "pigs",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "five."
+        ],
+        "scramble": [
+          "How",
+          "many",
+          "much",
+          "pigs",
+          "pig",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "five."
+        ],
+        "hint": "Bạn nhìn thấy bao nhiêu con lợn? - Mình nhìn thấy năm con. → How many pigs can you see? - I can see five.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 885,
+        "audioUrl": "",
+        "question": "How many puzzles can you see? - I can see two.",
+        "correctAnswer": [
+          "Bạn nhìn thấy",
+          "bao nhiêu bộ xếp hình?",
+          "- Mình nhìn thấy",
+          "hai bộ."
+        ],
+        "scramble": [
+          "bao nhiêu quả dứa?",
+          "- Mình nhìn thấy",
+          "hai bộ.",
+          "Bạn nhìn thấy",
+          "tám con.",
+          "bao nhiêu bộ xếp hình?"
+        ],
+        "hint": "How many puzzles can you see? - I can see two. → Bạn nhìn thấy bao nhiêu bộ xếp hình? - Mình nhìn thấy hai bộ.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 886,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "WA",
+          "TER",
+          "ME",
+          "LO",
+          "N"
+        ],
+        "scramble": [
+          "ME",
+          "TER",
+          "WA",
+          "LO",
+          "N"
+        ],
+        "hint": "Watermelon → quả dưa hấu",
+        "eraseFlag": 0
+      },
+      {
+        "id": 887,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "many",
+          "foxes",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "eight."
+        ],
+        "scramble": [
+          "How",
+          "many",
+          "foxes",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "eight."
+        ],
+        "hint": "Bạn nhìn thấy bao nhiêu con cáo? - Mình nhìn thấy tám con. → How many foxes can you see? - I can see eight.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 888,
+        "audioUrl": "",
+        "question": "Bạn nhìn thấy bao nhiêu con quay? - Mình nhìn thấy tám con.",
+        "correctAnswer": [
+          "How",
+          "many",
+          "tops",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "eight."
+        ],
+        "scramble": [
+          "you",
+          "eight.",
+          "can",
+          "top",
+          "many",
+          "see",
+          "much",
+          "- I can",
+          "see?",
+          "How",
+          "tops"
+        ],
+        "hint": "Bạn nhìn thấy bao nhiêu con quay? - Mình nhìn thấy tám con. → How many tops can you see? - I can see eight.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 889,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "many",
+          "trains",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "ten."
+        ],
+        "scramble": [
+          "How",
+          "many",
+          "trains",
+          "train",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "sea",
+          "ten."
+        ],
+        "hint": "Bạn nhìn thấy bao nhiêu đoàn tàu hỏa? - Mình nhìn thấy mười đoàn. → How many trains can you see? - I can see ten.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 890,
+        "audioUrl": "",
+        "question": "How many mangoes can you see? - I can see eight.",
+        "correctAnswer": [
+          "Bạn nhìn thấy",
+          "bao nhiêu quả xoài?",
+          "- Mình nhìn thấy",
+          "tám quả."
+        ],
+        "scramble": [
+          "tám quả.",
+          "Bạn nhìn thấy",
+          "bao nhiêu quả xoài?",
+          "bảy quả.",
+          "hai con.",
+          "- Mình nhìn thấy"
+        ],
+        "hint": "How many mangoes can you see? - I can see eight. → Bạn nhìn thấy bao nhiêu quả xoài? - Mình nhìn thấy tám quả.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 891,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "CRO",
+          "CO",
+          "DI",
+          "LE",
+          "S"
+        ],
+        "scramble": [
+          "DI",
+          "CO",
+          "CRO",
+          "LE",
+          "S"
+        ],
+        "hint": "Crocodiles → những con cá sấu",
+        "eraseFlag": 0
+      },
+      {
+        "id": 892,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "many",
+          "balloons",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "ten."
+        ],
+        "scramble": [
+          "How",
+          "many",
+          "balloons",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "ten."
+        ],
+        "hint": "Bạn nhìn thấy bao nhiêu quả bóng bay? - Mình nhìn thấy mười quả. → How many balloons can you see? - I can see ten.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 893,
+        "audioUrl": "",
+        "question": "Bạn nhìn thấy bao nhiêu con ngỗng? - Mình nhìn thấy tám con.",
+        "correctAnswer": [
+          "How",
+          "many",
+          "geese",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "eight."
+        ],
+        "scramble": [
+          "geese",
+          "see",
+          "can",
+          "you",
+          "- I can",
+          "goose",
+          "many",
+          "much",
+          "eight.",
+          "see?",
+          "How"
+        ],
+        "hint": "Bạn nhìn thấy bao nhiêu con ngỗng? - Mình nhìn thấy tám con. → How many geese can you see? - I can see eight.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 894,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "many",
+          "cars",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "seven."
+        ],
+        "scramble": [
+          "How",
+          "many",
+          "much",
+          "cars",
+          "car",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "seven."
+        ],
+        "hint": "Bạn nhìn thấy bao nhiêu chiếc ô tô? - Mình nhìn thấy bảy chiếc. → How many cars can you see? - I can see seven.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 895,
+        "audioUrl": "",
+        "question": "How many kittens can you see? - I can see eight.",
+        "correctAnswer": [
+          "Bạn nhìn thấy",
+          "bao nhiêu con mèo con?",
+          "- Mình nhìn thấy",
+          "tám con."
+        ],
+        "scramble": [
+          "bao nhiêu con mèo con?",
+          "bao nhiêu quả bóng bay?",
+          "mười con.",
+          "- Mình nhìn thấy",
+          "Bạn nhìn thấy",
+          "tám con."
+        ],
+        "hint": "How many kittens can you see? - I can see eight. → Bạn nhìn thấy bao nhiêu con mèo con? - Mình nhìn thấy tám con.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 896,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "WA",
+          "TER",
+          "ME",
+          "LO",
+          "NS"
+        ],
+        "scramble": [
+          "NS",
+          "WA",
+          "LO",
+          "ME",
+          "TER"
+        ],
+        "hint": "Watermelons → những quả dưa hấu",
+        "eraseFlag": 0
+      },
+      {
+        "id": 897,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "many",
+          "crocodiles",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "two."
+        ],
+        "scramble": [
+          "How",
+          "many",
+          "crocodiles",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "two."
+        ],
+        "hint": "Bạn nhìn thấy bao nhiêu con cá sấu? - Mình nhìn thấy hai con. → How many crocodiles can you see? - I can see two.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 898,
+        "audioUrl": "",
+        "question": "Bạn nhìn thấy bao nhiêu con gấu trúc? - Mình nhìn thấy tám con.",
+        "correctAnswer": [
+          "How",
+          "many",
+          "pandas",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "eight."
+        ],
+        "scramble": [
+          "you",
+          "- I can",
+          "pandas",
+          "see",
+          "can",
+          "eight.",
+          "much",
+          "panda",
+          "many",
+          "see?",
+          "How"
+        ],
+        "hint": "Bạn nhìn thấy bao nhiêu con gấu trúc? - Mình nhìn thấy tám con. → How many pandas can you see? - I can see eight.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 899,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "many",
+          "horses",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "seven."
+        ],
+        "scramble": [
+          "How",
+          "many",
+          "much",
+          "horses",
+          "horse",
+          "can",
+          "you",
+          "see?",
+          "- I can",
+          "see",
+          "seven."
+        ],
+        "hint": "Bạn nhìn thấy bao nhiêu con ngựa? - Mình nhìn thấy bảy con. → How many horses can you see? - I can see seven.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 900,
+        "audioUrl": "",
+        "question": "How many elephants can you see? - I can see two.",
+        "correctAnswer": [
+          "Bạn nhìn thấy",
+          "bao nhiêu con voi?",
+          "- Mình nhìn thấy",
+          "hai con."
+        ],
+        "scramble": [
+          "- Mình nhìn thấy",
+          "Bạn nhìn thấy",
+          "tám con.",
+          "hai con.",
+          "bao nhiêu con ngỗng?",
+          "bao nhiêu con voi?"
+        ],
+        "hint": "How many elephants can you see? - I can see two. → Bạn nhìn thấy bao nhiêu con voi? - Mình nhìn thấy hai con.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 1701,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "Does",
+          "likes"
+        ],
+        "scramble": [
+          "Do",
+          "Does",
+          "you",
+          "like",
+          "likes",
+          "grapes?",
+          "- No, I",
+          "do not."
+        ],
+        "hint": "Bạn có thích nho không? - Không, mình không thích. → Do you like grapes? - No, I do not.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1702,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "chiken?",
+          "Does",
+          "likes"
+        ],
+        "scramble": [
+          "Do",
+          "Does",
+          "you",
+          "like",
+          "likes",
+          "chicken?",
+          "chiken?",
+          "- No, I",
+          "do not."
+        ],
+        "hint": "Bạn có thích thịt gà không? - Không, mình không thích. → Do you like chicken? - No, I do not.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1703,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "Does",
+          "likes"
+        ],
+        "scramble": [
+          "Do",
+          "Does",
+          "you",
+          "like",
+          "likes",
+          "cookies?",
+          "- No, I",
+          "do not."
+        ],
+        "hint": "Bạn có thích bánh quy không? - Không, mình không thích. → Do you like cookies? - No, I do not.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1704,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "likes",
+          "Does"
+        ],
+        "scramble": [
+          "Do",
+          "Does",
+          "you",
+          "like",
+          "likes",
+          "ice cream?",
+          "- No, I",
+          "do not."
+        ],
+        "hint": "Bạn có thích kem không? - Không, mình không thích. → Do you like ice cream? - No, I do not.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1705,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "plays",
+          "your"
+        ],
+        "scramble": [
+          "Can",
+          "you",
+          "your",
+          "play",
+          "plays",
+          "football?",
+          "- No, I",
+          "cannot."
+        ],
+        "hint": "Bạn có thể chơi bóng đá không? - Không, mình không thể. → Can you play football? - No, I cannot.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1706,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "Are"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "net?",
+          "- Yes,",
+          "it",
+          "is."
+        ],
+        "hint": "Đó có phải là cái lưới không? - Đúng vậy. → Is it a net? - Yes, it is.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1707,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "Are",
+          "an"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "dog?",
+          "- Yes,",
+          "it",
+          "is."
+        ],
+        "hint": "Đó có phải là con chó không? - Đúng vậy. → Is it a dog? - Yes, it is.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1708,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "hene?",
+          "Are",
+          "an"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "hen?",
+          "hene?",
+          "- Yes,",
+          "it",
+          "is."
+        ],
+        "hint": "Đó có phải là con gà mái không? - Đúng vậy. → Is it a hen? - Yes, it is.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1709,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "Are",
+          "an"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "pig?",
+          "- Yes,",
+          "it",
+          "is."
+        ],
+        "hint": "Đó có phải là con lợn không? - Đúng vậy. → Is it a pig? - Yes, it is.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1710,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "fis?",
+          "an",
+          "Are"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "fish?",
+          "fis?",
+          "- Yes,",
+          "it",
+          "is."
+        ],
+        "hint": "Đó có phải là con cá không? - Đúng vậy. → Is it a fish? - Yes, it is.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1711,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "gaot?",
+          "Are",
+          "an"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "goat?",
+          "gaot?",
+          "- Yes,",
+          "it",
+          "is."
+        ],
+        "hint": "Đó có phải là con dê không? - Đúng vậy. → Is it a goat? - Yes, it is.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1712,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "sics.",
+          "is",
+          "Who"
+        ],
+        "scramble": [
+          "How",
+          "Who",
+          "old",
+          "are",
+          "is",
+          "you?",
+          "- I",
+          "am",
+          "six.",
+          "sics."
+        ],
+        "hint": "Bạn bao nhiêu tuổi? - Mình sáu tuổi. → How old are you? - I am six.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1713,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are",
+          "an",
+          "hene."
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "hen.",
+          "hene."
+        ],
+        "hint": "Đây là cái gì? - Đó là một con gà mái. → What is this? - It is a hen.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1714,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are",
+          "an"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "cow."
+        ],
+        "hint": "Đây là cái gì? - Đó là một con bò. → What is this? - It is a cow.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1715,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are",
+          "kar."
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "car.",
+          "kar."
+        ],
+        "hint": "Đây là cái gì? - Đó là một chiếc ô tô. → What is this? - It is a car.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1716,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "bus."
+        ],
+        "hint": "Đây là cái gì? - Đó là một chiếc xe buýt. → What is this? - It is a bus.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1717,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "top."
+        ],
+        "hint": "Đây là cái gì? - Đó là một con quay. → What is this? - It is a top.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1718,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "Are",
+          "zebre?"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "zebra?",
+          "zebre?",
+          "- Yes,",
+          "it",
+          "is."
+        ],
+        "hint": "Đó có phải là con ngựa vằn không? - Đúng vậy. → Is it a zebra? - Yes, it is.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1719,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "fox."
+        ],
+        "hint": "Đây là cái gì? - Đó là một con cáo. → What is this? - It is a fox.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1720,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "Are",
+          "shep?"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "sheep?",
+          "shep?",
+          "- Yes,",
+          "it",
+          "is."
+        ],
+        "hint": "Đó có phải là con cừu không? - Đúng vậy. → Is it a sheep? - Yes, it is.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1721,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "Who",
+          "is"
+        ],
+        "scramble": [
+          "How",
+          "Who",
+          "old",
+          "are",
+          "you?",
+          "- I",
+          "am",
+          "is",
+          "ten."
+        ],
+        "hint": "Bạn bao nhiêu tuổi? - Mình mười tuổi. → How old are you? - I am ten.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1722,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "goat."
+        ],
+        "hint": "Đây là cái gì? - Đó là một con dê. → What is this? - It is a goat.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1723,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are",
+          "a"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "an",
+          "a",
+          "owl."
+        ],
+        "hint": "Đây là cái gì? - Đó là một con cú. → What is this? - It is an owl.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1724,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "flag."
+        ],
+        "hint": "Đây là cái gì? - Đó là một lá cờ. → What is this? - It is a flag.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1725,
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/isitaturtleyesitis.mp3",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "turtel?",
+          "Are",
+          "an"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "turtle?",
+          "turtel?",
+          "- Yes,",
+          "it",
+          "is."
+        ],
+        "hint": "Đó có phải là con rùa không? - Đúng vậy. → Is it a turtle? - Yes, it is.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1726,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "Are",
+          "an"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "puppet?",
+          "- Yes,",
+          "it",
+          "is."
+        ],
+        "hint": "Đó có phải là con rối không? - Đúng vậy. → Is it a puppet? - Yes, it is.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1727,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are",
+          "an"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "kite."
+        ],
+        "hint": "Đây là cái gì? - Đó là một con diều. → What is this? - It is a kite.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1728,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "Are"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "kitten?",
+          "- Yes,",
+          "it",
+          "is."
+        ],
+        "hint": "Đó có phải là con mèo con không? - Đúng vậy. → Is it a kitten? - Yes, it is.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1729,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "Who",
+          "is",
+          "fiv."
+        ],
+        "scramble": [
+          "How",
+          "Who",
+          "old",
+          "are",
+          "is",
+          "you?",
+          "- I",
+          "am",
+          "five.",
+          "fiv."
+        ],
+        "hint": "Bạn bao nhiêu tuổi? - Mình năm tuổi. → How old are you? - I am five.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1730,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "boat."
+        ],
+        "hint": "Đây là cái gì? - Đó là một chiếc thuyền. → What is this? - It is a boat.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1731,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "brid.",
+          "an",
+          "are"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "bird.",
+          "brid."
+        ],
+        "hint": "Đây là cái gì? - Đó là một con chim. → What is this? - It is a bird.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1732,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "Are",
+          "an"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "car?",
+          "- No,",
+          "it",
+          "is not."
+        ],
+        "hint": "Đó có phải là chiếc ô tô không? - Không phải. → Is it a car? - No, it is not.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1733,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are",
+          "an"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "frog."
+        ],
+        "hint": "Đây là cái gì? - Đó là một con ếch. → What is this? - It is a frog.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1734,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "kat?",
+          "Are",
+          "an"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "cat?",
+          "kat?",
+          "- No,",
+          "it",
+          "is not."
+        ],
+        "hint": "Đó có phải là con mèo không? - Không phải. → Is it a cat? - No, it is not.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1735,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are",
+          "lioon."
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "lion.",
+          "lioon."
+        ],
+        "hint": "Đây là cái gì? - Đó là một con sư tử. → What is this? - It is a lion.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1736,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "Are",
+          "an"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "top?",
+          "- No,",
+          "it",
+          "is not."
+        ],
+        "hint": "Đó có phải là con quay không? - Không phải. → Is it a top? - No, it is not.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1737,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are",
+          "an",
+          "bok."
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "book.",
+          "bok."
+        ],
+        "hint": "Đây là cái gì? - Đó là một quyển sách. → What is this? - It is a book.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1738,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are",
+          "baer."
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "bear.",
+          "baer."
+        ],
+        "hint": "Đây là cái gì? - Đó là một con gấu. → What is this? - It is a bear.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1739,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are",
+          "an"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "bike."
+        ],
+        "hint": "Đây là cái gì? - Đó là một chiếc xe đạp. → What is this? - It is a bike.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1740,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "drum."
+        ],
+        "hint": "Đây là cái gì? - Đó là một cái trống. → What is this? - It is a drum.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1741,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "Are",
+          "brid?"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "bird?",
+          "brid?",
+          "- No,",
+          "it",
+          "is not."
+        ],
+        "hint": "Đó có phải là con chim không? - Không phải. → Is it a bird? - No, it is not.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1742,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "mouse."
+        ],
+        "hint": "Đây là cái gì? - Đó là một con chuột. → What is this? - It is a mouse.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1743,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "panda."
+        ],
+        "hint": "Đây là cái gì? - Đó là một con gấu trúc. → What is this? - It is a panda.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1744,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are",
+          "an",
+          "trian."
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "train.",
+          "trian."
+        ],
+        "hint": "Đây là cái gì? - Đó là một đoàn tàu hỏa. → What is this? - It is a train.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1745,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are",
+          "tigar.",
+          "an"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "tiger.",
+          "tigar."
+        ],
+        "hint": "Đây là cái gì? - Đó là một con hổ. → What is this? - It is a tiger.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1746,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "Are",
+          "boet?",
+          "an"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "boat?",
+          "boet?",
+          "- No,",
+          "it",
+          "is not."
+        ],
+        "hint": "Đó có phải là chiếc thuyền không? - Không phải. → Is it a boat? - No, it is not.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1747,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "Who",
+          "is"
+        ],
+        "scramble": [
+          "How",
+          "Who",
+          "old",
+          "are",
+          "you?",
+          "- I",
+          "am",
+          "is",
+          "seven."
+        ],
+        "hint": "Bạn bao nhiêu tuổi? - Mình bảy tuổi. → How old are you? - I am seven.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1748,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are",
+          "an"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "goose."
+        ],
+        "hint": "Đây là cái gì? - Đó là một con ngỗng. → What is this? - It is a goose.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1749,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "trian?",
+          "Are",
+          "an"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "train?",
+          "trian?",
+          "- No,",
+          "it",
+          "is not."
+        ],
+        "hint": "Đó có phải là đoàn tàu hỏa không? - Không phải. → Is it a train? - No, it is not.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1750,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are",
+          "have"
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Ba.",
+          "He",
+          "has",
+          "have",
+          "a",
+          "an",
+          "green pen."
+        ],
+        "hint": "Đây là Ba. Cậu ấy có một cái bút mực màu xanh lá. → This is Ba. He has a green pen.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1751,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "plaen?",
+          "Are"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "plane?",
+          "plaen?",
+          "- No,",
+          "it",
+          "is not."
+        ],
+        "hint": "Đó có phải là chiếc máy bay không? - Không phải. → Is it a plane? - No, it is not.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1752,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "puzzle."
+        ],
+        "hint": "Đây là cái gì? - Đó là một bộ xếp hình. → What is this? - It is a puzzle.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1753,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "turtel.",
+          "are",
+          "an"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "turtle.",
+          "turtel."
+        ],
+        "hint": "Đây là cái gì? - Đó là một con rùa. → What is this? - It is a turtle.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1754,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are",
+          "red dol."
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Dan.",
+          "He",
+          "has",
+          "a",
+          "an",
+          "red doll.",
+          "red dol."
+        ],
+        "hint": "Đây là Dan. Cậu ấy có một con búp bê màu đỏ. → This is Dan. He has a red doll.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1755,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "Are"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "mouse?",
+          "- No,",
+          "it",
+          "is not."
+        ],
+        "hint": "Đó có phải là con chuột không? - Không phải. → Is it a mouse? - No, it is not.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1756,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "have",
+          "are",
+          "an"
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Dan.",
+          "He",
+          "has",
+          "have",
+          "a",
+          "an",
+          "blue ball."
+        ],
+        "hint": "Đây là Dan. Cậu ấy có một quả bóng màu xanh dương. → This is Dan. He has a blue ball.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1757,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "baloon.",
+          "are"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "balloon.",
+          "baloon."
+        ],
+        "hint": "Đây là cái gì? - Đó là một quả bóng bay. → What is this? - It is a balloon.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1758,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "have",
+          "an",
+          "are"
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Eddie.",
+          "He",
+          "has",
+          "have",
+          "a",
+          "an",
+          "red jug."
+        ],
+        "hint": "Đây là Eddie. Cậu ấy có một cái bình màu đỏ. → This is Eddie. He has a red jug.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1759,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "gren net.",
+          "an",
+          "have"
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "Dan.",
+          "He",
+          "has",
+          "have",
+          "a",
+          "an",
+          "green net.",
+          "gren net."
+        ],
+        "hint": "Đây là Dan. Cậu ấy có một cái lưới màu xanh lá. → This is Dan. He has a green net.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1760,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are",
+          "an"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "giraffe."
+        ],
+        "hint": "Đây là cái gì? - Đó là một con hươu cao cổ. → What is this? - It is a giraffe.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1761,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "have",
+          "an",
+          "are"
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Lan.",
+          "She",
+          "has",
+          "have",
+          "a",
+          "an",
+          "pink can."
+        ],
+        "hint": "Đây là Lan. Cô ấy có một cái lon màu hồng. → This is Lan. She has a pink can.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1762,
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/isitateddybearyesitis.mp3",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "Are",
+          "an",
+          "teddy baer?"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "teddy bear?",
+          "teddy baer?",
+          "- Yes,",
+          "it",
+          "is."
+        ],
+        "hint": "Đó có phải là con gấu bông không? - Đúng vậy. → Is it a teddy bear? - Yes, it is.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1763,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "Are"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "balloon?",
+          "- No,",
+          "it",
+          "is not."
+        ],
+        "hint": "Đó có phải là quả bóng bay không? - Không phải. → Is it a balloon? - No, it is not.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1764,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "have",
+          "are",
+          "an"
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Ben.",
+          "He",
+          "has",
+          "have",
+          "a",
+          "an",
+          "purple cap."
+        ],
+        "hint": "Đây là Ben. Cậu ấy có một cái mũ lưỡi trai màu tím. → This is Ben. He has a purple cap.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1765,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "flying",
+          "your"
+        ],
+        "scramble": [
+          "Can",
+          "you",
+          "your",
+          "fly",
+          "flying",
+          "a",
+          "kite?",
+          "- Yes, I",
+          "can."
+        ],
+        "hint": "Bạn có thể thả diều không? - Có, mình có thể. → Can you fly a kite? - Yes, I can.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1766,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are",
+          "an"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "kangaroo."
+        ],
+        "hint": "Đây là cái gì? - Đó là một con chuột túi. → What is this? - It is a kangaroo.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1767,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "have",
+          "an",
+          "brown bedd."
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "Long.",
+          "He",
+          "has",
+          "have",
+          "a",
+          "an",
+          "brown bed.",
+          "brown bedd."
+        ],
+        "hint": "Đây là Long. Cậu ấy có một cái giường màu nâu. → This is Long. He has a brown bed.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1768,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "Are",
+          "an"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "giraffe?",
+          "- No,",
+          "it",
+          "is not."
+        ],
+        "hint": "Đó có phải là con hươu cao cổ không? - Không phải. → Is it a giraffe? - No, it is not.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1769,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "red dexk.",
+          "are"
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Linh.",
+          "She",
+          "has",
+          "a",
+          "an",
+          "red desk.",
+          "red dexk."
+        ],
+        "hint": "Đây là Linh. Cô ấy có một cái bàn học màu đỏ. → This is Linh. She has a red desk.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1770,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are",
+          "have"
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Hoa.",
+          "She",
+          "has",
+          "have",
+          "a",
+          "an",
+          "yellow pot."
+        ],
+        "hint": "Đây là Hoa. Cô ấy có một cái nồi màu vàng. → This is Hoa. She has a yellow pot.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1771,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are",
+          "have"
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Mary.",
+          "She",
+          "has",
+          "have",
+          "a",
+          "an",
+          "blue lock."
+        ],
+        "hint": "Đây là Mary. Cô ấy có một cái ổ khóa màu xanh dương. → This is Mary. She has a blue lock.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1772,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "have",
+          "are"
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Mai.",
+          "She",
+          "has",
+          "have",
+          "a",
+          "an",
+          "purple bag."
+        ],
+        "hint": "Đây là Mai. Cô ấy có một cái cặp màu tím. → This is Mai. She has a purple bag.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1773,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "elefant?",
+          "Are",
+          "a"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "an",
+          "a",
+          "elephant?",
+          "elefant?",
+          "- No,",
+          "it",
+          "is not."
+        ],
+        "hint": "Đó có phải là con voi không? - Không phải. → Is it an elephant? - No, it is not.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1774,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "watermelon."
+        ],
+        "hint": "Đây là cái gì? - Đó là một quả dưa hấu. → What is this? - It is a watermelon.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1775,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "are",
+          "this?",
+          "- It",
+          "is",
+          "a",
+          "an",
+          "teddy bear."
+        ],
+        "hint": "Đây là cái gì? - Đó là một con gấu bông. → What is this? - It is a teddy bear.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1776,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are",
+          "have",
+          "an"
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Eddie.",
+          "He",
+          "has",
+          "have",
+          "a",
+          "an",
+          "yellow mop."
+        ],
+        "hint": "Đây là Eddie. Cậu ấy có một cây lau nhà màu vàng. → This is Eddie. He has a yellow mop.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1777,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "have",
+          "an",
+          "are"
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Lucy.",
+          "She",
+          "has",
+          "have",
+          "a",
+          "an",
+          "purple hat."
+        ],
+        "hint": "Đây là Lucy. Cô ấy có một cái mũ màu tím. → This is Lucy. She has a purple hat.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1778,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are",
+          "have",
+          "an"
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Nick.",
+          "He",
+          "has",
+          "have",
+          "a",
+          "an",
+          "pink puzzle."
+        ],
+        "hint": "Đây là Nick. Cậu ấy có một bộ xếp hình màu hồng. → This is Nick. He has a pink puzzle.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1779,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "Are",
+          "an"
+        ],
+        "scramble": [
+          "Is",
+          "Are",
+          "it",
+          "a",
+          "an",
+          "crocodile?",
+          "- No,",
+          "it",
+          "is not."
+        ],
+        "hint": "Đó có phải là con cá sấu không? - Không phải. → Is it a crocodile? - No, it is not.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1780,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are",
+          "an",
+          "blak T-shirt."
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Tom.",
+          "He",
+          "has",
+          "a",
+          "an",
+          "black T-shirt.",
+          "blak T-shirt."
+        ],
+        "hint": "Đây là Tom. Cậu ấy có một cái áo phông màu đen. → This is Tom. He has a black T-shirt.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1781,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "redd.",
+          "are",
+          "colur"
+        ],
+        "scramble": [
+          "What",
+          "colour",
+          "colur",
+          "is",
+          "are",
+          "the bag?",
+          "- It",
+          "is",
+          "red.",
+          "redd."
+        ],
+        "hint": "Cái cặp màu gì? - Nó màu đỏ. → What colour is the bag? - It is red.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1782,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "redd.",
+          "colur",
+          "are"
+        ],
+        "scramble": [
+          "What",
+          "colour",
+          "colur",
+          "is",
+          "are",
+          "the mop?",
+          "- It",
+          "is",
+          "red.",
+          "redd."
+        ],
+        "hint": "Cây lau nhà màu gì? - Nó màu đỏ. → What colour is the mop? - It is red.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1783,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are",
+          "have"
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Bill.",
+          "He",
+          "has",
+          "have",
+          "a",
+          "an",
+          "pink balloon."
+        ],
+        "hint": "Đây là Bill. Cậu ấy có một quả bóng bay màu hồng. → This is Bill. He has a pink balloon.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1784,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are",
+          "redd.",
+          "colur"
+        ],
+        "scramble": [
+          "What",
+          "colour",
+          "colur",
+          "is",
+          "are",
+          "the can?",
+          "- It",
+          "is",
+          "red.",
+          "redd."
+        ],
+        "hint": "Cái lon màu gì? - Nó màu đỏ. → What colour is the can? - It is red.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1785,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "have",
+          "an",
+          "are"
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Jenny.",
+          "She",
+          "has",
+          "have",
+          "a",
+          "an",
+          "green flag."
+        ],
+        "hint": "Đây là Jenny. Cô ấy có một lá cờ màu xanh lá. → This is Jenny. She has a green flag.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1786,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "are",
+          "have"
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Linh.",
+          "She",
+          "has",
+          "have",
+          "a",
+          "an",
+          "black skirt."
+        ],
+        "hint": "Đây là Linh. Cô ấy có một cái chân váy màu đen. → This is Linh. She has a black skirt.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1787,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "the bagg.",
+          "are"
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "the hat?",
+          "- It",
+          "is",
+          "are",
+          "in",
+          "the bag.",
+          "the bagg."
+        ],
+        "hint": "Cái mũ ở đâu? - Nó ở trong cái cặp. → Where is the hat? - It is in the bag.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1788,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "an",
+          "have",
+          "are"
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Hoa.",
+          "She",
+          "has",
+          "have",
+          "a",
+          "an",
+          "purple crayon."
+        ],
+        "hint": "Đây là Hoa. Cô ấy có một cây bút sáp màu tím. → This is Hoa. She has a purple crayon.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1789,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are",
+          "the bagg."
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "the egg?",
+          "- It",
+          "is",
+          "are",
+          "in",
+          "the bag.",
+          "the bagg."
+        ],
+        "hint": "Quả trứng ở đâu? - Nó ở trong cái cặp. → Where is the egg? - It is in the bag.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1790,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are"
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "are",
+          "the top?",
+          "- It",
+          "is",
+          "on",
+          "the bed."
+        ],
+        "hint": "Con quay ở đâu? - Nó ở trên cái giường. → Where is the top? - It is on the bed.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1791,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "have",
+          "an",
+          "are"
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "are",
+          "Rosy.",
+          "She",
+          "has",
+          "have",
+          "a",
+          "an",
+          "black candle."
+        ],
+        "hint": "Đây là Rosy. Cô ấy có một cây nến màu đen. → This is Rosy. She has a black candle.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1792,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are"
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "the pen?",
+          "- It",
+          "is",
+          "are",
+          "in",
+          "the bag."
+        ],
+        "hint": "Cái bút mực ở đâu? - Nó ở trong cái cặp. → Where is the pen? - It is in the bag.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1793,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "gren.",
+          "are",
+          "colur"
+        ],
+        "scramble": [
+          "What",
+          "colour",
+          "colur",
+          "is",
+          "are",
+          "the bed?",
+          "- It",
+          "is",
+          "green.",
+          "gren."
+        ],
+        "hint": "Cái giường màu gì? - Nó màu xanh lá. → What colour is the bed? - It is green.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1794,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "the boks.",
+          "are"
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "the cake?",
+          "- It",
+          "is",
+          "are",
+          "in",
+          "the box.",
+          "the boks."
+        ],
+        "hint": "Cái bánh ngọt ở đâu? - Nó ở trong cái hộp. → Where is the cake? - It is in the box.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1795,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are",
+          "colur",
+          "blak."
+        ],
+        "scramble": [
+          "What",
+          "colour",
+          "colur",
+          "is",
+          "are",
+          "the top?",
+          "- It",
+          "is",
+          "black.",
+          "blak."
+        ],
+        "hint": "Con quay màu gì? - Nó màu đen. → What colour is the top? - It is black.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1796,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are",
+          "orenge.",
+          "the het?"
+        ],
+        "scramble": [
+          "What",
+          "colour",
+          "is",
+          "are",
+          "the hat?",
+          "the het?",
+          "- It",
+          "is",
+          "orange.",
+          "orenge."
+        ],
+        "hint": "Cái mũ màu gì? - Nó màu cam. → What colour is the hat? - It is orange.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1797,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "colur",
+          "orenge.",
+          "are"
+        ],
+        "scramble": [
+          "What",
+          "colour",
+          "colur",
+          "is",
+          "are",
+          "the key?",
+          "- It",
+          "is",
+          "orange.",
+          "orenge."
+        ],
+        "hint": "Cái chìa khóa màu gì? - Nó màu cam. → What colour is the key? - It is orange.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1798,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "the chiar.",
+          "are"
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "the car?",
+          "- It",
+          "is",
+          "are",
+          "on",
+          "the chair.",
+          "the chiar."
+        ],
+        "hint": "Chiếc ô tô ở đâu? - Nó ở trên cái ghế. → Where is the car? - It is on the chair.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1799,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are",
+          "the tabel?",
+          "colur"
+        ],
+        "scramble": [
+          "What",
+          "colour",
+          "colur",
+          "is",
+          "are",
+          "the table?",
+          "the tabel?",
+          "- It",
+          "is",
+          "blue."
+        ],
+        "hint": "Cái bàn màu gì? - Nó màu xanh dương. → What colour is the table? - It is blue.",
+        "eraseFlag": 1
+      },
+      {
+        "id": 1800,
+        "audioUrl": "",
+        "question": "Select the extra characters/words in the context.",
+        "correctAnswer": [
+          "are"
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "the bag?",
+          "- It",
+          "is",
+          "are",
+          "on",
+          "the chair."
+        ],
+        "hint": "Cái cặp ở đâu? - Nó ở trên cái ghế. → Where is the bag? - It is on the chair.",
         "eraseFlag": 1
       }
     ]

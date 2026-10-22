@@ -17654,5 +17654,2212 @@
         "hint": "The robot is under the table. - Con rô-bốt ở dưới cái bàn.\nThe robot is in the box. - Con rô-bốt ở trong cái hộp.\nThe robot is under the chair. - Con rô-bốt ở dưới cái ghế.\nThe robot is on the bed. - Con rô-bốt ở trên cái giường."
       }
     ]
+  },
+  {
+    "id": 9,
+    "text": "In the park",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/unit8.png",
+    "scenes": [
+      {
+        "id": 801,
+        "title": [
+          {
+            "en": "The pen is on the chair.",
+            "vi": "Cái bút mực ở trên cái ghế."
+          },
+          {
+            "en": "The pen is under the desk.",
+            "vi": "Cái bút mực ở dưới cái bàn học."
+          },
+          {
+            "en": "The pen is on the bed.",
+            "vi": "Cái bút mực ở trên cái giường."
+          },
+          {
+            "en": "The pen is in the box.",
+            "vi": "Cái bút mực ở trong cái hộp."
+          }
+        ],
+        "hint": "The pen is on the chair. - Cái bút mực ở trên cái ghế.\nThe pen is under the desk. - Cái bút mực ở dưới cái bàn học.\nThe pen is on the bed. - Cái bút mực ở trên cái giường.\nThe pen is in the box. - Cái bút mực ở trong cái hộp."
+      },
+      {
+        "id": 802,
+        "title": [
+          {
+            "en": "The cat is on the desk.",
+            "vi": "Con mèo ở trên cái bàn học."
+          },
+          {
+            "en": "The cat is on the bed.",
+            "vi": "Con mèo ở trên cái giường."
+          },
+          {
+            "en": "The cat is under the bed.",
+            "vi": "Con mèo ở dưới cái giường."
+          },
+          {
+            "en": "The cat is under the table.",
+            "vi": "Con mèo ở dưới cái bàn."
+          }
+        ],
+        "hint": "The cat is on the desk. - Con mèo ở trên cái bàn học.\nThe cat is on the bed. - Con mèo ở trên cái giường.\nThe cat is under the bed. - Con mèo ở dưới cái giường.\nThe cat is under the table. - Con mèo ở dưới cái bàn."
+      },
+      {
+        "id": 803,
+        "title": [
+          {
+            "en": "The teddy bear is under the chair.",
+            "vi": "Con gấu bông ở dưới cái ghế."
+          },
+          {
+            "en": "The teddy bear is in the bag.",
+            "vi": "Con gấu bông ở trong cái cặp."
+          },
+          {
+            "en": "The teddy bear is under the desk.",
+            "vi": "Con gấu bông ở dưới cái bàn học."
+          },
+          {
+            "en": "The teddy bear is on the box.",
+            "vi": "Con gấu bông ở trên cái hộp."
+          }
+        ],
+        "hint": "The teddy bear is under the chair. - Con gấu bông ở dưới cái ghế.\nThe teddy bear is in the bag. - Con gấu bông ở trong cái cặp.\nThe teddy bear is under the desk. - Con gấu bông ở dưới cái bàn học.\nThe teddy bear is on the box. - Con gấu bông ở trên cái hộp."
+      },
+      {
+        "id": 804,
+        "title": [
+          {
+            "en": "The cat is on the table.",
+            "vi": "Con mèo ở trên cái bàn."
+          },
+          {
+            "en": "The cat is on the bag.",
+            "vi": "Con mèo ở trên cái cặp."
+          },
+          {
+            "en": "The cat is in the box.",
+            "vi": "Con mèo ở trong cái hộp."
+          },
+          {
+            "en": "The cat is under the table.",
+            "vi": "Con mèo ở dưới cái bàn."
+          }
+        ],
+        "hint": "The cat is on the table. - Con mèo ở trên cái bàn.\nThe cat is on the bag. - Con mèo ở trên cái cặp.\nThe cat is in the box. - Con mèo ở trong cái hộp.\nThe cat is under the table. - Con mèo ở dưới cái bàn."
+      },
+      {
+        "id": 805,
+        "title": [
+          {
+            "en": "Who is she?",
+            "vi": "Cô ấy là ai?"
+          },
+          {
+            "en": "How old are you?",
+            "vi": "Bạn bao nhiêu tuổi?"
+          },
+          {
+            "en": "Can you swim?",
+            "vi": "Bạn có biết bơi không?"
+          },
+          {
+            "en": "Goodbye!",
+            "vi": "Tạm biệt!"
+          }
+        ],
+        "hint": "Who is she? - Cô ấy là ai?\nHow old are you? - Bạn bao nhiêu tuổi?\nCan you swim? - Bạn có biết bơi không?\nGoodbye! - Tạm biệt!"
+      },
+      {
+        "id": 806,
+        "title": [
+          {
+            "en": "The teddy bear is in the bag.",
+            "vi": "Con gấu bông ở trong cái cặp."
+          },
+          {
+            "en": "The teddy bear is under the desk.",
+            "vi": "Con gấu bông ở dưới cái bàn học."
+          },
+          {
+            "en": "The teddy bear is on the table.",
+            "vi": "Con gấu bông ở trên cái bàn."
+          },
+          {
+            "en": "The teddy bear is under the chair.",
+            "vi": "Con gấu bông ở dưới cái ghế."
+          }
+        ],
+        "hint": "The teddy bear is in the bag. - Con gấu bông ở trong cái cặp.\nThe teddy bear is under the desk. - Con gấu bông ở dưới cái bàn học.\nThe teddy bear is on the table. - Con gấu bông ở trên cái bàn.\nThe teddy bear is under the chair. - Con gấu bông ở dưới cái ghế."
+      },
+      {
+        "id": 807,
+        "title": [
+          {
+            "en": "This is a white notebook.",
+            "vi": "Đây là một quyển vở màu trắng."
+          },
+          {
+            "en": "This is a white eraser.",
+            "vi": "Đây là một cục tẩy màu trắng."
+          },
+          {
+            "en": "This is a white robot.",
+            "vi": "Đây là một con rô-bốt màu trắng."
+          },
+          {
+            "en": "This is a white bike.",
+            "vi": "Đây là một chiếc xe đạp màu trắng."
+          }
+        ],
+        "hint": "This is a white notebook. - Đây là một quyển vở màu trắng.\nThis is a white eraser. - Đây là một cục tẩy màu trắng.\nThis is a white robot. - Đây là một con rô-bốt màu trắng.\nThis is a white bike. - Đây là một chiếc xe đạp màu trắng."
+      },
+      {
+        "id": 808,
+        "title": [
+          {
+            "en": "Lily has a dog.",
+            "vi": "Lily có một con chó."
+          },
+          {
+            "en": "Lily has a ball.",
+            "vi": "Lily có một quả bóng."
+          },
+          {
+            "en": "Lily has a bus.",
+            "vi": "Lily có một chiếc xe buýt."
+          },
+          {
+            "en": "Lily has a net.",
+            "vi": "Lily có một cái lưới."
+          }
+        ],
+        "hint": "Lily has a dog. - Lily có một con chó.\nLily has a ball. - Lily có một quả bóng.\nLily has a bus. - Lily có một chiếc xe buýt.\nLily has a net. - Lily có một cái lưới."
+      },
+      {
+        "id": 809,
+        "title": [
+          {
+            "en": "My grandma is in the kitchen.",
+            "vi": "Bà của mình đang ở trong nhà bếp."
+          },
+          {
+            "en": "My sister is in the kitchen.",
+            "vi": "Chị gái của mình đang ở trong nhà bếp."
+          },
+          {
+            "en": "My brother is in the kitchen.",
+            "vi": "Anh trai của mình đang ở trong nhà bếp."
+          },
+          {
+            "en": "My father is in the kitchen.",
+            "vi": "Bố của mình đang ở trong nhà bếp."
+          }
+        ],
+        "hint": "My grandma is in the kitchen. - Bà của mình đang ở trong nhà bếp.\nMy sister is in the kitchen. - Chị gái của mình đang ở trong nhà bếp.\nMy brother is in the kitchen. - Anh trai của mình đang ở trong nhà bếp.\nMy father is in the kitchen. - Bố của mình đang ở trong nhà bếp."
+      },
+      {
+        "id": 810,
+        "title": [
+          {
+            "en": "What is he doing?",
+            "vi": "Cậu ấy đang làm gì?"
+          },
+          {
+            "en": "How are you?",
+            "vi": "Bạn có khỏe không?"
+          },
+          {
+            "en": "Open your book.",
+            "vi": "Hãy mở sách ra."
+          },
+          {
+            "en": "Sit down, please.",
+            "vi": "Mời bạn ngồi xuống."
+          }
+        ],
+        "hint": "What is he doing? - Cậu ấy đang làm gì?\nHow are you? - Bạn có khỏe không?\nOpen your book. - Hãy mở sách ra.\nSit down, please. - Mời bạn ngồi xuống."
+      },
+      {
+        "id": 811,
+        "title": [
+          {
+            "en": "Lucy has a kite.",
+            "vi": "Lucy có một con diều."
+          },
+          {
+            "en": "Lucy has a drum.",
+            "vi": "Lucy có một cái trống."
+          },
+          {
+            "en": "Lucy has a balloon.",
+            "vi": "Lucy có một quả bóng bay."
+          },
+          {
+            "en": "Lucy has a puzzle.",
+            "vi": "Lucy có một bộ xếp hình."
+          }
+        ],
+        "hint": "Lucy has a kite. - Lucy có một con diều.\nLucy has a drum. - Lucy có một cái trống.\nLucy has a balloon. - Lucy có một quả bóng bay.\nLucy has a puzzle. - Lucy có một bộ xếp hình."
+      },
+      {
+        "id": 812,
+        "title": [
+          {
+            "en": "Tim has a balloon.",
+            "vi": "Tim có một quả bóng bay."
+          },
+          {
+            "en": "Tim has a puzzle.",
+            "vi": "Tim có một bộ xếp hình."
+          },
+          {
+            "en": "Tim has a kite.",
+            "vi": "Tim có một con diều."
+          },
+          {
+            "en": "Tim has a cat.",
+            "vi": "Tim có một con mèo."
+          }
+        ],
+        "hint": "Tim has a balloon. - Tim có một quả bóng bay.\nTim has a puzzle. - Tim có một bộ xếp hình.\nTim has a kite. - Tim có một con diều.\nTim has a cat. - Tim có một con mèo."
+      },
+      {
+        "id": 813,
+        "title": [
+          {
+            "en": "Thank you.",
+            "vi": "Cảm ơn bạn."
+          },
+          {
+            "en": "Close the door.",
+            "vi": "Hãy đóng cửa lại."
+          },
+          {
+            "en": "How are you?",
+            "vi": "Bạn có khỏe không?"
+          },
+          {
+            "en": "Sit down, please.",
+            "vi": "Mời bạn ngồi xuống."
+          }
+        ],
+        "hint": "Thank you. - Cảm ơn bạn.\nClose the door. - Hãy đóng cửa lại.\nHow are you? - Bạn có khỏe không?\nSit down, please. - Mời bạn ngồi xuống."
+      },
+      {
+        "id": 814,
+        "title": [
+          {
+            "en": "Sit down, please.",
+            "vi": "Mời bạn ngồi xuống."
+          },
+          {
+            "en": "How old are you?",
+            "vi": "Bạn bao nhiêu tuổi?"
+          },
+          {
+            "en": "Who is she?",
+            "vi": "Cô ấy là ai?"
+          },
+          {
+            "en": "What is this?",
+            "vi": "Đây là cái gì?"
+          }
+        ],
+        "hint": "Sit down, please. - Mời bạn ngồi xuống.\nHow old are you? - Bạn bao nhiêu tuổi?\nWho is she? - Cô ấy là ai?\nWhat is this? - Đây là cái gì?"
+      },
+      {
+        "id": 815,
+        "title": [
+          {
+            "en": "Is it a ball?",
+            "vi": "Đó có phải là quả bóng không?"
+          },
+          {
+            "en": "How many dogs are there?",
+            "vi": "Có bao nhiêu con chó?"
+          },
+          {
+            "en": "Can you swim?",
+            "vi": "Bạn có biết bơi không?"
+          },
+          {
+            "en": "Goodbye!",
+            "vi": "Tạm biệt!"
+          }
+        ],
+        "hint": "Is it a ball? - Đó có phải là quả bóng không?\nHow many dogs are there? - Có bao nhiêu con chó?\nCan you swim? - Bạn có biết bơi không?\nGoodbye! - Tạm biệt!"
+      },
+      {
+        "id": 816,
+        "title": [
+          {
+            "en": "The kite is under the desk.",
+            "vi": "Con diều ở dưới cái bàn học."
+          },
+          {
+            "en": "The kite is under the bed.",
+            "vi": "Con diều ở dưới cái giường."
+          },
+          {
+            "en": "The kite is on the bag.",
+            "vi": "Con diều ở trên cái cặp."
+          },
+          {
+            "en": "The kite is on the bed.",
+            "vi": "Con diều ở trên cái giường."
+          }
+        ],
+        "hint": "The kite is under the desk. - Con diều ở dưới cái bàn học.\nThe kite is under the bed. - Con diều ở dưới cái giường.\nThe kite is on the bag. - Con diều ở trên cái cặp.\nThe kite is on the bed. - Con diều ở trên cái giường."
+      },
+      {
+        "id": 817,
+        "title": [
+          {
+            "en": "Bill has a net.",
+            "vi": "Bill có một cái lưới."
+          },
+          {
+            "en": "Bill has a robot.",
+            "vi": "Bill có một con rô-bốt."
+          },
+          {
+            "en": "Bill has a bird.",
+            "vi": "Bill có một con chim."
+          },
+          {
+            "en": "Bill has a doll.",
+            "vi": "Bill có một con búp bê."
+          }
+        ],
+        "hint": "Bill has a net. - Bill có một cái lưới.\nBill has a robot. - Bill có một con rô-bốt.\nBill has a bird. - Bill có một con chim.\nBill has a doll. - Bill có một con búp bê."
+      },
+      {
+        "id": 818,
+        "title": [
+          {
+            "en": "Hoa has a fish.",
+            "vi": "Hoa có một con cá."
+          },
+          {
+            "en": "Hoa has a plane.",
+            "vi": "Hoa có một chiếc máy bay."
+          },
+          {
+            "en": "Hoa has a guitar.",
+            "vi": "Hoa có một cây đàn ghi-ta."
+          },
+          {
+            "en": "Hoa has a duck.",
+            "vi": "Hoa có một con vịt."
+          }
+        ],
+        "hint": "Hoa has a fish. - Hoa có một con cá.\nHoa has a plane. - Hoa có một chiếc máy bay.\nHoa has a guitar. - Hoa có một cây đàn ghi-ta.\nHoa has a duck. - Hoa có một con vịt."
+      },
+      {
+        "id": 819,
+        "title": [
+          {
+            "en": "Mia has a plane.",
+            "vi": "Mia có một chiếc máy bay."
+          },
+          {
+            "en": "Mia has a top.",
+            "vi": "Mia có một con quay."
+          },
+          {
+            "en": "Mia has a robot.",
+            "vi": "Mia có một con rô-bốt."
+          },
+          {
+            "en": "Mia has a truck.",
+            "vi": "Mia có một chiếc xe tải."
+          }
+        ],
+        "hint": "Mia has a plane. - Mia có một chiếc máy bay.\nMia has a top. - Mia có một con quay.\nMia has a robot. - Mia có một con rô-bốt.\nMia has a truck. - Mia có một chiếc xe tải."
+      },
+      {
+        "id": 820,
+        "title": [
+          {
+            "en": "My father is in the bedroom.",
+            "vi": "Bố của mình đang ở trong phòng ngủ."
+          },
+          {
+            "en": "My brother is in the bedroom.",
+            "vi": "Anh trai của mình đang ở trong phòng ngủ."
+          },
+          {
+            "en": "My grandpa is in the bedroom.",
+            "vi": "Ông của mình đang ở trong phòng ngủ."
+          },
+          {
+            "en": "My mother is in the bedroom.",
+            "vi": "Mẹ của mình đang ở trong phòng ngủ."
+          }
+        ],
+        "hint": "My father is in the bedroom. - Bố của mình đang ở trong phòng ngủ.\nMy brother is in the bedroom. - Anh trai của mình đang ở trong phòng ngủ.\nMy grandpa is in the bedroom. - Ông của mình đang ở trong phòng ngủ.\nMy mother is in the bedroom. - Mẹ của mình đang ở trong phòng ngủ."
+      },
+      {
+        "id": 821,
+        "title": [
+          {
+            "en": "Jack has a plane.",
+            "vi": "Jack có một chiếc máy bay."
+          },
+          {
+            "en": "Jack has a puzzle.",
+            "vi": "Jack có một bộ xếp hình."
+          },
+          {
+            "en": "Jack has a bus.",
+            "vi": "Jack có một chiếc xe buýt."
+          },
+          {
+            "en": "Jack has a top.",
+            "vi": "Jack có một con quay."
+          }
+        ],
+        "hint": "Jack has a plane. - Jack có một chiếc máy bay.\nJack has a puzzle. - Jack có một bộ xếp hình.\nJack has a bus. - Jack có một chiếc xe buýt.\nJack has a top. - Jack có một con quay."
+      },
+      {
+        "id": 822,
+        "title": [
+          {
+            "en": "This is a brown crayon.",
+            "vi": "Đây là một cây bút sáp màu nâu."
+          },
+          {
+            "en": "This is a brown flag.",
+            "vi": "Đây là một lá cờ màu nâu."
+          },
+          {
+            "en": "This is a brown map.",
+            "vi": "Đây là một tấm bản đồ màu nâu."
+          },
+          {
+            "en": "This is a brown ball.",
+            "vi": "Đây là một quả bóng màu nâu."
+          }
+        ],
+        "hint": "This is a brown crayon. - Đây là một cây bút sáp màu nâu.\nThis is a brown flag. - Đây là một lá cờ màu nâu.\nThis is a brown map. - Đây là một tấm bản đồ màu nâu.\nThis is a brown ball. - Đây là một quả bóng màu nâu."
+      },
+      {
+        "id": 823,
+        "title": [
+          {
+            "en": "My grandma is in the living room.",
+            "vi": "Bà của mình đang ở trong phòng khách."
+          },
+          {
+            "en": "My grandpa is in the living room.",
+            "vi": "Ông của mình đang ở trong phòng khách."
+          },
+          {
+            "en": "My sister is in the living room.",
+            "vi": "Chị gái của mình đang ở trong phòng khách."
+          },
+          {
+            "en": "My mother is in the living room.",
+            "vi": "Mẹ của mình đang ở trong phòng khách."
+          }
+        ],
+        "hint": "My grandma is in the living room. - Bà của mình đang ở trong phòng khách.\nMy grandpa is in the living room. - Ông của mình đang ở trong phòng khách.\nMy sister is in the living room. - Chị gái của mình đang ở trong phòng khách.\nMy mother is in the living room. - Mẹ của mình đang ở trong phòng khách."
+      },
+      {
+        "id": 824,
+        "title": [
+          {
+            "en": "Jenny has a car.",
+            "vi": "Jenny có một chiếc ô tô."
+          },
+          {
+            "en": "Jenny has a plane.",
+            "vi": "Jenny có một chiếc máy bay."
+          },
+          {
+            "en": "Jenny has a kite.",
+            "vi": "Jenny có một con diều."
+          },
+          {
+            "en": "Jenny has a balloon.",
+            "vi": "Jenny có một quả bóng bay."
+          }
+        ],
+        "hint": "Jenny has a car. - Jenny có một chiếc ô tô.\nJenny has a plane. - Jenny có một chiếc máy bay.\nJenny has a kite. - Jenny có một con diều.\nJenny has a balloon. - Jenny có một quả bóng bay."
+      },
+      {
+        "id": 825,
+        "title": [
+          {
+            "en": "The doll is under the table.",
+            "vi": "Con búp bê ở dưới cái bàn."
+          },
+          {
+            "en": "The doll is on the bag.",
+            "vi": "Con búp bê ở trên cái cặp."
+          },
+          {
+            "en": "The doll is in the box.",
+            "vi": "Con búp bê ở trong cái hộp."
+          },
+          {
+            "en": "The doll is on the chair.",
+            "vi": "Con búp bê ở trên cái ghế."
+          }
+        ],
+        "hint": "The doll is under the table. - Con búp bê ở dưới cái bàn.\nThe doll is on the bag. - Con búp bê ở trên cái cặp.\nThe doll is in the box. - Con búp bê ở trong cái hộp.\nThe doll is on the chair. - Con búp bê ở trên cái ghế."
+      },
+      {
+        "id": 826,
+        "title": [
+          {
+            "en": "The car is under the desk.",
+            "vi": "Chiếc ô tô ở dưới cái bàn học."
+          },
+          {
+            "en": "The car is on the bag.",
+            "vi": "Chiếc ô tô ở trên cái cặp."
+          },
+          {
+            "en": "The car is in the bag.",
+            "vi": "Chiếc ô tô ở trong cái cặp."
+          },
+          {
+            "en": "The car is on the bed.",
+            "vi": "Chiếc ô tô ở trên cái giường."
+          }
+        ],
+        "hint": "The car is under the desk. - Chiếc ô tô ở dưới cái bàn học.\nThe car is on the bag. - Chiếc ô tô ở trên cái cặp.\nThe car is in the bag. - Chiếc ô tô ở trong cái cặp.\nThe car is on the bed. - Chiếc ô tô ở trên cái giường."
+      },
+      {
+        "id": 827,
+        "title": [
+          {
+            "en": "Thank you.",
+            "vi": "Cảm ơn bạn."
+          },
+          {
+            "en": "Open your book.",
+            "vi": "Hãy mở sách ra."
+          },
+          {
+            "en": "Sit down, please.",
+            "vi": "Mời bạn ngồi xuống."
+          },
+          {
+            "en": "How many dogs are there?",
+            "vi": "Có bao nhiêu con chó?"
+          }
+        ],
+        "hint": "Thank you. - Cảm ơn bạn.\nOpen your book. - Hãy mở sách ra.\nSit down, please. - Mời bạn ngồi xuống.\nHow many dogs are there? - Có bao nhiêu con chó?"
+      },
+      {
+        "id": 828,
+        "title": [
+          {
+            "en": "The book is in the bag.",
+            "vi": "Quyển sách ở trong cái cặp."
+          },
+          {
+            "en": "The book is under the table.",
+            "vi": "Quyển sách ở dưới cái bàn."
+          },
+          {
+            "en": "The book is on the box.",
+            "vi": "Quyển sách ở trên cái hộp."
+          },
+          {
+            "en": "The book is on the desk.",
+            "vi": "Quyển sách ở trên cái bàn học."
+          }
+        ],
+        "hint": "The book is in the bag. - Quyển sách ở trong cái cặp.\nThe book is under the table. - Quyển sách ở dưới cái bàn.\nThe book is on the box. - Quyển sách ở trên cái hộp.\nThe book is on the desk. - Quyển sách ở trên cái bàn học."
+      },
+      {
+        "id": 829,
+        "title": [
+          {
+            "en": "Jenny has a net.",
+            "vi": "Jenny có một cái lưới."
+          },
+          {
+            "en": "Jenny has a duck.",
+            "vi": "Jenny có một con vịt."
+          },
+          {
+            "en": "Jenny has a bus.",
+            "vi": "Jenny có một chiếc xe buýt."
+          },
+          {
+            "en": "Jenny has a puzzle.",
+            "vi": "Jenny có một bộ xếp hình."
+          }
+        ],
+        "hint": "Jenny has a net. - Jenny có một cái lưới.\nJenny has a duck. - Jenny có một con vịt.\nJenny has a bus. - Jenny có một chiếc xe buýt.\nJenny has a puzzle. - Jenny có một bộ xếp hình."
+      },
+      {
+        "id": 830,
+        "title": [
+          {
+            "en": "This is a red bag.",
+            "vi": "Đây là một cái cặp màu đỏ."
+          },
+          {
+            "en": "This is a red kite.",
+            "vi": "Đây là một con diều màu đỏ."
+          },
+          {
+            "en": "This is a red skirt.",
+            "vi": "Đây là một cái chân váy màu đỏ."
+          },
+          {
+            "en": "This is a red cap.",
+            "vi": "Đây là một cái mũ lưỡi trai màu đỏ."
+          }
+        ],
+        "hint": "This is a red bag. - Đây là một cái cặp màu đỏ.\nThis is a red kite. - Đây là một con diều màu đỏ.\nThis is a red skirt. - Đây là một cái chân váy màu đỏ.\nThis is a red cap. - Đây là một cái mũ lưỡi trai màu đỏ."
+      },
+      {
+        "id": 831,
+        "title": [
+          {
+            "en": "This is a pink pen.",
+            "vi": "Đây là một cái bút mực màu hồng."
+          },
+          {
+            "en": "This is a pink plane.",
+            "vi": "Đây là một chiếc máy bay màu hồng."
+          },
+          {
+            "en": "This is a pink jacket.",
+            "vi": "Đây là một cái áo khoác màu hồng."
+          },
+          {
+            "en": "This is a pink net.",
+            "vi": "Đây là một cái lưới màu hồng."
+          }
+        ],
+        "hint": "This is a pink pen. - Đây là một cái bút mực màu hồng.\nThis is a pink plane. - Đây là một chiếc máy bay màu hồng.\nThis is a pink jacket. - Đây là một cái áo khoác màu hồng.\nThis is a pink net. - Đây là một cái lưới màu hồng."
+      },
+      {
+        "id": 832,
+        "title": [
+          {
+            "en": "The car is under the chair.",
+            "vi": "Chiếc ô tô ở dưới cái ghế."
+          },
+          {
+            "en": "The car is under the table.",
+            "vi": "Chiếc ô tô ở dưới cái bàn."
+          },
+          {
+            "en": "The car is on the box.",
+            "vi": "Chiếc ô tô ở trên cái hộp."
+          },
+          {
+            "en": "The car is on the bed.",
+            "vi": "Chiếc ô tô ở trên cái giường."
+          }
+        ],
+        "hint": "The car is under the chair. - Chiếc ô tô ở dưới cái ghế.\nThe car is under the table. - Chiếc ô tô ở dưới cái bàn.\nThe car is on the box. - Chiếc ô tô ở trên cái hộp.\nThe car is on the bed. - Chiếc ô tô ở trên cái giường."
+      },
+      {
+        "id": 833,
+        "title": [
+          {
+            "en": "The cat is under the desk.",
+            "vi": "Con mèo ở dưới cái bàn học."
+          },
+          {
+            "en": "The cat is on the bag.",
+            "vi": "Con mèo ở trên cái cặp."
+          },
+          {
+            "en": "The cat is in the box.",
+            "vi": "Con mèo ở trong cái hộp."
+          },
+          {
+            "en": "The cat is on the box.",
+            "vi": "Con mèo ở trên cái hộp."
+          }
+        ],
+        "hint": "The cat is under the desk. - Con mèo ở dưới cái bàn học.\nThe cat is on the bag. - Con mèo ở trên cái cặp.\nThe cat is in the box. - Con mèo ở trong cái hộp.\nThe cat is on the box. - Con mèo ở trên cái hộp."
+      },
+      {
+        "id": 834,
+        "title": [
+          {
+            "en": "This is a black jacket.",
+            "vi": "Đây là một cái áo khoác màu đen."
+          },
+          {
+            "en": "This is a black top.",
+            "vi": "Đây là một con quay màu đen."
+          },
+          {
+            "en": "This is a black skirt.",
+            "vi": "Đây là một cái chân váy màu đen."
+          },
+          {
+            "en": "This is a black bell.",
+            "vi": "Đây là một cái chuông màu đen."
+          }
+        ],
+        "hint": "This is a black jacket. - Đây là một cái áo khoác màu đen.\nThis is a black top. - Đây là một con quay màu đen.\nThis is a black skirt. - Đây là một cái chân váy màu đen.\nThis is a black bell. - Đây là một cái chuông màu đen."
+      },
+      {
+        "id": 835,
+        "title": [
+          {
+            "en": "The car is in the box.",
+            "vi": "Chiếc ô tô ở trong cái hộp."
+          },
+          {
+            "en": "The car is under the bed.",
+            "vi": "Chiếc ô tô ở dưới cái giường."
+          },
+          {
+            "en": "The car is under the table.",
+            "vi": "Chiếc ô tô ở dưới cái bàn."
+          },
+          {
+            "en": "The car is on the bed.",
+            "vi": "Chiếc ô tô ở trên cái giường."
+          }
+        ],
+        "hint": "The car is in the box. - Chiếc ô tô ở trong cái hộp.\nThe car is under the bed. - Chiếc ô tô ở dưới cái giường.\nThe car is under the table. - Chiếc ô tô ở dưới cái bàn.\nThe car is on the bed. - Chiếc ô tô ở trên cái giường."
+      },
+      {
+        "id": 836,
+        "title": [
+          {
+            "en": "This is a blue doll.",
+            "vi": "Đây là một con búp bê màu xanh dương."
+          },
+          {
+            "en": "This is a blue shirt.",
+            "vi": "Đây là một cái áo sơ mi màu xanh dương."
+          },
+          {
+            "en": "This is a blue book.",
+            "vi": "Đây là một quyển sách màu xanh dương."
+          },
+          {
+            "en": "This is a blue crayon.",
+            "vi": "Đây là một cây bút sáp màu xanh dương."
+          }
+        ],
+        "hint": "This is a blue doll. - Đây là một con búp bê màu xanh dương.\nThis is a blue shirt. - Đây là một cái áo sơ mi màu xanh dương.\nThis is a blue book. - Đây là một quyển sách màu xanh dương.\nThis is a blue crayon. - Đây là một cây bút sáp màu xanh dương."
+      },
+      {
+        "id": 837,
+        "title": [
+          {
+            "en": "The apple is in the box.",
+            "vi": "Quả táo ở trong cái hộp."
+          },
+          {
+            "en": "The apple is under the bed.",
+            "vi": "Quả táo ở dưới cái giường."
+          },
+          {
+            "en": "The apple is under the desk.",
+            "vi": "Quả táo ở dưới cái bàn học."
+          },
+          {
+            "en": "The apple is on the box.",
+            "vi": "Quả táo ở trên cái hộp."
+          }
+        ],
+        "hint": "The apple is in the box. - Quả táo ở trong cái hộp.\nThe apple is under the bed. - Quả táo ở dưới cái giường.\nThe apple is under the desk. - Quả táo ở dưới cái bàn học.\nThe apple is on the box. - Quả táo ở trên cái hộp."
+      },
+      {
+        "id": 838,
+        "title": [
+          {
+            "en": "The doll is under the chair.",
+            "vi": "Con búp bê ở dưới cái ghế."
+          },
+          {
+            "en": "The doll is under the table.",
+            "vi": "Con búp bê ở dưới cái bàn."
+          },
+          {
+            "en": "The doll is on the desk.",
+            "vi": "Con búp bê ở trên cái bàn học."
+          },
+          {
+            "en": "The doll is in the bag.",
+            "vi": "Con búp bê ở trong cái cặp."
+          }
+        ],
+        "hint": "The doll is under the chair. - Con búp bê ở dưới cái ghế.\nThe doll is under the table. - Con búp bê ở dưới cái bàn.\nThe doll is on the desk. - Con búp bê ở trên cái bàn học.\nThe doll is in the bag. - Con búp bê ở trong cái cặp."
+      },
+      {
+        "id": 839,
+        "title": [
+          {
+            "en": "The robot is on the table.",
+            "vi": "Con rô-bốt ở trên cái bàn."
+          },
+          {
+            "en": "The robot is on the bag.",
+            "vi": "Con rô-bốt ở trên cái cặp."
+          },
+          {
+            "en": "The robot is in the bag.",
+            "vi": "Con rô-bốt ở trong cái cặp."
+          },
+          {
+            "en": "The robot is on the chair.",
+            "vi": "Con rô-bốt ở trên cái ghế."
+          }
+        ],
+        "hint": "The robot is on the table. - Con rô-bốt ở trên cái bàn.\nThe robot is on the bag. - Con rô-bốt ở trên cái cặp.\nThe robot is in the bag. - Con rô-bốt ở trong cái cặp.\nThe robot is on the chair. - Con rô-bốt ở trên cái ghế."
+      },
+      {
+        "id": 840,
+        "title": [
+          {
+            "en": "The doll is under the desk.",
+            "vi": "Con búp bê ở dưới cái bàn học."
+          },
+          {
+            "en": "The doll is under the bed.",
+            "vi": "Con búp bê ở dưới cái giường."
+          },
+          {
+            "en": "The doll is on the table.",
+            "vi": "Con búp bê ở trên cái bàn."
+          },
+          {
+            "en": "The doll is under the chair.",
+            "vi": "Con búp bê ở dưới cái ghế."
+          }
+        ],
+        "hint": "The doll is under the desk. - Con búp bê ở dưới cái bàn học.\nThe doll is under the bed. - Con búp bê ở dưới cái giường.\nThe doll is on the table. - Con búp bê ở trên cái bàn.\nThe doll is under the chair. - Con búp bê ở dưới cái ghế."
+      },
+      {
+        "id": 841,
+        "title": [
+          {
+            "en": "My mother is in the bedroom.",
+            "vi": "Mẹ của mình đang ở trong phòng ngủ."
+          },
+          {
+            "en": "My sister is in the bedroom.",
+            "vi": "Chị gái của mình đang ở trong phòng ngủ."
+          },
+          {
+            "en": "My grandpa is in the bedroom.",
+            "vi": "Ông của mình đang ở trong phòng ngủ."
+          },
+          {
+            "en": "My brother is in the bedroom.",
+            "vi": "Anh trai của mình đang ở trong phòng ngủ."
+          }
+        ],
+        "hint": "My mother is in the bedroom. - Mẹ của mình đang ở trong phòng ngủ.\nMy sister is in the bedroom. - Chị gái của mình đang ở trong phòng ngủ.\nMy grandpa is in the bedroom. - Ông của mình đang ở trong phòng ngủ.\nMy brother is in the bedroom. - Anh trai của mình đang ở trong phòng ngủ."
+      },
+      {
+        "id": 842,
+        "title": [
+          {
+            "en": "Nga has a robot.",
+            "vi": "Nga có một con rô-bốt."
+          },
+          {
+            "en": "Nga has a doll.",
+            "vi": "Nga có một con búp bê."
+          },
+          {
+            "en": "Nga has a bike.",
+            "vi": "Nga có một chiếc xe đạp."
+          },
+          {
+            "en": "Nga has a car.",
+            "vi": "Nga có một chiếc ô tô."
+          }
+        ],
+        "hint": "Nga has a robot. - Nga có một con rô-bốt.\nNga has a doll. - Nga có một con búp bê.\nNga has a bike. - Nga có một chiếc xe đạp.\nNga has a car. - Nga có một chiếc ô tô."
+      },
+      {
+        "id": 843,
+        "title": [
+          {
+            "en": "The doll is in the bag.",
+            "vi": "Con búp bê ở trong cái cặp."
+          },
+          {
+            "en": "The doll is on the chair.",
+            "vi": "Con búp bê ở trên cái ghế."
+          },
+          {
+            "en": "The doll is on the desk.",
+            "vi": "Con búp bê ở trên cái bàn học."
+          },
+          {
+            "en": "The doll is under the bed.",
+            "vi": "Con búp bê ở dưới cái giường."
+          }
+        ],
+        "hint": "The doll is in the bag. - Con búp bê ở trong cái cặp.\nThe doll is on the chair. - Con búp bê ở trên cái ghế.\nThe doll is on the desk. - Con búp bê ở trên cái bàn học.\nThe doll is under the bed. - Con búp bê ở dưới cái giường."
+      },
+      {
+        "id": 844,
+        "title": [
+          {
+            "en": "My grandma is in the bedroom.",
+            "vi": "Bà của mình đang ở trong phòng ngủ."
+          },
+          {
+            "en": "My sister is in the bedroom.",
+            "vi": "Chị gái của mình đang ở trong phòng ngủ."
+          },
+          {
+            "en": "My brother is in the bedroom.",
+            "vi": "Anh trai của mình đang ở trong phòng ngủ."
+          },
+          {
+            "en": "My father is in the bedroom.",
+            "vi": "Bố của mình đang ở trong phòng ngủ."
+          }
+        ],
+        "hint": "My grandma is in the bedroom. - Bà của mình đang ở trong phòng ngủ.\nMy sister is in the bedroom. - Chị gái của mình đang ở trong phòng ngủ.\nMy brother is in the bedroom. - Anh trai của mình đang ở trong phòng ngủ.\nMy father is in the bedroom. - Bố của mình đang ở trong phòng ngủ."
+      },
+      {
+        "id": 845,
+        "title": [
+          {
+            "en": "Nick has a puppet.",
+            "vi": "Nick có một con rối."
+          },
+          {
+            "en": "Nick has a cat.",
+            "vi": "Nick có một con mèo."
+          },
+          {
+            "en": "Nick has a robot.",
+            "vi": "Nick có một con rô-bốt."
+          },
+          {
+            "en": "Nick has a net.",
+            "vi": "Nick có một cái lưới."
+          }
+        ],
+        "hint": "Nick has a puppet. - Nick có một con rối.\nNick has a cat. - Nick có một con mèo.\nNick has a robot. - Nick có một con rô-bốt.\nNick has a net. - Nick có một cái lưới."
+      },
+      {
+        "id": 846,
+        "title": [
+          {
+            "en": "The kite is on the bed.",
+            "vi": "Con diều ở trên cái giường."
+          },
+          {
+            "en": "The kite is on the desk.",
+            "vi": "Con diều ở trên cái bàn học."
+          },
+          {
+            "en": "The kite is on the box.",
+            "vi": "Con diều ở trên cái hộp."
+          },
+          {
+            "en": "The kite is in the box.",
+            "vi": "Con diều ở trong cái hộp."
+          }
+        ],
+        "hint": "The kite is on the bed. - Con diều ở trên cái giường.\nThe kite is on the desk. - Con diều ở trên cái bàn học.\nThe kite is on the box. - Con diều ở trên cái hộp.\nThe kite is in the box. - Con diều ở trong cái hộp."
+      },
+      {
+        "id": 847,
+        "title": [
+          {
+            "en": "The pen is under the table.",
+            "vi": "Cái bút mực ở dưới cái bàn."
+          },
+          {
+            "en": "The pen is in the bag.",
+            "vi": "Cái bút mực ở trong cái cặp."
+          },
+          {
+            "en": "The pen is on the bag.",
+            "vi": "Cái bút mực ở trên cái cặp."
+          },
+          {
+            "en": "The pen is on the table.",
+            "vi": "Cái bút mực ở trên cái bàn."
+          }
+        ],
+        "hint": "The pen is under the table. - Cái bút mực ở dưới cái bàn.\nThe pen is in the bag. - Cái bút mực ở trong cái cặp.\nThe pen is on the bag. - Cái bút mực ở trên cái cặp.\nThe pen is on the table. - Cái bút mực ở trên cái bàn."
+      },
+      {
+        "id": 848,
+        "title": [
+          {
+            "en": "How old are you?",
+            "vi": "Bạn bao nhiêu tuổi?"
+          },
+          {
+            "en": "What is your name?",
+            "vi": "Bạn tên là gì?"
+          },
+          {
+            "en": "Sit down, please.",
+            "vi": "Mời bạn ngồi xuống."
+          },
+          {
+            "en": "Thank you.",
+            "vi": "Cảm ơn bạn."
+          }
+        ],
+        "hint": "How old are you? - Bạn bao nhiêu tuổi?\nWhat is your name? - Bạn tên là gì?\nSit down, please. - Mời bạn ngồi xuống.\nThank you. - Cảm ơn bạn."
+      },
+      {
+        "id": 849,
+        "title": [
+          {
+            "en": "The car is on the table.",
+            "vi": "Chiếc ô tô ở trên cái bàn."
+          },
+          {
+            "en": "The car is under the desk.",
+            "vi": "Chiếc ô tô ở dưới cái bàn học."
+          },
+          {
+            "en": "The car is on the bed.",
+            "vi": "Chiếc ô tô ở trên cái giường."
+          },
+          {
+            "en": "The car is under the chair.",
+            "vi": "Chiếc ô tô ở dưới cái ghế."
+          }
+        ],
+        "hint": "The car is on the table. - Chiếc ô tô ở trên cái bàn.\nThe car is under the desk. - Chiếc ô tô ở dưới cái bàn học.\nThe car is on the bed. - Chiếc ô tô ở trên cái giường.\nThe car is under the chair. - Chiếc ô tô ở dưới cái ghế."
+      },
+      {
+        "id": 850,
+        "title": [
+          {
+            "en": "This is a pink skirt.",
+            "vi": "Đây là một cái chân váy màu hồng."
+          },
+          {
+            "en": "This is a pink desk.",
+            "vi": "Đây là một cái bàn học màu hồng."
+          },
+          {
+            "en": "This is a pink robot.",
+            "vi": "Đây là một con rô-bốt màu hồng."
+          },
+          {
+            "en": "This is a pink bell.",
+            "vi": "Đây là một cái chuông màu hồng."
+          }
+        ],
+        "hint": "This is a pink skirt. - Đây là một cái chân váy màu hồng.\nThis is a pink desk. - Đây là một cái bàn học màu hồng.\nThis is a pink robot. - Đây là một con rô-bốt màu hồng.\nThis is a pink bell. - Đây là một cái chuông màu hồng."
+      },
+      {
+        "id": 851,
+        "title": [
+          {
+            "en": "My brother is in the kitchen.",
+            "vi": "Anh trai của mình đang ở trong nhà bếp."
+          },
+          {
+            "en": "My sister is in the kitchen.",
+            "vi": "Chị gái của mình đang ở trong nhà bếp."
+          },
+          {
+            "en": "My grandma is in the kitchen.",
+            "vi": "Bà của mình đang ở trong nhà bếp."
+          },
+          {
+            "en": "My mother is in the kitchen.",
+            "vi": "Mẹ của mình đang ở trong nhà bếp."
+          }
+        ],
+        "hint": "My brother is in the kitchen. - Anh trai của mình đang ở trong nhà bếp.\nMy sister is in the kitchen. - Chị gái của mình đang ở trong nhà bếp.\nMy grandma is in the kitchen. - Bà của mình đang ở trong nhà bếp.\nMy mother is in the kitchen. - Mẹ của mình đang ở trong nhà bếp."
+      },
+      {
+        "id": 852,
+        "title": [
+          {
+            "en": "The ball is under the desk.",
+            "vi": "Quả bóng ở dưới cái bàn học."
+          },
+          {
+            "en": "The ball is under the bed.",
+            "vi": "Quả bóng ở dưới cái giường."
+          },
+          {
+            "en": "The ball is in the bag.",
+            "vi": "Quả bóng ở trong cái cặp."
+          },
+          {
+            "en": "The ball is on the table.",
+            "vi": "Quả bóng ở trên cái bàn."
+          }
+        ],
+        "hint": "The ball is under the desk. - Quả bóng ở dưới cái bàn học.\nThe ball is under the bed. - Quả bóng ở dưới cái giường.\nThe ball is in the bag. - Quả bóng ở trong cái cặp.\nThe ball is on the table. - Quả bóng ở trên cái bàn."
+      },
+      {
+        "id": 853,
+        "title": [
+          {
+            "en": "This is a green sock.",
+            "vi": "Đây là một chiếc tất màu xanh lá."
+          },
+          {
+            "en": "This is a green puzzle.",
+            "vi": "Đây là một bộ xếp hình màu xanh lá."
+          },
+          {
+            "en": "This is a green chair.",
+            "vi": "Đây là một cái ghế màu xanh lá."
+          },
+          {
+            "en": "This is a green balloon.",
+            "vi": "Đây là một quả bóng bay màu xanh lá."
+          }
+        ],
+        "hint": "This is a green sock. - Đây là một chiếc tất màu xanh lá.\nThis is a green puzzle. - Đây là một bộ xếp hình màu xanh lá.\nThis is a green chair. - Đây là một cái ghế màu xanh lá.\nThis is a green balloon. - Đây là một quả bóng bay màu xanh lá."
+      },
+      {
+        "id": 854,
+        "title": [
+          {
+            "en": "Polly has a puzzle.",
+            "vi": "Polly có một bộ xếp hình."
+          },
+          {
+            "en": "Polly has a rabbit.",
+            "vi": "Polly có một con thỏ."
+          },
+          {
+            "en": "Polly has a drum.",
+            "vi": "Polly có một cái trống."
+          },
+          {
+            "en": "Polly has a hen.",
+            "vi": "Polly có một con gà mái."
+          }
+        ],
+        "hint": "Polly has a puzzle. - Polly có một bộ xếp hình.\nPolly has a rabbit. - Polly có một con thỏ.\nPolly has a drum. - Polly có một cái trống.\nPolly has a hen. - Polly có một con gà mái."
+      },
+      {
+        "id": 855,
+        "title": [
+          {
+            "en": "Lucy has a drum.",
+            "vi": "Lucy có một cái trống."
+          },
+          {
+            "en": "Lucy has a robot.",
+            "vi": "Lucy có một con rô-bốt."
+          },
+          {
+            "en": "Lucy has a puzzle.",
+            "vi": "Lucy có một bộ xếp hình."
+          },
+          {
+            "en": "Lucy has a hen.",
+            "vi": "Lucy có một con gà mái."
+          }
+        ],
+        "hint": "Lucy has a drum. - Lucy có một cái trống.\nLucy has a robot. - Lucy có một con rô-bốt.\nLucy has a puzzle. - Lucy có một bộ xếp hình.\nLucy has a hen. - Lucy có một con gà mái."
+      },
+      {
+        "id": 856,
+        "title": [
+          {
+            "en": "Bill has a bike.",
+            "vi": "Bill có một chiếc xe đạp."
+          },
+          {
+            "en": "Bill has a truck.",
+            "vi": "Bill có một chiếc xe tải."
+          },
+          {
+            "en": "Bill has a car.",
+            "vi": "Bill có một chiếc ô tô."
+          },
+          {
+            "en": "Bill has a doll.",
+            "vi": "Bill có một con búp bê."
+          }
+        ],
+        "hint": "Bill has a bike. - Bill có một chiếc xe đạp.\nBill has a truck. - Bill có một chiếc xe tải.\nBill has a car. - Bill có một chiếc ô tô.\nBill has a doll. - Bill có một con búp bê."
+      },
+      {
+        "id": 857,
+        "title": [
+          {
+            "en": "The robot is on the bag.",
+            "vi": "Con rô-bốt ở trên cái cặp."
+          },
+          {
+            "en": "The robot is under the chair.",
+            "vi": "Con rô-bốt ở dưới cái ghế."
+          },
+          {
+            "en": "The robot is under the desk.",
+            "vi": "Con rô-bốt ở dưới cái bàn học."
+          },
+          {
+            "en": "The robot is on the table.",
+            "vi": "Con rô-bốt ở trên cái bàn."
+          }
+        ],
+        "hint": "The robot is on the bag. - Con rô-bốt ở trên cái cặp.\nThe robot is under the chair. - Con rô-bốt ở dưới cái ghế.\nThe robot is under the desk. - Con rô-bốt ở dưới cái bàn học.\nThe robot is on the table. - Con rô-bốt ở trên cái bàn."
+      },
+      {
+        "id": 858,
+        "title": [
+          {
+            "en": "Lily has a kite.",
+            "vi": "Lily có một con diều."
+          },
+          {
+            "en": "Lily has a top.",
+            "vi": "Lily có một con quay."
+          },
+          {
+            "en": "Lily has a cat.",
+            "vi": "Lily có một con mèo."
+          },
+          {
+            "en": "Lily has a drum.",
+            "vi": "Lily có một cái trống."
+          }
+        ],
+        "hint": "Lily has a kite. - Lily có một con diều.\nLily has a top. - Lily có một con quay.\nLily has a cat. - Lily có một con mèo.\nLily has a drum. - Lily có một cái trống."
+      },
+      {
+        "id": 859,
+        "title": [
+          {
+            "en": "What is your name?",
+            "vi": "Bạn tên là gì?"
+          },
+          {
+            "en": "Where is the cat?",
+            "vi": "Con mèo ở đâu?"
+          },
+          {
+            "en": "What is he doing?",
+            "vi": "Cậu ấy đang làm gì?"
+          },
+          {
+            "en": "Is it a ball?",
+            "vi": "Đó có phải là quả bóng không?"
+          }
+        ],
+        "hint": "What is your name? - Bạn tên là gì?\nWhere is the cat? - Con mèo ở đâu?\nWhat is he doing? - Cậu ấy đang làm gì?\nIs it a ball? - Đó có phải là quả bóng không?"
+      },
+      {
+        "id": 860,
+        "title": [
+          {
+            "en": "What is your name?",
+            "vi": "Bạn tên là gì?"
+          },
+          {
+            "en": "Can you swim?",
+            "vi": "Bạn có biết bơi không?"
+          },
+          {
+            "en": "Who is she?",
+            "vi": "Cô ấy là ai?"
+          },
+          {
+            "en": "Do you like apples?",
+            "vi": "Bạn có thích táo không?"
+          }
+        ],
+        "hint": "What is your name? - Bạn tên là gì?\nCan you swim? - Bạn có biết bơi không?\nWho is she? - Cô ấy là ai?\nDo you like apples? - Bạn có thích táo không?"
+      },
+      {
+        "id": 861,
+        "title": [
+          {
+            "en": "Phong has a guitar.",
+            "vi": "Phong có một cây đàn ghi-ta."
+          },
+          {
+            "en": "Phong has a bike.",
+            "vi": "Phong có một chiếc xe đạp."
+          },
+          {
+            "en": "Phong has a ball.",
+            "vi": "Phong có một quả bóng."
+          },
+          {
+            "en": "Phong has a puzzle.",
+            "vi": "Phong có một bộ xếp hình."
+          }
+        ],
+        "hint": "Phong has a guitar. - Phong có một cây đàn ghi-ta.\nPhong has a bike. - Phong có một chiếc xe đạp.\nPhong has a ball. - Phong có một quả bóng.\nPhong has a puzzle. - Phong có một bộ xếp hình."
+      },
+      {
+        "id": 862,
+        "title": [
+          {
+            "en": "My brother is in the garden.",
+            "vi": "Anh trai của mình đang ở trong khu vườn."
+          },
+          {
+            "en": "My grandpa is in the garden.",
+            "vi": "Ông của mình đang ở trong khu vườn."
+          },
+          {
+            "en": "My father is in the garden.",
+            "vi": "Bố của mình đang ở trong khu vườn."
+          },
+          {
+            "en": "My grandma is in the garden.",
+            "vi": "Bà của mình đang ở trong khu vườn."
+          }
+        ],
+        "hint": "My brother is in the garden. - Anh trai của mình đang ở trong khu vườn.\nMy grandpa is in the garden. - Ông của mình đang ở trong khu vườn.\nMy father is in the garden. - Bố của mình đang ở trong khu vườn.\nMy grandma is in the garden. - Bà của mình đang ở trong khu vườn."
+      },
+      {
+        "id": 863,
+        "title": [
+          {
+            "en": "My sister is in the garden.",
+            "vi": "Chị gái của mình đang ở trong khu vườn."
+          },
+          {
+            "en": "My grandpa is in the garden.",
+            "vi": "Ông của mình đang ở trong khu vườn."
+          },
+          {
+            "en": "My grandma is in the garden.",
+            "vi": "Bà của mình đang ở trong khu vườn."
+          },
+          {
+            "en": "My mother is in the garden.",
+            "vi": "Mẹ của mình đang ở trong khu vườn."
+          }
+        ],
+        "hint": "My sister is in the garden. - Chị gái của mình đang ở trong khu vườn.\nMy grandpa is in the garden. - Ông của mình đang ở trong khu vườn.\nMy grandma is in the garden. - Bà của mình đang ở trong khu vườn.\nMy mother is in the garden. - Mẹ của mình đang ở trong khu vườn."
+      },
+      {
+        "id": 864,
+        "title": [
+          {
+            "en": "What is he doing?",
+            "vi": "Cậu ấy đang làm gì?"
+          },
+          {
+            "en": "Is it a ball?",
+            "vi": "Đó có phải là quả bóng không?"
+          },
+          {
+            "en": "Can you swim?",
+            "vi": "Bạn có biết bơi không?"
+          },
+          {
+            "en": "What is this?",
+            "vi": "Đây là cái gì?"
+          }
+        ],
+        "hint": "What is he doing? - Cậu ấy đang làm gì?\nIs it a ball? - Đó có phải là quả bóng không?\nCan you swim? - Bạn có biết bơi không?\nWhat is this? - Đây là cái gì?"
+      },
+      {
+        "id": 865,
+        "title": [
+          {
+            "en": "How many dogs are there?",
+            "vi": "Có bao nhiêu con chó?"
+          },
+          {
+            "en": "Thank you.",
+            "vi": "Cảm ơn bạn."
+          },
+          {
+            "en": "Can you swim?",
+            "vi": "Bạn có biết bơi không?"
+          },
+          {
+            "en": "Is it a ball?",
+            "vi": "Đó có phải là quả bóng không?"
+          }
+        ],
+        "hint": "How many dogs are there? - Có bao nhiêu con chó?\nThank you. - Cảm ơn bạn.\nCan you swim? - Bạn có biết bơi không?\nIs it a ball? - Đó có phải là quả bóng không?"
+      },
+      {
+        "id": 866,
+        "title": [
+          {
+            "en": "The pen is under the chair.",
+            "vi": "Cái bút mực ở dưới cái ghế."
+          },
+          {
+            "en": "The pen is in the box.",
+            "vi": "Cái bút mực ở trong cái hộp."
+          },
+          {
+            "en": "The pen is under the bed.",
+            "vi": "Cái bút mực ở dưới cái giường."
+          },
+          {
+            "en": "The pen is on the bag.",
+            "vi": "Cái bút mực ở trên cái cặp."
+          }
+        ],
+        "hint": "The pen is under the chair. - Cái bút mực ở dưới cái ghế.\nThe pen is in the box. - Cái bút mực ở trong cái hộp.\nThe pen is under the bed. - Cái bút mực ở dưới cái giường.\nThe pen is on the bag. - Cái bút mực ở trên cái cặp."
+      },
+      {
+        "id": 867,
+        "title": [
+          {
+            "en": "This is a yellow shoe.",
+            "vi": "Đây là một chiếc giày màu vàng."
+          },
+          {
+            "en": "This is a yellow guitar.",
+            "vi": "Đây là một cây đàn ghi-ta màu vàng."
+          },
+          {
+            "en": "This is a yellow eraser.",
+            "vi": "Đây là một cục tẩy màu vàng."
+          },
+          {
+            "en": "This is a yellow drum.",
+            "vi": "Đây là một cái trống màu vàng."
+          }
+        ],
+        "hint": "This is a yellow shoe. - Đây là một chiếc giày màu vàng.\nThis is a yellow guitar. - Đây là một cây đàn ghi-ta màu vàng.\nThis is a yellow eraser. - Đây là một cục tẩy màu vàng.\nThis is a yellow drum. - Đây là một cái trống màu vàng."
+      },
+      {
+        "id": 868,
+        "title": [
+          {
+            "en": "Bill has a boat.",
+            "vi": "Bill có một chiếc thuyền."
+          },
+          {
+            "en": "Bill has a bird.",
+            "vi": "Bill có một con chim."
+          },
+          {
+            "en": "Bill has a balloon.",
+            "vi": "Bill có một quả bóng bay."
+          },
+          {
+            "en": "Bill has a rabbit.",
+            "vi": "Bill có một con thỏ."
+          }
+        ],
+        "hint": "Bill has a boat. - Bill có một chiếc thuyền.\nBill has a bird. - Bill có một con chim.\nBill has a balloon. - Bill có một quả bóng bay.\nBill has a rabbit. - Bill có một con thỏ."
+      },
+      {
+        "id": 869,
+        "title": [
+          {
+            "en": "Open your book.",
+            "vi": "Hãy mở sách ra."
+          },
+          {
+            "en": "What is he doing?",
+            "vi": "Cậu ấy đang làm gì?"
+          },
+          {
+            "en": "What colour is it?",
+            "vi": "Nó màu gì?"
+          },
+          {
+            "en": "Is it a ball?",
+            "vi": "Đó có phải là quả bóng không?"
+          }
+        ],
+        "hint": "Open your book. - Hãy mở sách ra.\nWhat is he doing? - Cậu ấy đang làm gì?\nWhat colour is it? - Nó màu gì?\nIs it a ball? - Đó có phải là quả bóng không?"
+      },
+      {
+        "id": 870,
+        "title": [
+          {
+            "en": "The kite is on the table.",
+            "vi": "Con diều ở trên cái bàn."
+          },
+          {
+            "en": "The kite is on the bed.",
+            "vi": "Con diều ở trên cái giường."
+          },
+          {
+            "en": "The kite is in the bag.",
+            "vi": "Con diều ở trong cái cặp."
+          },
+          {
+            "en": "The kite is under the bed.",
+            "vi": "Con diều ở dưới cái giường."
+          }
+        ],
+        "hint": "The kite is on the table. - Con diều ở trên cái bàn.\nThe kite is on the bed. - Con diều ở trên cái giường.\nThe kite is in the bag. - Con diều ở trong cái cặp.\nThe kite is under the bed. - Con diều ở dưới cái giường."
+      },
+      {
+        "id": 871,
+        "title": [
+          {
+            "en": "Phong has a hen.",
+            "vi": "Phong có một con gà mái."
+          },
+          {
+            "en": "Phong has a rabbit.",
+            "vi": "Phong có một con thỏ."
+          },
+          {
+            "en": "Phong has a ball.",
+            "vi": "Phong có một quả bóng."
+          },
+          {
+            "en": "Phong has a boat.",
+            "vi": "Phong có một chiếc thuyền."
+          }
+        ],
+        "hint": "Phong has a hen. - Phong có một con gà mái.\nPhong has a rabbit. - Phong có một con thỏ.\nPhong has a ball. - Phong có một quả bóng.\nPhong has a boat. - Phong có một chiếc thuyền."
+      },
+      {
+        "id": 872,
+        "title": [
+          {
+            "en": "The robot is on the box.",
+            "vi": "Con rô-bốt ở trên cái hộp."
+          },
+          {
+            "en": "The robot is in the bag.",
+            "vi": "Con rô-bốt ở trong cái cặp."
+          },
+          {
+            "en": "The robot is under the bed.",
+            "vi": "Con rô-bốt ở dưới cái giường."
+          },
+          {
+            "en": "The robot is under the chair.",
+            "vi": "Con rô-bốt ở dưới cái ghế."
+          }
+        ],
+        "hint": "The robot is on the box. - Con rô-bốt ở trên cái hộp.\nThe robot is in the bag. - Con rô-bốt ở trong cái cặp.\nThe robot is under the bed. - Con rô-bốt ở dưới cái giường.\nThe robot is under the chair. - Con rô-bốt ở dưới cái ghế."
+      },
+      {
+        "id": 873,
+        "title": [
+          {
+            "en": "Mai has a boat.",
+            "vi": "Mai có một chiếc thuyền."
+          },
+          {
+            "en": "Mai has a hen.",
+            "vi": "Mai có một con gà mái."
+          },
+          {
+            "en": "Mai has a drum.",
+            "vi": "Mai có một cái trống."
+          },
+          {
+            "en": "Mai has a puzzle.",
+            "vi": "Mai có một bộ xếp hình."
+          }
+        ],
+        "hint": "Mai has a boat. - Mai có một chiếc thuyền.\nMai has a hen. - Mai có một con gà mái.\nMai has a drum. - Mai có một cái trống.\nMai has a puzzle. - Mai có một bộ xếp hình."
+      },
+      {
+        "id": 874,
+        "title": [
+          {
+            "en": "Close the door.",
+            "vi": "Hãy đóng cửa lại."
+          },
+          {
+            "en": "Do you like apples?",
+            "vi": "Bạn có thích táo không?"
+          },
+          {
+            "en": "Thank you.",
+            "vi": "Cảm ơn bạn."
+          },
+          {
+            "en": "Sit down, please.",
+            "vi": "Mời bạn ngồi xuống."
+          }
+        ],
+        "hint": "Close the door. - Hãy đóng cửa lại.\nDo you like apples? - Bạn có thích táo không?\nThank you. - Cảm ơn bạn.\nSit down, please. - Mời bạn ngồi xuống."
+      },
+      {
+        "id": 875,
+        "title": [
+          {
+            "en": "This is a green shirt.",
+            "vi": "Đây là một cái áo sơ mi màu xanh lá."
+          },
+          {
+            "en": "This is a green balloon.",
+            "vi": "Đây là một quả bóng bay màu xanh lá."
+          },
+          {
+            "en": "This is a green coat.",
+            "vi": "Đây là một cái áo khoác màu xanh lá."
+          },
+          {
+            "en": "This is a green robot.",
+            "vi": "Đây là một con rô-bốt màu xanh lá."
+          }
+        ],
+        "hint": "This is a green shirt. - Đây là một cái áo sơ mi màu xanh lá.\nThis is a green balloon. - Đây là một quả bóng bay màu xanh lá.\nThis is a green coat. - Đây là một cái áo khoác màu xanh lá.\nThis is a green robot. - Đây là một con rô-bốt màu xanh lá."
+      },
+      {
+        "id": 876,
+        "title": [
+          {
+            "en": "This is a green top.",
+            "vi": "Đây là một con quay màu xanh lá."
+          },
+          {
+            "en": "This is a green book.",
+            "vi": "Đây là một quyển sách màu xanh lá."
+          },
+          {
+            "en": "This is a green drum.",
+            "vi": "Đây là một cái trống màu xanh lá."
+          },
+          {
+            "en": "This is a green jacket.",
+            "vi": "Đây là một cái áo khoác màu xanh lá."
+          }
+        ],
+        "hint": "This is a green top. - Đây là một con quay màu xanh lá.\nThis is a green book. - Đây là một quyển sách màu xanh lá.\nThis is a green drum. - Đây là một cái trống màu xanh lá.\nThis is a green jacket. - Đây là một cái áo khoác màu xanh lá."
+      },
+      {
+        "id": 877,
+        "title": [
+          {
+            "en": "The doll is in the bag.",
+            "vi": "Con búp bê ở trong cái cặp."
+          },
+          {
+            "en": "The doll is on the desk.",
+            "vi": "Con búp bê ở trên cái bàn học."
+          },
+          {
+            "en": "The doll is on the chair.",
+            "vi": "Con búp bê ở trên cái ghế."
+          },
+          {
+            "en": "The doll is in the box.",
+            "vi": "Con búp bê ở trong cái hộp."
+          }
+        ],
+        "hint": "The doll is in the bag. - Con búp bê ở trong cái cặp.\nThe doll is on the desk. - Con búp bê ở trên cái bàn học.\nThe doll is on the chair. - Con búp bê ở trên cái ghế.\nThe doll is in the box. - Con búp bê ở trong cái hộp."
+      },
+      {
+        "id": 878,
+        "title": [
+          {
+            "en": "The pen is in the box.",
+            "vi": "Cái bút mực ở trong cái hộp."
+          },
+          {
+            "en": "The pen is under the chair.",
+            "vi": "Cái bút mực ở dưới cái ghế."
+          },
+          {
+            "en": "The pen is on the bag.",
+            "vi": "Cái bút mực ở trên cái cặp."
+          },
+          {
+            "en": "The pen is under the desk.",
+            "vi": "Cái bút mực ở dưới cái bàn học."
+          }
+        ],
+        "hint": "The pen is in the box. - Cái bút mực ở trong cái hộp.\nThe pen is under the chair. - Cái bút mực ở dưới cái ghế.\nThe pen is on the bag. - Cái bút mực ở trên cái cặp.\nThe pen is under the desk. - Cái bút mực ở dưới cái bàn học."
+      },
+      {
+        "id": 879,
+        "title": [
+          {
+            "en": "This is a blue flag.",
+            "vi": "Đây là một lá cờ màu xanh dương."
+          },
+          {
+            "en": "This is a blue hat.",
+            "vi": "Đây là một cái mũ màu xanh dương."
+          },
+          {
+            "en": "This is a blue eraser.",
+            "vi": "Đây là một cục tẩy màu xanh dương."
+          },
+          {
+            "en": "This is a blue balloon.",
+            "vi": "Đây là một quả bóng bay màu xanh dương."
+          }
+        ],
+        "hint": "This is a blue flag. - Đây là một lá cờ màu xanh dương.\nThis is a blue hat. - Đây là một cái mũ màu xanh dương.\nThis is a blue eraser. - Đây là một cục tẩy màu xanh dương.\nThis is a blue balloon. - Đây là một quả bóng bay màu xanh dương."
+      },
+      {
+        "id": 880,
+        "title": [
+          {
+            "en": "The kite is under the chair.",
+            "vi": "Con diều ở dưới cái ghế."
+          },
+          {
+            "en": "The kite is under the table.",
+            "vi": "Con diều ở dưới cái bàn."
+          },
+          {
+            "en": "The kite is on the chair.",
+            "vi": "Con diều ở trên cái ghế."
+          },
+          {
+            "en": "The kite is under the bed.",
+            "vi": "Con diều ở dưới cái giường."
+          }
+        ],
+        "hint": "The kite is under the chair. - Con diều ở dưới cái ghế.\nThe kite is under the table. - Con diều ở dưới cái bàn.\nThe kite is on the chair. - Con diều ở trên cái ghế.\nThe kite is under the bed. - Con diều ở dưới cái giường."
+      },
+      {
+        "id": 881,
+        "title": [
+          {
+            "en": "Tom has a fish.",
+            "vi": "Tom có một con cá."
+          },
+          {
+            "en": "Tom has a drum.",
+            "vi": "Tom có một cái trống."
+          },
+          {
+            "en": "Tom has a car.",
+            "vi": "Tom có một chiếc ô tô."
+          },
+          {
+            "en": "Tom has a puzzle.",
+            "vi": "Tom có một bộ xếp hình."
+          }
+        ],
+        "hint": "Tom has a fish. - Tom có một con cá.\nTom has a drum. - Tom có một cái trống.\nTom has a car. - Tom có một chiếc ô tô.\nTom has a puzzle. - Tom có một bộ xếp hình."
+      },
+      {
+        "id": 882,
+        "title": [
+          {
+            "en": "Where is the cat?",
+            "vi": "Con mèo ở đâu?"
+          },
+          {
+            "en": "Can you swim?",
+            "vi": "Bạn có biết bơi không?"
+          },
+          {
+            "en": "Stand up, please.",
+            "vi": "Mời bạn đứng lên."
+          },
+          {
+            "en": "What is your name?",
+            "vi": "Bạn tên là gì?"
+          }
+        ],
+        "hint": "Where is the cat? - Con mèo ở đâu?\nCan you swim? - Bạn có biết bơi không?\nStand up, please. - Mời bạn đứng lên.\nWhat is your name? - Bạn tên là gì?"
+      },
+      {
+        "id": 883,
+        "title": [
+          {
+            "en": "The car is on the box.",
+            "vi": "Chiếc ô tô ở trên cái hộp."
+          },
+          {
+            "en": "The car is on the desk.",
+            "vi": "Chiếc ô tô ở trên cái bàn học."
+          },
+          {
+            "en": "The car is on the bed.",
+            "vi": "Chiếc ô tô ở trên cái giường."
+          },
+          {
+            "en": "The car is on the bag.",
+            "vi": "Chiếc ô tô ở trên cái cặp."
+          }
+        ],
+        "hint": "The car is on the box. - Chiếc ô tô ở trên cái hộp.\nThe car is on the desk. - Chiếc ô tô ở trên cái bàn học.\nThe car is on the bed. - Chiếc ô tô ở trên cái giường.\nThe car is on the bag. - Chiếc ô tô ở trên cái cặp."
+      },
+      {
+        "id": 884,
+        "title": [
+          {
+            "en": "Is it a ball?",
+            "vi": "Đó có phải là quả bóng không?"
+          },
+          {
+            "en": "How old are you?",
+            "vi": "Bạn bao nhiêu tuổi?"
+          },
+          {
+            "en": "Open your book.",
+            "vi": "Hãy mở sách ra."
+          },
+          {
+            "en": "Close the door.",
+            "vi": "Hãy đóng cửa lại."
+          }
+        ],
+        "hint": "Is it a ball? - Đó có phải là quả bóng không?\nHow old are you? - Bạn bao nhiêu tuổi?\nOpen your book. - Hãy mở sách ra.\nClose the door. - Hãy đóng cửa lại."
+      },
+      {
+        "id": 885,
+        "title": [
+          {
+            "en": "How many dogs are there?",
+            "vi": "Có bao nhiêu con chó?"
+          },
+          {
+            "en": "Is it a ball?",
+            "vi": "Đó có phải là quả bóng không?"
+          },
+          {
+            "en": "Do you like apples?",
+            "vi": "Bạn có thích táo không?"
+          },
+          {
+            "en": "Can you swim?",
+            "vi": "Bạn có biết bơi không?"
+          }
+        ],
+        "hint": "How many dogs are there? - Có bao nhiêu con chó?\nIs it a ball? - Đó có phải là quả bóng không?\nDo you like apples? - Bạn có thích táo không?\nCan you swim? - Bạn có biết bơi không?"
+      },
+      {
+        "id": 886,
+        "title": [
+          {
+            "en": "My brother is in the bathroom.",
+            "vi": "Anh trai của mình đang ở trong phòng tắm."
+          },
+          {
+            "en": "My mother is in the bathroom.",
+            "vi": "Mẹ của mình đang ở trong phòng tắm."
+          },
+          {
+            "en": "My grandpa is in the bathroom.",
+            "vi": "Ông của mình đang ở trong phòng tắm."
+          },
+          {
+            "en": "My sister is in the bathroom.",
+            "vi": "Chị gái của mình đang ở trong phòng tắm."
+          }
+        ],
+        "hint": "My brother is in the bathroom. - Anh trai của mình đang ở trong phòng tắm.\nMy mother is in the bathroom. - Mẹ của mình đang ở trong phòng tắm.\nMy grandpa is in the bathroom. - Ông của mình đang ở trong phòng tắm.\nMy sister is in the bathroom. - Chị gái của mình đang ở trong phòng tắm."
+      },
+      {
+        "id": 887,
+        "title": [
+          {
+            "en": "My father is in the living room.",
+            "vi": "Bố của mình đang ở trong phòng khách."
+          },
+          {
+            "en": "My grandma is in the living room.",
+            "vi": "Bà của mình đang ở trong phòng khách."
+          },
+          {
+            "en": "My mother is in the living room.",
+            "vi": "Mẹ của mình đang ở trong phòng khách."
+          },
+          {
+            "en": "My brother is in the living room.",
+            "vi": "Anh trai của mình đang ở trong phòng khách."
+          }
+        ],
+        "hint": "My father is in the living room. - Bố của mình đang ở trong phòng khách.\nMy grandma is in the living room. - Bà của mình đang ở trong phòng khách.\nMy mother is in the living room. - Mẹ của mình đang ở trong phòng khách.\nMy brother is in the living room. - Anh trai của mình đang ở trong phòng khách."
+      },
+      {
+        "id": 888,
+        "title": [
+          {
+            "en": "This is a pink train.",
+            "vi": "Đây là một đoàn tàu hỏa màu hồng."
+          },
+          {
+            "en": "This is a pink shoe.",
+            "vi": "Đây là một chiếc giày màu hồng."
+          },
+          {
+            "en": "This is a pink bike.",
+            "vi": "Đây là một chiếc xe đạp màu hồng."
+          },
+          {
+            "en": "This is a pink sock.",
+            "vi": "Đây là một chiếc tất màu hồng."
+          }
+        ],
+        "hint": "This is a pink train. - Đây là một đoàn tàu hỏa màu hồng.\nThis is a pink shoe. - Đây là một chiếc giày màu hồng.\nThis is a pink bike. - Đây là một chiếc xe đạp màu hồng.\nThis is a pink sock. - Đây là một chiếc tất màu hồng."
+      },
+      {
+        "id": 889,
+        "title": [
+          {
+            "en": "My father is in the bedroom.",
+            "vi": "Bố của mình đang ở trong phòng ngủ."
+          },
+          {
+            "en": "My grandpa is in the bedroom.",
+            "vi": "Ông của mình đang ở trong phòng ngủ."
+          },
+          {
+            "en": "My sister is in the bedroom.",
+            "vi": "Chị gái của mình đang ở trong phòng ngủ."
+          },
+          {
+            "en": "My brother is in the bedroom.",
+            "vi": "Anh trai của mình đang ở trong phòng ngủ."
+          }
+        ],
+        "hint": "My father is in the bedroom. - Bố của mình đang ở trong phòng ngủ.\nMy grandpa is in the bedroom. - Ông của mình đang ở trong phòng ngủ.\nMy sister is in the bedroom. - Chị gái của mình đang ở trong phòng ngủ.\nMy brother is in the bedroom. - Anh trai của mình đang ở trong phòng ngủ."
+      },
+      {
+        "id": 890,
+        "title": [
+          {
+            "en": "My grandma is in the bathroom.",
+            "vi": "Bà của mình đang ở trong phòng tắm."
+          },
+          {
+            "en": "My grandpa is in the bathroom.",
+            "vi": "Ông của mình đang ở trong phòng tắm."
+          },
+          {
+            "en": "My mother is in the bathroom.",
+            "vi": "Mẹ của mình đang ở trong phòng tắm."
+          },
+          {
+            "en": "My father is in the bathroom.",
+            "vi": "Bố của mình đang ở trong phòng tắm."
+          }
+        ],
+        "hint": "My grandma is in the bathroom. - Bà của mình đang ở trong phòng tắm.\nMy grandpa is in the bathroom. - Ông của mình đang ở trong phòng tắm.\nMy mother is in the bathroom. - Mẹ của mình đang ở trong phòng tắm.\nMy father is in the bathroom. - Bố của mình đang ở trong phòng tắm."
+      },
+      {
+        "id": 891,
+        "title": [
+          {
+            "en": "What is he doing?",
+            "vi": "Cậu ấy đang làm gì?"
+          },
+          {
+            "en": "What is this?",
+            "vi": "Đây là cái gì?"
+          },
+          {
+            "en": "How are you?",
+            "vi": "Bạn có khỏe không?"
+          },
+          {
+            "en": "Thank you.",
+            "vi": "Cảm ơn bạn."
+          }
+        ],
+        "hint": "What is he doing? - Cậu ấy đang làm gì?\nWhat is this? - Đây là cái gì?\nHow are you? - Bạn có khỏe không?\nThank you. - Cảm ơn bạn."
+      },
+      {
+        "id": 892,
+        "title": [
+          {
+            "en": "My brother is in the kitchen.",
+            "vi": "Anh trai của mình đang ở trong nhà bếp."
+          },
+          {
+            "en": "My grandpa is in the kitchen.",
+            "vi": "Ông của mình đang ở trong nhà bếp."
+          },
+          {
+            "en": "My sister is in the kitchen.",
+            "vi": "Chị gái của mình đang ở trong nhà bếp."
+          },
+          {
+            "en": "My grandma is in the kitchen.",
+            "vi": "Bà của mình đang ở trong nhà bếp."
+          }
+        ],
+        "hint": "My brother is in the kitchen. - Anh trai của mình đang ở trong nhà bếp.\nMy grandpa is in the kitchen. - Ông của mình đang ở trong nhà bếp.\nMy sister is in the kitchen. - Chị gái của mình đang ở trong nhà bếp.\nMy grandma is in the kitchen. - Bà của mình đang ở trong nhà bếp."
+      },
+      {
+        "id": 893,
+        "title": [
+          {
+            "en": "This is a green pen.",
+            "vi": "Đây là một cái bút mực màu xanh lá."
+          },
+          {
+            "en": "This is a green guitar.",
+            "vi": "Đây là một cây đàn ghi-ta màu xanh lá."
+          },
+          {
+            "en": "This is a green bell.",
+            "vi": "Đây là một cái chuông màu xanh lá."
+          },
+          {
+            "en": "This is a green doll.",
+            "vi": "Đây là một con búp bê màu xanh lá."
+          }
+        ],
+        "hint": "This is a green pen. - Đây là một cái bút mực màu xanh lá.\nThis is a green guitar. - Đây là một cây đàn ghi-ta màu xanh lá.\nThis is a green bell. - Đây là một cái chuông màu xanh lá.\nThis is a green doll. - Đây là một con búp bê màu xanh lá."
+      },
+      {
+        "id": 894,
+        "title": [
+          {
+            "en": "Open your book.",
+            "vi": "Hãy mở sách ra."
+          },
+          {
+            "en": "Where is the cat?",
+            "vi": "Con mèo ở đâu?"
+          },
+          {
+            "en": "Sit down, please.",
+            "vi": "Mời bạn ngồi xuống."
+          },
+          {
+            "en": "What colour is it?",
+            "vi": "Nó màu gì?"
+          }
+        ],
+        "hint": "Open your book. - Hãy mở sách ra.\nWhere is the cat? - Con mèo ở đâu?\nSit down, please. - Mời bạn ngồi xuống.\nWhat colour is it? - Nó màu gì?"
+      },
+      {
+        "id": 895,
+        "title": [
+          {
+            "en": "What is your name?",
+            "vi": "Bạn tên là gì?"
+          },
+          {
+            "en": "Where is the cat?",
+            "vi": "Con mèo ở đâu?"
+          },
+          {
+            "en": "Open your book.",
+            "vi": "Hãy mở sách ra."
+          },
+          {
+            "en": "How old are you?",
+            "vi": "Bạn bao nhiêu tuổi?"
+          }
+        ],
+        "hint": "What is your name? - Bạn tên là gì?\nWhere is the cat? - Con mèo ở đâu?\nOpen your book. - Hãy mở sách ra.\nHow old are you? - Bạn bao nhiêu tuổi?"
+      },
+      {
+        "id": 896,
+        "title": [
+          {
+            "en": "The apple is under the chair.",
+            "vi": "Quả táo ở dưới cái ghế."
+          },
+          {
+            "en": "The apple is under the table.",
+            "vi": "Quả táo ở dưới cái bàn."
+          },
+          {
+            "en": "The apple is on the box.",
+            "vi": "Quả táo ở trên cái hộp."
+          },
+          {
+            "en": "The apple is on the chair.",
+            "vi": "Quả táo ở trên cái ghế."
+          }
+        ],
+        "hint": "The apple is under the chair. - Quả táo ở dưới cái ghế.\nThe apple is under the table. - Quả táo ở dưới cái bàn.\nThe apple is on the box. - Quả táo ở trên cái hộp.\nThe apple is on the chair. - Quả táo ở trên cái ghế."
+      },
+      {
+        "id": 897,
+        "title": [
+          {
+            "en": "Polly has a kite.",
+            "vi": "Polly có một con diều."
+          },
+          {
+            "en": "Polly has a ball.",
+            "vi": "Polly có một quả bóng."
+          },
+          {
+            "en": "Polly has a fish.",
+            "vi": "Polly có một con cá."
+          },
+          {
+            "en": "Polly has a duck.",
+            "vi": "Polly có một con vịt."
+          }
+        ],
+        "hint": "Polly has a kite. - Polly có một con diều.\nPolly has a ball. - Polly có một quả bóng.\nPolly has a fish. - Polly có một con cá.\nPolly has a duck. - Polly có một con vịt."
+      },
+      {
+        "id": 898,
+        "title": [
+          {
+            "en": "My mother is in the living room.",
+            "vi": "Mẹ của mình đang ở trong phòng khách."
+          },
+          {
+            "en": "My father is in the living room.",
+            "vi": "Bố của mình đang ở trong phòng khách."
+          },
+          {
+            "en": "My grandma is in the living room.",
+            "vi": "Bà của mình đang ở trong phòng khách."
+          },
+          {
+            "en": "My sister is in the living room.",
+            "vi": "Chị gái của mình đang ở trong phòng khách."
+          }
+        ],
+        "hint": "My mother is in the living room. - Mẹ của mình đang ở trong phòng khách.\nMy father is in the living room. - Bố của mình đang ở trong phòng khách.\nMy grandma is in the living room. - Bà của mình đang ở trong phòng khách.\nMy sister is in the living room. - Chị gái của mình đang ở trong phòng khách."
+      },
+      {
+        "id": 899,
+        "title": [
+          {
+            "en": "Nga has a doll.",
+            "vi": "Nga có một con búp bê."
+          },
+          {
+            "en": "Nga has a boat.",
+            "vi": "Nga có một chiếc thuyền."
+          },
+          {
+            "en": "Nga has a balloon.",
+            "vi": "Nga có một quả bóng bay."
+          },
+          {
+            "en": "Nga has a turtle.",
+            "vi": "Nga có một con rùa."
+          }
+        ],
+        "hint": "Nga has a doll. - Nga có một con búp bê.\nNga has a boat. - Nga có một chiếc thuyền.\nNga has a balloon. - Nga có một quả bóng bay.\nNga has a turtle. - Nga có một con rùa."
+      },
+      {
+        "id": 900,
+        "title": [
+          {
+            "en": "Tom has a dog.",
+            "vi": "Tom có một con chó."
+          },
+          {
+            "en": "Tom has a puppet.",
+            "vi": "Tom có một con rối."
+          },
+          {
+            "en": "Tom has a bus.",
+            "vi": "Tom có một chiếc xe buýt."
+          },
+          {
+            "en": "Tom has a top.",
+            "vi": "Tom có một con quay."
+          }
+        ],
+        "hint": "Tom has a dog. - Tom có một con chó.\nTom has a puppet. - Tom có một con rối.\nTom has a bus. - Tom có một chiếc xe buýt.\nTom has a top. - Tom có một con quay."
+      }
+    ]
   }
 ]

@@ -103,7 +103,7 @@
       {
         "id": 13,
         "sentence": "It's a _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sagoose.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsagoose.png",
         "audioUrl": "",
         "answer": "goose",
         "hint": "It's a goose: Đó là một con ngỗng."
@@ -143,7 +143,7 @@
       {
         "id": 18,
         "sentence": "It's a green _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sagreendoor.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsagreendoor.png",
         "audioUrl": "",
         "answer": "door",
         "hint": "It's a green door: Đó là một cái cửa ra vào màu xanh lá."
@@ -175,7 +175,7 @@
       {
         "id": 22,
         "sentence": "It's a purple _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sapurplepencil.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsapurplepencil.png",
         "audioUrl": "",
         "answer": "pencil",
         "hint": "It's a purple pencil: Đó là một cái bút chì màu tím."
@@ -391,7 +391,7 @@
       {
         "id": 49,
         "sentence": "It's a _ _ _ kite.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'saredkite.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsaredkite.png",
         "audioUrl": "",
         "answer": "red",
         "hint": "It's a red kite: Đó là một con diều màu đỏ."
@@ -448,7 +448,7 @@
         "id": 56,
         "sentence": "It's a _ _ _ _ guitar.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sapinkguitar.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsapinkguitar.mp3",
         "answer": "pink",
         "hint": "It's a pink guitar: Đó là một cây đàn ghi-ta màu hồng."
       },
@@ -624,7 +624,7 @@
         "id": 78,
         "sentence": "It's a _ _ _ _ _ teddy bear.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sabrownteddybear.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsabrownteddybear.mp3",
         "answer": "brown",
         "hint": "It's a brown teddy bear: Đó là một con gấu bông màu nâu."
       },
@@ -671,7 +671,7 @@
       {
         "id": 84,
         "sentence": "It's an orange _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sanorangeguitar.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsanorangeguitar.png",
         "audioUrl": "",
         "answer": "guitar",
         "hint": "It's an orange guitar: Đó là một cây đàn ghi-ta màu cam."
@@ -776,7 +776,7 @@
         "id": 97,
         "sentence": "It's a red _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'saredcoat.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsaredcoat.mp3",
         "answer": "coat",
         "hint": "It's a red coat: Đó là một cái áo khoác màu đỏ."
       },
@@ -855,7 +855,7 @@
         "id": 106,
         "sentence": "It's a _ _ _ _ _ _ kite.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sayellowkite.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsayellowkite.mp3",
         "answer": "yellow",
         "hint": "It's a yellow kite: Đó là một con diều màu vàng."
       },
@@ -959,7 +959,7 @@
         "id": 119,
         "sentence": "It's a red _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'saredguitar.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsaredguitar.mp3",
         "answer": "guitar",
         "hint": "It's a red guitar: Đó là một cây đàn ghi-ta màu đỏ."
       },
@@ -1118,7 +1118,7 @@
       {
         "id": 139,
         "sentence": "It's an orange _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sanorangecap.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsanorangecap.png",
         "audioUrl": "",
         "answer": "cap",
         "hint": "It's an orange cap: Đó là một cái mũ lưỡi trai màu cam."
@@ -1271,7 +1271,7 @@
         "id": 158,
         "sentence": "It's a pink _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sapinkbook.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsapinkbook.mp3",
         "answer": "book",
         "hint": "It's a pink book: Đó là một quyển sách màu hồng."
       },
@@ -1422,7 +1422,7 @@
       {
         "id": 177,
         "sentence": "It's a _ _ _ _ book.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sabluebook.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsabluebook.png",
         "audioUrl": "",
         "answer": "blue",
         "hint": "It's a blue book: Đó là một quyển sách màu xanh dương."
@@ -1551,7 +1551,7 @@
         "id": 193,
         "sentence": "It's a _ _ _ _ dress.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sabluedress.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsabluedress.mp3",
         "answer": "blue",
         "hint": "It's a blue dress: Đó là một cái váy liền màu xanh dương."
       },
@@ -1599,7 +1599,7 @@
         "id": 199,
         "sentence": "It's a _ _ _ _ computer.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sabluecomputer.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsabluecomputer.mp3",
         "answer": "blue",
         "hint": "It's a blue computer: Đó là một cái máy tính màu xanh dương."
       },
@@ -1661,7 +1661,7 @@
       {
         "id": 206,
         "sentence": "It's a pink _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sapinkhat.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsapinkhat.png",
         "audioUrl": "",
         "answer": "hat",
         "hint": "It's a pink hat: Đó là một cái mũ màu hồng."
@@ -1749,7 +1749,7 @@
       {
         "id": 217,
         "sentence": "It's a pink _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sapinkchair.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsapinkchair.png",
         "audioUrl": "",
         "answer": "chair",
         "hint": "It's a pink chair: Đó là một cái ghế màu hồng."
@@ -1766,7 +1766,7 @@
         "id": 219,
         "sentence": "It's a white _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sawhitebike.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsawhitebike.mp3",
         "answer": "bike",
         "hint": "It's a white bike: Đó là một chiếc xe đạp màu trắng."
       },
@@ -1870,7 +1870,7 @@
         "id": 232,
         "sentence": "It's a _ _ _ _ _ top.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sablacktop.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsablacktop.mp3",
         "answer": "black",
         "hint": "It's a black top: Đó là một con quay màu đen."
       },
@@ -2054,7 +2054,7 @@
         "id": 255,
         "sentence": "It's a yellow _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sayellowpuzzle.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsayellowpuzzle.mp3",
         "answer": "puzzle",
         "hint": "It's a yellow puzzle: Đó là một bộ xếp hình màu vàng."
       },
@@ -2141,7 +2141,7 @@
       {
         "id": 266,
         "sentence": "It's a _ _ _ _ _ book.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sabrownbook.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsabrownbook.png",
         "audioUrl": "",
         "answer": "brown",
         "hint": "It's a brown book: Đó là một quyển sách màu nâu."
@@ -2205,7 +2205,7 @@
       {
         "id": 274,
         "sentence": "It's a _ _ _ _ cap.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sabluecap.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsabluecap.png",
         "audioUrl": "",
         "answer": "blue",
         "hint": "It's a blue cap: Đó là một cái mũ lưỡi trai màu xanh dương."
@@ -2222,7 +2222,7 @@
         "id": 276,
         "sentence": "It's a _ _ _ _ jug.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sapinkjug.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsapinkjug.mp3",
         "answer": "pink",
         "hint": "It's a pink jug: Đó là một cái bình màu hồng."
       },
@@ -2382,7 +2382,7 @@
         "id": 296,
         "sentence": "It's an _ _ _ _ _ _ doll.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sanorangedoll.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsanorangedoll.mp3",
         "answer": "orange",
         "hint": "It's an orange doll: Đó là một con búp bê màu cam."
       },
@@ -2724,7 +2724,7 @@
       {
         "id": 338,
         "sentence": "It's an orange _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sanorangedress.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsanorangedress.png",
         "audioUrl": "",
         "answer": "dress",
         "hint": "It's an orange dress: Đó là một cái váy liền màu cam."
@@ -2772,7 +2772,7 @@
       {
         "id": 344,
         "sentence": "It's an orange _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sanorangejacket.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsanorangejacket.png",
         "audioUrl": "",
         "answer": "jacket",
         "hint": "It's an orange jacket: Đó là một cái áo khoác màu cam."
@@ -2788,7 +2788,7 @@
       {
         "id": 346,
         "sentence": "It's a _ _ _ _ _ crayon.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sablackcrayon.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsablackcrayon.png",
         "audioUrl": "",
         "answer": "black",
         "hint": "It's a black crayon: Đó là một cây bút sáp màu đen."
@@ -2852,7 +2852,7 @@
       {
         "id": 354,
         "sentence": "It's a red _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'saredbike.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsaredbike.png",
         "audioUrl": "",
         "answer": "bike",
         "hint": "It's a red bike: Đó là một chiếc xe đạp màu đỏ."
@@ -2877,7 +2877,7 @@
         "id": 357,
         "sentence": "It's a _ _ _ _ _ puzzle.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sagreenpuzzle.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsagreenpuzzle.mp3",
         "answer": "green",
         "hint": "It's a green puzzle: Đó là một bộ xếp hình màu xanh lá."
       },
@@ -2932,7 +2932,7 @@
       {
         "id": 364,
         "sentence": "It's a _ _ _ _ _ plane.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sagreenplane.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsagreenplane.png",
         "audioUrl": "",
         "answer": "green",
         "hint": "It's a green plane: Đó là một chiếc máy bay màu xanh lá."
@@ -2941,7 +2941,7 @@
         "id": 365,
         "sentence": "It's a _ _ _ _ _ _ lemon.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sayellowlemon.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsayellowlemon.mp3",
         "answer": "yellow",
         "hint": "It's a yellow lemon: Đó là một quả chanh màu vàng."
       },
@@ -2973,7 +2973,7 @@
         "id": 369,
         "sentence": "It's a _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sabook.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsabook.mp3",
         "answer": "book",
         "hint": "It's a book: Đó là một quyển sách."
       },
@@ -3021,7 +3021,7 @@
         "id": 375,
         "sentence": "It's a black _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sablackchair.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsablackchair.mp3",
         "answer": "chair",
         "hint": "It's a black chair: Đó là một cái ghế màu đen."
       },
@@ -3037,7 +3037,7 @@
         "id": 377,
         "sentence": "It's a brown _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sabrownclock.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsabrownclock.mp3",
         "answer": "clock",
         "hint": "It's a brown clock: Đó là một cái đồng hồ màu nâu."
       },
@@ -3060,7 +3060,7 @@
       {
         "id": 380,
         "sentence": "It's a purple _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sapurplerobot.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsapurplerobot.png",
         "audioUrl": "",
         "answer": "robot",
         "hint": "It's a purple robot: Đó là một con rô-bốt màu tím."
@@ -3076,7 +3076,7 @@
       {
         "id": 382,
         "sentence": "It's a red _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'saredmop.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsaredmop.png",
         "audioUrl": "",
         "answer": "mop",
         "hint": "It's a red mop: Đó là một cây lau nhà màu đỏ."
@@ -3084,7 +3084,7 @@
       {
         "id": 383,
         "sentence": "It's a _ _ _ _ _ plane.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sawhiteplane.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsawhiteplane.png",
         "audioUrl": "",
         "answer": "white",
         "hint": "It's a white plane: Đó là một chiếc máy bay màu trắng."
@@ -3101,7 +3101,7 @@
         "id": 385,
         "sentence": "It's a _ _ _ _ _ _ skirt.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sapurpleskirt.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsapurpleskirt.mp3",
         "answer": "purple",
         "hint": "It's a purple skirt: Đó là một cái chân váy màu tím."
       },
@@ -3132,7 +3132,7 @@
       {
         "id": 389,
         "sentence": "It's a _ _ _ _ _ clock.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sagreenclock.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsagreenclock.png",
         "audioUrl": "",
         "answer": "green",
         "hint": "It's a green clock: Đó là một cái đồng hồ màu xanh lá."
@@ -3165,14 +3165,14 @@
         "id": 393,
         "sentence": "It's a _ _ _ crayon.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'saredcrayon.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsaredcrayon.mp3",
         "answer": "red",
         "hint": "It's a red crayon: Đó là một cây bút sáp màu đỏ."
       },
       {
         "id": 394,
         "sentence": "It's a _ _ _ _ _ bag.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sawhitebag.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsawhitebag.png",
         "audioUrl": "",
         "answer": "white",
         "hint": "It's a white bag: Đó là một cái cặp màu trắng."
@@ -3188,7 +3188,7 @@
       {
         "id": 396,
         "sentence": "It's a blue _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sabluecar.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsabluecar.png",
         "audioUrl": "",
         "answer": "car",
         "hint": "It's a blue car: Đó là một chiếc ô tô màu xanh dương."
@@ -3197,7 +3197,7 @@
         "id": 397,
         "sentence": "It's a _ _ _ _ truck.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sabluetruck.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsabluetruck.mp3",
         "answer": "blue",
         "hint": "It's a blue truck: Đó là một chiếc xe tải màu xanh dương."
       },
@@ -3213,7 +3213,7 @@
         "id": 399,
         "sentence": "It's a _ _ _ _ _ _ car.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sayellowcar.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsayellowcar.mp3",
         "answer": "yellow",
         "hint": "It's a yellow car: Đó là một chiếc ô tô màu vàng."
       },
@@ -3276,7 +3276,7 @@
         "id": 406,
         "sentence": "It's a black _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sablackcup.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsablackcup.mp3",
         "answer": "cup",
         "hint": "It's a black cup: Đó là một cái cốc màu đen."
       },
@@ -3300,14 +3300,14 @@
         "id": 409,
         "sentence": "It's a _ _ _ cup.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'saredcup.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsaredcup.mp3",
         "answer": "red",
         "hint": "It's a red cup: Đó là một cái cốc màu đỏ."
       },
       {
         "id": 410,
         "sentence": "It's a _ _ _ _ _ pen.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sawhitepen.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsawhitepen.png",
         "audioUrl": "",
         "answer": "white",
         "hint": "It's a white pen: Đó là một cái bút mực màu trắng."
@@ -3324,14 +3324,14 @@
         "id": 412,
         "sentence": "It's a pink _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sapinkpencil.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsapinkpencil.mp3",
         "answer": "pencil",
         "hint": "It's a pink pencil: Đó là một cái bút chì màu hồng."
       },
       {
         "id": 413,
         "sentence": "It's a _ _ _ train.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'saredtrain.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsaredtrain.png",
         "audioUrl": "",
         "answer": "red",
         "hint": "It's a red train: Đó là một đoàn tàu hỏa màu đỏ."
@@ -3364,7 +3364,7 @@
         "id": 417,
         "sentence": "It's a yellow _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sayellowdesk.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsayellowdesk.mp3",
         "answer": "desk",
         "hint": "It's a yellow desk: Đó là một cái bàn học màu vàng."
       },
@@ -3380,7 +3380,7 @@
         "id": 419,
         "sentence": "It's a _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sadesk.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsadesk.mp3",
         "answer": "desk",
         "hint": "It's a desk: Đó là một cái bàn học."
       },
@@ -3388,7 +3388,7 @@
         "id": 420,
         "sentence": "It's a _ _ _ _ teddy bear.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sablueteddybear.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsablueteddybear.mp3",
         "answer": "blue",
         "hint": "It's a blue teddy bear: Đó là một con gấu bông màu xanh dương."
       },
@@ -3412,7 +3412,7 @@
         "id": 423,
         "sentence": "It's a _ _ _ _ _ _ bike.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sayellowbike.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsayellowbike.mp3",
         "answer": "yellow",
         "hint": "It's a yellow bike: Đó là một chiếc xe đạp màu vàng."
       },
@@ -3428,14 +3428,14 @@
         "id": 425,
         "sentence": "It's a _ _ _ _ _ doll.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sabrowndoll.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsabrowndoll.mp3",
         "answer": "brown",
         "hint": "It's a brown doll: Đó là một con búp bê màu nâu."
       },
       {
         "id": 426,
         "sentence": "It's an _ _ _ _ _ _ robot.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sanorangerobot.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsanorangerobot.png",
         "audioUrl": "",
         "answer": "orange",
         "hint": "It's an orange robot: Đó là một con rô-bốt màu cam."
@@ -3444,14 +3444,14 @@
         "id": 427,
         "sentence": "It's a _ _ _ _ _ _ doll.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sayellowdoll.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsayellowdoll.mp3",
         "answer": "yellow",
         "hint": "It's a yellow doll: Đó là một con búp bê màu vàng."
       },
       {
         "id": 428,
         "sentence": "It's a _ _ _ _ mop.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sabluemop.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsabluemop.png",
         "audioUrl": "",
         "answer": "blue",
         "hint": "It's a blue mop: Đó là một cây lau nhà màu xanh dương."
@@ -3467,7 +3467,7 @@
       {
         "id": 430,
         "sentence": "It's an orange _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sanorangetop.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsanorangetop.png",
         "audioUrl": "",
         "answer": "top",
         "hint": "It's an orange top: Đó là một con quay màu cam."
@@ -3476,7 +3476,7 @@
         "id": 431,
         "sentence": "It's a _ _ _ _ _ _ mop.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sayellowmop.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsayellowmop.mp3",
         "answer": "yellow",
         "hint": "It's a yellow mop: Đó là một cây lau nhà màu vàng."
       },
@@ -3499,7 +3499,7 @@
       {
         "id": 434,
         "sentence": "It's a _ _ _ _ _ cap.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sawhitecap.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsawhitecap.png",
         "audioUrl": "",
         "answer": "white",
         "hint": "It's a white cap: Đó là một cái mũ lưỡi trai màu trắng."
@@ -3531,7 +3531,7 @@
       {
         "id": 438,
         "sentence": "It's a blue _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sablueplane.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsablueplane.png",
         "audioUrl": "",
         "answer": "plane",
         "hint": "It's a blue plane: Đó là một chiếc máy bay màu xanh dương."
@@ -3572,7 +3572,7 @@
         "id": 443,
         "sentence": "It's a red _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sareddoor.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsareddoor.mp3",
         "answer": "door",
         "hint": "It's a red door: Đó là một cái cửa ra vào màu đỏ."
       },
@@ -3580,7 +3580,7 @@
         "id": 444,
         "sentence": "It's a blue _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sabluetrain.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsabluetrain.mp3",
         "answer": "train",
         "hint": "It's a blue train: Đó là một đoàn tàu hỏa màu xanh dương."
       },
@@ -3604,7 +3604,7 @@
         "id": 447,
         "sentence": "It's a _ _ _ _ _ _ dress.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sapurpledress.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsapurpledress.mp3",
         "answer": "purple",
         "hint": "It's a purple dress: Đó là một cái váy liền màu tím."
       },
@@ -3619,7 +3619,7 @@
       {
         "id": 449,
         "sentence": "It's a _ _ _ pot.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'saredpot.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsaredpot.png",
         "audioUrl": "",
         "answer": "red",
         "hint": "It's a red pot: Đó là một cái nồi màu đỏ."
@@ -3627,7 +3627,7 @@
       {
         "id": 450,
         "sentence": "It's a _ _ _ car.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'saredcar.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsaredcar.png",
         "audioUrl": "",
         "answer": "red",
         "hint": "It's a red car: Đó là một chiếc ô tô màu đỏ."
@@ -3675,7 +3675,7 @@
       {
         "id": 456,
         "sentence": "It's a _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sastar.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsastar.png",
         "audioUrl": "",
         "answer": "star",
         "hint": "It's a star: Đó là một ngôi sao."
@@ -3683,7 +3683,7 @@
       {
         "id": 457,
         "sentence": "It's a black _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sablacklamp.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsablacklamp.png",
         "audioUrl": "",
         "answer": "lamp",
         "hint": "It's a black lamp: Đó là một cái đèn màu đen."
@@ -3699,7 +3699,7 @@
       {
         "id": 459,
         "sentence": "It's a _ _ _ _ _ desk.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sagreendesk.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsagreendesk.png",
         "audioUrl": "",
         "answer": "green",
         "hint": "It's a green desk: Đó là một cái bàn học màu xanh lá."
@@ -3715,7 +3715,7 @@
       {
         "id": 461,
         "sentence": "It's a purple _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sapurpleguitar.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsapurpleguitar.png",
         "audioUrl": "",
         "answer": "guitar",
         "hint": "It's a purple guitar: Đó là một cây đàn ghi-ta màu tím."
@@ -3747,7 +3747,7 @@
       {
         "id": 465,
         "sentence": "It's a _ _ _ _ _ _ teddy bear.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sayellowteddybear.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsayellowteddybear.png",
         "audioUrl": "",
         "answer": "yellow",
         "hint": "It's a yellow teddy bear: Đó là một con gấu bông màu vàng."
@@ -3755,7 +3755,7 @@
       {
         "id": 466,
         "sentence": "It's a purple _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sapurplepen.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsapurplepen.png",
         "audioUrl": "",
         "answer": "pen",
         "hint": "It's a purple pen: Đó là một cái bút mực màu tím."
@@ -3780,7 +3780,7 @@
         "id": 469,
         "sentence": "It's a _ _ _ cap.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'saredcap.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsaredcap.mp3",
         "answer": "red",
         "hint": "It's a red cap: Đó là một cái mũ lưỡi trai màu đỏ."
       },
@@ -3795,7 +3795,7 @@
       {
         "id": 471,
         "sentence": "It's a _ _ _ _ _ desk.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sablackdesk.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsablackdesk.png",
         "audioUrl": "",
         "answer": "black",
         "hint": "It's a black desk: Đó là một cái bàn học màu đen."
@@ -3811,7 +3811,7 @@
       {
         "id": 473,
         "sentence": "It's a _ _ _ _ _ bag.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sablackbag.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsablackbag.png",
         "audioUrl": "",
         "answer": "black",
         "hint": "It's a black bag: Đó là một cái cặp màu đen."
@@ -3844,7 +3844,7 @@
         "id": 477,
         "sentence": "It's a yellow _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sayellowplane.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsayellowplane.mp3",
         "answer": "plane",
         "hint": "It's a yellow plane: Đó là một chiếc máy bay màu vàng."
       },
@@ -3859,7 +3859,7 @@
       {
         "id": 479,
         "sentence": "It's a green _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sagreenapple.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsagreenapple.png",
         "audioUrl": "",
         "answer": "apple",
         "hint": "It's a green apple: Đó là một quả táo màu xanh lá."
@@ -3875,7 +3875,7 @@
       {
         "id": 481,
         "sentence": "It's a green _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sagreenbag.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsagreenbag.png",
         "audioUrl": "",
         "answer": "bag",
         "hint": "It's a green bag: Đó là một cái cặp màu xanh lá."
@@ -3892,14 +3892,14 @@
         "id": 483,
         "sentence": "It's a _ _ _ pen.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'saredpen.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsaredpen.mp3",
         "answer": "red",
         "hint": "It's a red pen: Đó là một cái bút mực màu đỏ."
       },
       {
         "id": 484,
         "sentence": "It's a pink _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sapinkpen.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsapinkpen.png",
         "audioUrl": "",
         "answer": "pen",
         "hint": "It's a pink pen: Đó là một cái bút mực màu hồng."
@@ -3907,7 +3907,7 @@
       {
         "id": 485,
         "sentence": "It's a purple _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sapurpletrain.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsapurpletrain.png",
         "audioUrl": "",
         "answer": "train",
         "hint": "It's a purple train: Đó là một đoàn tàu hỏa màu tím."
@@ -3963,7 +3963,7 @@
       {
         "id": 492,
         "sentence": "It's a brown _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sabrownjacket.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsabrownjacket.png",
         "audioUrl": "",
         "answer": "jacket",
         "hint": "It's a brown jacket: Đó là một cái áo khoác màu nâu."
@@ -4012,7 +4012,7 @@
         "id": 498,
         "sentence": "It's a white _ _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sawhiteguitar.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsawhiteguitar.mp3",
         "answer": "guitar",
         "hint": "It's a white guitar: Đó là một cây đàn ghi-ta màu trắng."
       },
@@ -4043,7 +4043,7 @@
         "id": 501,
         "sentence": "It's a _ _ _ _ _ computer.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sablackcomputer.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsablackcomputer.mp3",
         "answer": "black",
         "hint": "It's a black computer: Đó là một cái máy tính màu đen."
       },
@@ -4051,14 +4051,14 @@
         "id": 502,
         "sentence": "It's a _ _ _ _ _ robot.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sabrownrobot.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsabrownrobot.mp3",
         "answer": "brown",
         "hint": "It's a brown robot: Đó là một con rô-bốt màu nâu."
       },
       {
         "id": 503,
         "sentence": "It's a _ _ _ top.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'saredtop.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsaredtop.png",
         "audioUrl": "",
         "answer": "red",
         "hint": "It's a red top: Đó là một con quay màu đỏ."
@@ -4122,7 +4122,7 @@
       {
         "id": 511,
         "sentence": "It's a brown _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sabrowntruck.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsabrowntruck.png",
         "audioUrl": "",
         "answer": "truck",
         "hint": "It's a brown truck: Đó là một chiếc xe tải màu nâu."
@@ -4170,7 +4170,7 @@
       {
         "id": 517,
         "sentence": "It's a _ _ _ _ _ _ notebook.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sapurplenotebook.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsapurplenotebook.png",
         "audioUrl": "",
         "answer": "purple",
         "hint": "It's a purple notebook: Đó là một quyển vở màu tím."
@@ -4195,7 +4195,7 @@
         "id": 520,
         "sentence": "It's a white _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sawhitechair.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsawhitechair.mp3",
         "answer": "chair",
         "hint": "It's a white chair: Đó là một cái ghế màu trắng."
       },
@@ -4250,7 +4250,7 @@
       {
         "id": 527,
         "sentence": "It's a white _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sawhiteclock.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsawhiteclock.png",
         "audioUrl": "",
         "answer": "clock",
         "hint": "It's a white clock: Đó là một cái đồng hồ màu trắng."
@@ -4258,7 +4258,7 @@
       {
         "id": 528,
         "sentence": "It's a _ _ _ _ truck.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sapinktruck.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsapinktruck.png",
         "audioUrl": "",
         "answer": "pink",
         "hint": "It's a pink truck: Đó là một chiếc xe tải màu hồng."
@@ -4282,7 +4282,7 @@
       {
         "id": 531,
         "sentence": "It's a _ _ _ _ _ shirt.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sagreenshirt.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsagreenshirt.png",
         "audioUrl": "",
         "answer": "green",
         "hint": "It's a green shirt: Đó là một cái áo sơ mi màu xanh lá."
@@ -4315,7 +4315,7 @@
         "id": 535,
         "sentence": "It's a _ _ _ _ _ mango.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sagreenmango.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsagreenmango.mp3",
         "answer": "green",
         "hint": "It's a green mango: Đó là một quả xoài màu xanh lá."
       },
@@ -4338,7 +4338,7 @@
       {
         "id": 538,
         "sentence": "It's a red _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'saredtruck.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsaredtruck.png",
         "audioUrl": "",
         "answer": "truck",
         "hint": "It's a red truck: Đó là một chiếc xe tải màu đỏ."
@@ -4354,7 +4354,7 @@
       {
         "id": 540,
         "sentence": "It's a black _ _ _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sablacknotebook.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsablacknotebook.png",
         "audioUrl": "",
         "answer": "notebook",
         "hint": "It's a black notebook: Đó là một quyển vở màu đen."
@@ -4362,7 +4362,7 @@
       {
         "id": 541,
         "sentence": "It's a brown _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sabrownbike.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsabrownbike.png",
         "audioUrl": "",
         "answer": "bike",
         "hint": "It's a brown bike: Đó là một chiếc xe đạp màu nâu."
@@ -4394,7 +4394,7 @@
       {
         "id": 545,
         "sentence": "It's a _ _ _ _ lamp.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sabluelamp.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsabluelamp.png",
         "audioUrl": "",
         "answer": "blue",
         "hint": "It's a blue lamp: Đó là một cái đèn màu xanh dương."
@@ -4411,7 +4411,7 @@
         "id": 547,
         "sentence": "It's a red _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'saredclock.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsaredclock.mp3",
         "answer": "clock",
         "hint": "It's a red clock: Đó là một cái đồng hồ màu đỏ."
       },
@@ -4419,7 +4419,7 @@
         "id": 548,
         "sentence": "It's a _ _ _ _ _ _ flower.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sayellowflower.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsayellowflower.mp3",
         "answer": "yellow",
         "hint": "It's a yellow flower: Đó là một bông hoa màu vàng."
       },
@@ -4443,7 +4443,7 @@
         "id": 551,
         "sentence": "It's a yellow _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sayellowdress.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsayellowdress.mp3",
         "answer": "dress",
         "hint": "It's a yellow dress: Đó là một cái váy liền màu vàng."
       },
@@ -4459,7 +4459,7 @@
         "id": 553,
         "sentence": "It's an orange _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sanorangetruck.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsanorangetruck.mp3",
         "answer": "truck",
         "hint": "It's an orange truck: Đó là một chiếc xe tải màu cam."
       },
@@ -4475,7 +4475,7 @@
         "id": 555,
         "sentence": "It's a brown _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sabrowndress.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsabrowndress.mp3",
         "answer": "dress",
         "hint": "It's a brown dress: Đó là một cái váy liền màu nâu."
       },
@@ -4483,7 +4483,7 @@
         "id": 556,
         "sentence": "It's a red _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'saredshirt.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsaredshirt.mp3",
         "answer": "shirt",
         "hint": "It's a red shirt: Đó là một cái áo sơ mi màu đỏ."
       },
@@ -4506,7 +4506,7 @@
       {
         "id": 559,
         "sentence": "It's a _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sapencil.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsapencil.png",
         "audioUrl": "",
         "answer": "pencil",
         "hint": "It's a pencil: Đó là một cái bút chì."
@@ -4515,7 +4515,7 @@
         "id": 560,
         "sentence": "It's a _ _ _ _ _ _ chair.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sayellowchair.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsayellowchair.mp3",
         "answer": "yellow",
         "hint": "It's a yellow chair: Đó là một cái ghế màu vàng."
       },
@@ -4530,7 +4530,7 @@
       {
         "id": 562,
         "sentence": "It's a _ _ _ _ doll.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sabluedoll.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsabluedoll.png",
         "audioUrl": "",
         "answer": "blue",
         "hint": "It's a blue doll: Đó là một con búp bê màu xanh dương."
@@ -4547,7 +4547,7 @@
         "id": 564,
         "sentence": "It's a yellow _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sayellowpen.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsayellowpen.mp3",
         "answer": "pen",
         "hint": "It's a yellow pen: Đó là một cái bút mực màu vàng."
       },
@@ -4579,7 +4579,7 @@
         "id": 568,
         "sentence": "It's a black _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sablackdress.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsablackdress.mp3",
         "answer": "dress",
         "hint": "It's a black dress: Đó là một cái váy liền màu đen."
       },
@@ -4610,7 +4610,7 @@
       {
         "id": 572,
         "sentence": "It's a _ _ _ _ _ _ crayon.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sapurplecrayon.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsapurplecrayon.png",
         "audioUrl": "",
         "answer": "purple",
         "hint": "It's a purple crayon: Đó là một cây bút sáp màu tím."
@@ -4619,7 +4619,7 @@
         "id": 573,
         "sentence": "It's an _ _ _ _ _ _ puzzle.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sanorangepuzzle.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsanorangepuzzle.mp3",
         "answer": "orange",
         "hint": "It's an orange puzzle: Đó là một bộ xếp hình màu cam."
       },
@@ -4651,7 +4651,7 @@
         "id": 577,
         "sentence": "It's a _ _ _ _ _ coat.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sagreencoat.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsagreencoat.mp3",
         "answer": "green",
         "hint": "It's a green coat: Đó là một cái áo khoác màu xanh lá."
       },
@@ -4666,7 +4666,7 @@
       {
         "id": 579,
         "sentence": "It's a purple _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sapurplehat.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsapurplehat.png",
         "audioUrl": "",
         "answer": "hat",
         "hint": "It's a purple hat: Đó là một cái mũ màu tím."
@@ -4674,7 +4674,7 @@
       {
         "id": 580,
         "sentence": "It's a _ _ _ _ _ car.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sablackcar.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsablackcar.png",
         "audioUrl": "",
         "answer": "black",
         "hint": "It's a black car: Đó là một chiếc ô tô màu đen."
@@ -4706,7 +4706,7 @@
       {
         "id": 584,
         "sentence": "It's a _ _ _ _ _ _ pot.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sayellowpot.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsayellowpot.png",
         "audioUrl": "",
         "answer": "yellow",
         "hint": "It's a yellow pot: Đó là một cái nồi màu vàng."
@@ -4739,7 +4739,7 @@
         "id": 588,
         "sentence": "It's a _ _ _ _ _ _ flag.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sapurpleflag.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsapurpleflag.mp3",
         "answer": "purple",
         "hint": "It's a purple flag: Đó là một lá cờ màu tím."
       },
@@ -4762,7 +4762,7 @@
       {
         "id": 591,
         "sentence": "It's a _ _ _ _ _ _ balloon.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/it'sapurpleballoon.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/itsapurpleballoon.png",
         "audioUrl": "",
         "answer": "purple",
         "hint": "It's a purple balloon: Đó là một quả bóng bay màu tím."
@@ -4779,7 +4779,7 @@
         "id": 593,
         "sentence": "It's an orange _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sanorangebag.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsanorangebag.mp3",
         "answer": "bag",
         "hint": "It's an orange bag: Đó là một cái cặp màu cam."
       },
@@ -4803,7 +4803,7 @@
         "id": 596,
         "sentence": "It's a _ _ _ _ _ eraser.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sawhiteeraser.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsawhiteeraser.mp3",
         "answer": "white",
         "hint": "It's a white eraser: Đó là một cục tẩy màu trắng."
       },
@@ -4811,7 +4811,7 @@
         "id": 597,
         "sentence": "It's a _ _ _ _ _ guitar.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sablackguitar.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsablackguitar.mp3",
         "answer": "black",
         "hint": "It's a black guitar: Đó là một cây đàn ghi-ta màu đen."
       },
@@ -4920,11 +4920,11 @@
       },
       {
         "id": 610,
-        "sentence": "Where is the _ _ _ _? It's on the river.",
+        "sentence": "Where is the _ _ _ _? It's in the pond.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whereisthefrog?it'sontheriver.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whereisthefrogitsinthepond.mp3",
         "answer": "frog",
-        "hint": "Where is the frog? It's on the river: Con ếch ở đâu? Nó ở trên dòng sông."
+        "hint": "Where is the frog? It's in the pond: Con ếch ở đâu? Nó ở trong cái ao."
       },
       {
         "id": 611,
@@ -4946,14 +4946,14 @@
         "id": 613,
         "sentence": "Where is the _ _ _? It's near the sofa.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whereisthecat?it'snearthesofa.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whereisthecatitsnearthesofa.mp3",
         "answer": "cat",
         "hint": "Where is the cat? It's near the sofa: Con mèo ở đâu? Nó ở gần cái ghế sô-pha."
       },
       {
         "id": 614,
         "sentence": "Where is the picture? It's on the _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whereisthepicture?it'sontheshelf.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whereisthepictureitsontheshelf.png",
         "audioUrl": "",
         "answer": "shelf",
         "hint": "Where is the picture? It's on the shelf: Bức tranh ở đâu? Nó ở trên cái kệ."
@@ -5056,17 +5056,17 @@
       },
       {
         "id": 627,
-        "sentence": "The _ _ _ _ _ _ is near the bed.",
+        "sentence": "The _ _ _ _ _ _ is near the book.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thepencilisnearthebed.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thepencilisnearthebook.mp3",
         "answer": "pencil",
-        "hint": "The pencil is near the bed: Cái bút chì ở gần cái giường."
+        "hint": "The pencil is near the book: Cái bút chì ở gần quyển sách."
       },
       {
         "id": 628,
         "sentence": "Is it a _ _ _ _? Yes, it is.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/isitabook?yesitis.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/isitabookyesitis.mp3",
         "answer": "book",
         "hint": "Is it a book? Yes, it is: Đó có phải là quyển sách không? Đúng vậy."
       },
@@ -5128,11 +5128,11 @@
       },
       {
         "id": 636,
-        "sentence": "Mom is in the _ _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/momisinthekitchen.png",
+        "sentence": "Mum is in the _ _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/mumisinthekitchen.png",
         "audioUrl": "",
         "answer": "kitchen",
-        "hint": "Mom is in the kitchen: Mom đang ở trong nhà bếp."
+        "hint": "Mum is in the kitchen: Mẹ đang ở trong nhà bếp."
       },
       {
         "id": 637,
@@ -5146,7 +5146,7 @@
         "id": 638,
         "sentence": "Where is the crayon? It's in the _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whereisthecrayon?it'sinthebox.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whereisthecrayonitsinthebox.mp3",
         "answer": "box",
         "hint": "Where is the crayon? It's in the box: Cây bút sáp ở đâu? Nó ở trong cái hộp."
       },
@@ -5176,11 +5176,11 @@
       },
       {
         "id": 642,
-        "sentence": "What color is the _ _ _? It's black.",
+        "sentence": "What colour is the _ _ _? It's black.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whatcoloristhecar?it'sblack.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whatcolouristhecaritsblack.mp3",
         "answer": "car",
-        "hint": "What color is the car? It's black: Chiếc ô tô màu gì? Nó màu đen."
+        "hint": "What colour is the car? It's black: Chiếc ô tô màu gì? Nó màu đen."
       },
       {
         "id": 643,
@@ -5250,7 +5250,7 @@
         "id": 651,
         "sentence": "Where is the _ _ _ _? It's on the river.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whereistheboat?it'sontheriver.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whereistheboatitsontheriver.mp3",
         "answer": "boat",
         "hint": "Where is the boat? It's on the river: Chiếc thuyền ở đâu? Nó ở trên dòng sông."
       },
@@ -5329,7 +5329,7 @@
       {
         "id": 661,
         "sentence": "Is it a _ _ _ _ _ _ _ _? Yes, it is.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/isitanotebook?yesitis.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/isitanotebookyesitis.png",
         "audioUrl": "",
         "answer": "notebook",
         "hint": "Is it a notebook? Yes, it is: Đó có phải là quyển vở không? Đúng vậy."
@@ -5440,11 +5440,11 @@
       },
       {
         "id": 675,
-        "sentence": "What color is the _ _ _? It's pink.",
+        "sentence": "What colour is the _ _ _? It's pink.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whatcoloristhebed?it'spink.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whatcolouristhebeditspink.mp3",
         "answer": "bed",
-        "hint": "What color is the bed? It's pink: Cái giường màu gì? Nó màu hồng."
+        "hint": "What colour is the bed? It's pink: Cái giường màu gì? Nó màu hồng."
       },
       {
         "id": 676,
@@ -5522,17 +5522,17 @@
         "id": 685,
         "sentence": "It's a _ _ _ _ _ teddy bear.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/it'sablackteddybear.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/itsablackteddybear.mp3",
         "answer": "black",
         "hint": "It's a black teddy bear: Đó là một con gấu bông màu đen."
       },
       {
         "id": 686,
-        "sentence": "What color is the bag? It's _ _ _ _ _.",
+        "sentence": "What colour is the bag? It's _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whatcoloristhebag?it'sgreen.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whatcolouristhebagitsgreen.mp3",
         "answer": "green",
-        "hint": "What color is the bag? It's green: Cái cặp màu gì? Nó màu xanh lá."
+        "hint": "What colour is the bag? It's green: Cái cặp màu gì? Nó màu xanh lá."
       },
       {
         "id": 687,
@@ -5672,7 +5672,7 @@
       {
         "id": 703,
         "sentence": "Where is the _ _ _ _ _ _ _ _ _? It's on the rock.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whereisthebutterfly?it'sontherock.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whereisthebutterflyitsontherock.png",
         "audioUrl": "",
         "answer": "butterfly",
         "hint": "Where is the butterfly? It's on the rock: Con bướm ở đâu? Nó ở trên hòn đá."
@@ -5801,7 +5801,7 @@
         "id": 719,
         "sentence": "Is it a _ _ _ _ _ _? Yes, it is.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/isitamonkey?yesitis.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/isitamonkeyyesitis.mp3",
         "answer": "monkey",
         "hint": "Is it a monkey? Yes, it is: Đó có phải là con khỉ không? Đúng vậy."
       },
@@ -5815,11 +5815,11 @@
       },
       {
         "id": 721,
-        "sentence": "What color is the bed? It's _ _ _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatcoloristhebed?it'syellow.png",
+        "sentence": "What colour is the bed? It's _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatcolouristhebeditsyellow.png",
         "audioUrl": "",
         "answer": "yellow",
-        "hint": "What color is the bed? It's yellow: Cái giường màu gì? Nó màu vàng."
+        "hint": "What colour is the bed? It's yellow: Cái giường màu gì? Nó màu vàng."
       },
       {
         "id": 722,
@@ -5913,7 +5913,7 @@
         "id": 733,
         "sentence": "Is it a _ _ _ _? Yes, it is.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/isitakite?yesitis.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/isitakiteyesitis.mp3",
         "answer": "kite",
         "hint": "Is it a kite? Yes, it is: Đó có phải là con diều không? Đúng vậy."
       },
@@ -6009,7 +6009,7 @@
         "id": 745,
         "sentence": "Is it a _ _ _ _? No, it isn't.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/isitabear?noitisn't.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/isitabearnoitisnt.mp3",
         "answer": "bear",
         "hint": "Is it a bear? No, it isn't: Đó có phải là con gấu không? Không phải."
       },
@@ -6057,9 +6057,9 @@
         "id": 751,
         "sentence": "Where is the lamp? It's on the _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whereisthelamp?it'sonthechair.mp3",
-        "answer": "chair",
-        "hint": "Where is the lamp? It's on the chair: Cái đèn ở đâu? Nó ở trên cái ghế."
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whereisthelampitsonthetable.mp3",
+        "answer": "table",
+        "hint": "Where is the lamp? It's on the table: Cái đèn ở đâu? Nó ở trên cái bàn."
       },
       {
         "id": 752,
@@ -6095,11 +6095,11 @@
       },
       {
         "id": 756,
-        "sentence": "Where is the crayon? It's in the _ _ _ _.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whereisthecrayon?it'sinthedesk.png",
+        "sentence": "Where is the crayon? It's in the _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whereisthecrayonitsinthebox.png",
         "audioUrl": "",
-        "answer": "desk",
-        "hint": "Where is the crayon? It's in the desk: Cây bút sáp ở đâu? Nó ở trong cái bàn học."
+        "answer": "box",
+        "hint": "Where is the crayon? It's in the box: Cây bút sáp ở đâu? Nó ở trong cái hộp."
       },
       {
         "id": 757,
@@ -6112,7 +6112,7 @@
       {
         "id": 758,
         "sentence": "Where is the _ _ _ _ _ _? It's near the rock.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whereistherabbit?it'sneartherock.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whereistherabbititsneartherock.png",
         "audioUrl": "",
         "answer": "rabbit",
         "hint": "Where is the rabbit? It's near the rock: Con thỏ ở đâu? Nó ở gần hòn đá."
@@ -6281,7 +6281,7 @@
         "id": 779,
         "sentence": "Where is the _ _ _ _? It's near the rock.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whereisthefrog?it'sneartherock.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whereisthefrogitsneartherock.mp3",
         "answer": "frog",
         "hint": "Where is the frog? It's near the rock: Con ếch ở đâu? Nó ở gần hòn đá."
       },
@@ -6408,7 +6408,7 @@
       {
         "id": 795,
         "sentence": "Where is the _ _ _? It's on the sofa.",
-        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whereisthecat?it'sonthesofa.png",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whereisthecatitsonthesofa.png",
         "audioUrl": "",
         "answer": "cat",
         "hint": "Where is the cat? It's on the sofa: Con mèo ở đâu? Nó ở trên cái ghế sô-pha."
@@ -6431,11 +6431,11 @@
       },
       {
         "id": 798,
-        "sentence": "Where is the _ _ _ _ _ _? It's in the desk.",
+        "sentence": "Where is the _ _ _ _ _ _? It's in the bag.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whereistheeraser?it'sinthedesk.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whereistheeraseritsinthebag.mp3",
         "answer": "eraser",
-        "hint": "Where is the eraser? It's in the desk: Cục tẩy ở đâu? Nó ở trong cái bàn học."
+        "hint": "Where is the eraser? It's in the bag: Cục tẩy ở đâu? Nó ở trong cái cặp."
       },
       {
         "id": 799,
@@ -6452,6 +6452,813 @@
         "audioUrl": "",
         "answer": "bear",
         "hint": "There is a teddy bear in the kitchen: Có một con gấu bông ở trong nhà bếp."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "In the park",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/unit8.png",
+    "scenes": [
+      {
+        "id": 801,
+        "sentence": "There is a _ _ _ _ _ _ in the bag.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thereisabananainthebag.mp3",
+        "answer": "banana",
+        "hint": "There is a banana in the bag: Có một quả chuối ở trong cái cặp."
+      },
+      {
+        "id": 802,
+        "sentence": "I can see a _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/icanseeazebra.mp3",
+        "answer": "zebra",
+        "hint": "I can see a zebra: Mình có thể nhìn thấy một con ngựa vằn."
+      },
+      {
+        "id": 803,
+        "sentence": "Ben is in the _ _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/benisinthekitchen.png",
+        "audioUrl": "",
+        "answer": "kitchen",
+        "hint": "Ben is in the kitchen: Ben đang ở trong nhà bếp."
+      },
+      {
+        "id": 804,
+        "sentence": "This is Katie. She has a _ _ _ coat.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/thisiskatieshehasaredcoat.png",
+        "audioUrl": "",
+        "answer": "red",
+        "hint": "This is Katie. She has a red coat: Đây là Katie. Cô ấy có một cái áo khoác màu đỏ."
+      },
+      {
+        "id": 805,
+        "sentence": "This is Mai. She has a _ _ _ _ _ hat.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thisismaishehasagreenhat.mp3",
+        "answer": "green",
+        "hint": "This is Mai. She has a green hat: Đây là Mai. Cô ấy có một cái mũ màu xanh lá."
+      },
+      {
+        "id": 806,
+        "sentence": "There is a _ _ _ _ _ _ in the living room.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thereisacrayoninthelivingroom.mp3",
+        "answer": "crayon",
+        "hint": "There is a crayon in the living room: Có một cây bút sáp ở trong phòng khách."
+      },
+      {
+        "id": 807,
+        "sentence": "Two plus nine is _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "eleven",
+        "hint": "Two plus nine is eleven: Hai cộng chín bằng mười một."
+      },
+      {
+        "id": 808,
+        "sentence": "There is a _ _ _ _ on the chair.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/thereisaballonthechair.png",
+        "audioUrl": "",
+        "answer": "ball",
+        "hint": "There is a ball on the chair: Có một quả bóng ở trên cái ghế."
+      },
+      {
+        "id": 809,
+        "sentence": "There is a top on the _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/thereisatopontheshelf.png",
+        "audioUrl": "",
+        "answer": "shelf",
+        "hint": "There is a top on the shelf: Có một con quay ở trên cái kệ."
+      },
+      {
+        "id": 810,
+        "sentence": "There is a _ _ _ _ _ _ _ _ in the living room.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/thereisanotebookinthelivingroom.png",
+        "audioUrl": "",
+        "answer": "notebook",
+        "hint": "There is a notebook in the living room: Có một quyển vở ở trong phòng khách."
+      },
+      {
+        "id": 811,
+        "sentence": "The pot is near the _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/thepotisnearthetable.png",
+        "audioUrl": "",
+        "answer": "table",
+        "hint": "The pot is near the table: Cái nồi ở gần cái bàn."
+      },
+      {
+        "id": 812,
+        "sentence": "I can see a _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/icanseeacar.png",
+        "audioUrl": "",
+        "answer": "car",
+        "hint": "I can see a car: Mình có thể nhìn thấy một chiếc ô tô."
+      },
+      {
+        "id": 813,
+        "sentence": "Ten plus two is _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "twelve",
+        "hint": "Ten plus two is twelve: Mười cộng hai bằng mười hai."
+      },
+      {
+        "id": 814,
+        "sentence": "There is a bag on the _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thereisabagonthechair.mp3",
+        "answer": "chair",
+        "hint": "There is a bag on the chair: Có một cái cặp ở trên cái ghế."
+      },
+      {
+        "id": 815,
+        "sentence": "The map is on the _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/themapisonthewall.png",
+        "audioUrl": "",
+        "answer": "wall",
+        "hint": "The map is on the wall: Tấm bản đồ ở trên bức tường."
+      },
+      {
+        "id": 816,
+        "sentence": "There is a doll on the _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thereisadollonthetable.mp3",
+        "answer": "table",
+        "hint": "There is a doll on the table: Có một con búp bê ở trên cái bàn."
+      },
+      {
+        "id": 817,
+        "sentence": "There is a _ _ _ _ _ _ on the shelf.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thereisacandleontheshelf.mp3",
+        "answer": "candle",
+        "hint": "There is a candle on the shelf: Có một cây nến ở trên cái kệ."
+      },
+      {
+        "id": 818,
+        "sentence": "There is a pencil in the _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thereisapencilinthebag.mp3",
+        "answer": "bag",
+        "hint": "There is a pencil in the bag: Có một cái bút chì ở trong cái cặp."
+      },
+      {
+        "id": 819,
+        "sentence": "This is Anita. She has a black _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thisisanitashehasablackjug.mp3",
+        "answer": "jug",
+        "hint": "This is Anita. She has a black jug: Đây là Anita. Cô ấy có một cái bình màu đen."
+      },
+      {
+        "id": 820,
+        "sentence": "This is Anita. She has a blue _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/thisisanitashehasabluejug.png",
+        "audioUrl": "",
+        "answer": "jug",
+        "hint": "This is Anita. She has a blue jug: Đây là Anita. Cô ấy có một cái bình màu xanh dương."
+      },
+      {
+        "id": 821,
+        "sentence": "I have a top and an _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ihaveatopandanegg.mp3",
+        "answer": "egg",
+        "hint": "I have a top and an egg: Mình có một con quay và một quả trứng."
+      },
+      {
+        "id": 822,
+        "sentence": "There is a mango on the _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thereisamangoonthetable.mp3",
+        "answer": "table",
+        "hint": "There is a mango on the table: Có một quả xoài ở trên cái bàn."
+      },
+      {
+        "id": 823,
+        "sentence": "There is a _ _ _ _ _ on the shelf.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/thereisaplaneontheshelf.png",
+        "audioUrl": "",
+        "answer": "plane",
+        "hint": "There is a plane on the shelf: Có một chiếc máy bay ở trên cái kệ."
+      },
+      {
+        "id": 824,
+        "sentence": "There is a car on the _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/thereisacarontheshelf.png",
+        "audioUrl": "",
+        "answer": "shelf",
+        "hint": "There is a car on the shelf: Có một chiếc ô tô ở trên cái kệ."
+      },
+      {
+        "id": 825,
+        "sentence": "I have a teddy _ _ _ _ and a car.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "bear",
+        "hint": "I have a teddy bear and a car: Mình có một con gấu bông và một chiếc ô tô."
+      },
+      {
+        "id": 826,
+        "sentence": "There is a crayon in the _ _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/thereisacrayoninthekitchen.png",
+        "audioUrl": "",
+        "answer": "kitchen",
+        "hint": "There is a crayon in the kitchen: Có một cây bút sáp ở trong nhà bếp."
+      },
+      {
+        "id": 827,
+        "sentence": "This is Billy. He has a white _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thisisbillyhehasawhitetruck.mp3",
+        "answer": "truck",
+        "hint": "This is Billy. He has a white truck: Đây là Billy. Cậu ấy có một chiếc xe tải màu trắng."
+      },
+      {
+        "id": 828,
+        "sentence": "There is a clock on the _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thereisaclockonthetable.mp3",
+        "answer": "table",
+        "hint": "There is a clock on the table: Có một cái đồng hồ ở trên cái bàn."
+      },
+      {
+        "id": 829,
+        "sentence": "Six minus three is _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "three",
+        "hint": "Six minus three is three: Sáu trừ ba bằng ba."
+      },
+      {
+        "id": 830,
+        "sentence": "This is Tony. He has a _ _ _ _ _ cup.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thisistonyhehasagreencup.mp3",
+        "answer": "green",
+        "hint": "This is Tony. He has a green cup: Đây là Tony. Cậu ấy có một cái cốc màu xanh lá."
+      },
+      {
+        "id": 831,
+        "sentence": "The _ _ _ _ is on the desk.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thedollisonthedesk.mp3",
+        "answer": "doll",
+        "hint": "The doll is on the desk: Con búp bê ở trên cái bàn học."
+      },
+      {
+        "id": 832,
+        "sentence": "I can see a _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/icanseeapencil.png",
+        "audioUrl": "",
+        "answer": "pencil",
+        "hint": "I can see a pencil: Mình có thể nhìn thấy một cái bút chì."
+      },
+      {
+        "id": 833,
+        "sentence": "Six plus four is _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ten",
+        "hint": "Six plus four is ten: Sáu cộng bốn bằng mười."
+      },
+      {
+        "id": 834,
+        "sentence": "The teddy _ _ _ _ is on the chair.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "bear",
+        "hint": "The teddy bear is on the chair: Con gấu bông ở trên cái ghế."
+      },
+      {
+        "id": 835,
+        "sentence": "There is a teddy _ _ _ _ in the bedroom.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "bear",
+        "hint": "There is a teddy bear in the bedroom: Có một con gấu bông ở trong phòng ngủ."
+      },
+      {
+        "id": 836,
+        "sentence": "Is it a _ _ _? No, it isn't.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/isitacarnoitisnt.mp3",
+        "answer": "car",
+        "hint": "Is it a car? No, it isn't: Đó có phải là chiếc ô tô không? Không phải."
+      },
+      {
+        "id": 837,
+        "sentence": "I can see _ _ _ cars.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/icanseetwocars.png",
+        "audioUrl": "",
+        "answer": "two",
+        "hint": "I can see two cars: Mình có thể nhìn thấy hai chiếc ô tô."
+      },
+      {
+        "id": 838,
+        "sentence": "This is Nick. He has a _ _ _ doll.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thisisnickhehasareddoll.mp3",
+        "answer": "red",
+        "hint": "This is Nick. He has a red doll: Đây là Nick. Cậu ấy có một con búp bê màu đỏ."
+      },
+      {
+        "id": 839,
+        "sentence": "There is a _ _ _ _ in the bedroom.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thereisabookinthebedroom.mp3",
+        "answer": "book",
+        "hint": "There is a book in the bedroom: Có một quyển sách ở trong phòng ngủ."
+      },
+      {
+        "id": 840,
+        "sentence": "There is a doll on the _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/thereisadollonthebox.png",
+        "audioUrl": "",
+        "answer": "box",
+        "hint": "There is a doll on the box: Có một con búp bê ở trên cái hộp."
+      },
+      {
+        "id": 841,
+        "sentence": "I have a _ _ _ _ _ _ and a bag.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/ihaveacrayonandabag.png",
+        "audioUrl": "",
+        "answer": "crayon",
+        "hint": "I have a crayon and a bag: Mình có một cây bút sáp và một cái cặp."
+      },
+      {
+        "id": 842,
+        "sentence": "There is a notebook in the _ _ _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/thereisanotebookinthebathroom.png",
+        "audioUrl": "",
+        "answer": "bathroom",
+        "hint": "There is a notebook in the bathroom: Có một quyển vở ở trong phòng tắm."
+      },
+      {
+        "id": 843,
+        "sentence": "The cookie is in the _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thecookieisinthebox.mp3",
+        "answer": "box",
+        "hint": "The cookie is in the box: Cái bánh quy ở trong cái hộp."
+      },
+      {
+        "id": 844,
+        "sentence": "The _ _ _ _ is on the shelf.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/thelockisontheshelf.png",
+        "audioUrl": "",
+        "answer": "lock",
+        "hint": "The lock is on the shelf: Cái ổ khóa ở trên cái kệ."
+      },
+      {
+        "id": 845,
+        "sentence": "The _ _ _ _ _ is on the box.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/therobotisonthebox.png",
+        "audioUrl": "",
+        "answer": "robot",
+        "hint": "The robot is on the box: Con rô-bốt ở trên cái hộp."
+      },
+      {
+        "id": 846,
+        "sentence": "I can see a _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/icanseeacrayon.mp3",
+        "answer": "crayon",
+        "hint": "I can see a crayon: Mình có thể nhìn thấy một cây bút sáp."
+      },
+      {
+        "id": 847,
+        "sentence": "There is a _ _ _ _ _ _ on the table.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thereisapuppetonthetable.mp3",
+        "answer": "puppet",
+        "hint": "There is a puppet on the table: Có một con rối ở trên cái bàn."
+      },
+      {
+        "id": 848,
+        "sentence": "Ten plus eight is _ _ _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "eighteen",
+        "hint": "Ten plus eight is eighteen: Mười cộng tám bằng mười tám."
+      },
+      {
+        "id": 849,
+        "sentence": "There is a pencil in the _ _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thereisapencilinthekitchen.mp3",
+        "answer": "kitchen",
+        "hint": "There is a pencil in the kitchen: Có một cái bút chì ở trong nhà bếp."
+      },
+      {
+        "id": 850,
+        "sentence": "Four minus two is _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "two",
+        "hint": "Four minus two is two: Bốn trừ hai bằng hai."
+      },
+      {
+        "id": 851,
+        "sentence": "What colour is the teddy _ _ _ _? It's purple.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "bear",
+        "hint": "What colour is the teddy bear? It's purple: Con gấu bông màu gì? Nó màu tím."
+      },
+      {
+        "id": 852,
+        "sentence": "I have a mouse and a _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/ihaveamouseandaturtle.png",
+        "audioUrl": "",
+        "answer": "turtle",
+        "hint": "I have a mouse and a turtle: Mình có một con chuột và một con rùa."
+      },
+      {
+        "id": 853,
+        "sentence": "Three minus one is _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "two",
+        "hint": "Three minus one is two: Ba trừ một bằng hai."
+      },
+      {
+        "id": 854,
+        "sentence": "There is a _ _ _ on the table.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/thereisacaronthetable.png",
+        "audioUrl": "",
+        "answer": "car",
+        "hint": "There is a car on the table: Có một chiếc ô tô ở trên cái bàn."
+      },
+      {
+        "id": 855,
+        "sentence": "There is an eraser on the _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/thereisaneraseronthechair.png",
+        "audioUrl": "",
+        "answer": "chair",
+        "hint": "There is an eraser on the chair: Có một cục tẩy ở trên cái ghế."
+      },
+      {
+        "id": 856,
+        "sentence": "What colour is the ball? It's _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatcolouristheballitsbrown.png",
+        "audioUrl": "",
+        "answer": "brown",
+        "hint": "What colour is the ball? It's brown: Quả bóng màu gì? Nó màu nâu."
+      },
+      {
+        "id": 857,
+        "sentence": "I have a hat and a _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/ihaveahatandapot.png",
+        "audioUrl": "",
+        "answer": "pot",
+        "hint": "I have a hat and a pot: Mình có một cái mũ và một cái nồi."
+      },
+      {
+        "id": 858,
+        "sentence": "I have a _ _ _ _ and a truck.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ihaveadollandatruck.mp3",
+        "answer": "doll",
+        "hint": "I have a doll and a truck: Mình có một con búp bê và một chiếc xe tải."
+      },
+      {
+        "id": 859,
+        "sentence": "What colour is the _ _ _ _? It's green.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whatcolouristheballitsgreen.png",
+        "audioUrl": "",
+        "answer": "ball",
+        "hint": "What colour is the ball? It's green: Quả bóng màu gì? Nó màu xanh lá."
+      },
+      {
+        "id": 860,
+        "sentence": "Where is the _ _ _? It's under the sofa.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whereisthecatitsunderthesofa.mp3",
+        "answer": "cat",
+        "hint": "Where is the cat? It's under the sofa: Con mèo ở đâu? Nó ở dưới cái ghế sô-pha."
+      },
+      {
+        "id": 861,
+        "sentence": "I have a hat and a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/ihaveahatandalock.png",
+        "audioUrl": "",
+        "answer": "lock",
+        "hint": "I have a hat and a lock: Mình có một cái mũ và một cái ổ khóa."
+      },
+      {
+        "id": 862,
+        "sentence": "Bill is in the _ _ _ _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/billisintheclassroom.mp3",
+        "answer": "classroom",
+        "hint": "Bill is in the classroom: Bill đang ở trong lớp học."
+      },
+      {
+        "id": 863,
+        "sentence": "Ten plus one is _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "eleven",
+        "hint": "Ten plus one is eleven: Mười cộng một bằng mười một."
+      },
+      {
+        "id": 864,
+        "sentence": "Where is the _ _ _ _ _? It's on the table.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/whereistheshellitsonthetable.mp3",
+        "answer": "shell",
+        "hint": "Where is the shell? It's on the table: Cái vỏ sò ở đâu? Nó ở trên cái bàn."
+      },
+      {
+        "id": 865,
+        "sentence": "The cat is near the _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thecatisnearthesofa.mp3",
+        "answer": "sofa",
+        "hint": "The cat is near the sofa: Con mèo ở gần cái ghế sô-pha."
+      },
+      {
+        "id": 866,
+        "sentence": "Five minus one is _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "four",
+        "hint": "Five minus one is four: Năm trừ một bằng bốn."
+      },
+      {
+        "id": 867,
+        "sentence": "I have a _ _ _ _ _ and a kite.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/ihaveamangoandakite.png",
+        "audioUrl": "",
+        "answer": "mango",
+        "hint": "I have a mango and a kite: Mình có một quả xoài và một con diều."
+      },
+      {
+        "id": 868,
+        "sentence": "There is a _ _ _ _ in the box.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thereisaballinthebox.mp3",
+        "answer": "ball",
+        "hint": "There is a ball in the box: Có một quả bóng ở trong cái hộp."
+      },
+      {
+        "id": 869,
+        "sentence": "I can see _ _ _ _ _ _ _ _ _ pigs.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/icanseeseventeenpigs.mp3",
+        "answer": "seventeen",
+        "hint": "I can see seventeen pigs: Mình có thể nhìn thấy mười bảy con lợn."
+      },
+      {
+        "id": 870,
+        "sentence": "This is Tom. He has a _ _ _ kite.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/thisistomhehasaredkite.png",
+        "audioUrl": "",
+        "answer": "red",
+        "hint": "This is Tom. He has a red kite: Đây là Tom. Cậu ấy có một con diều màu đỏ."
+      },
+      {
+        "id": 871,
+        "sentence": "This is Lucy. She has a blue _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thisislucyshehasabluecoat.mp3",
+        "answer": "coat",
+        "hint": "This is Lucy. She has a blue coat: Đây là Lucy. Cô ấy có một cái áo khoác màu xanh dương."
+      },
+      {
+        "id": 872,
+        "sentence": "There is a _ _ _ on the table.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thereisabagonthetable.mp3",
+        "answer": "bag",
+        "hint": "There is a bag on the table: Có một cái cặp ở trên cái bàn."
+      },
+      {
+        "id": 873,
+        "sentence": "There is an eraser on the _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/thereisaneraseronthebed.png",
+        "audioUrl": "",
+        "answer": "bed",
+        "hint": "There is an eraser on the bed: Có một cục tẩy ở trên cái giường."
+      },
+      {
+        "id": 874,
+        "sentence": "I can see _ _ _ _ hats.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/icanseefivehats.png",
+        "audioUrl": "",
+        "answer": "five",
+        "hint": "I can see five hats: Mình có thể nhìn thấy năm cái mũ."
+      },
+      {
+        "id": 875,
+        "sentence": "One plus seven is _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "eight",
+        "hint": "One plus seven is eight: Một cộng bảy bằng tám."
+      },
+      {
+        "id": 876,
+        "sentence": "Ten plus ten is _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "twenty",
+        "hint": "Ten plus ten is twenty: Mười cộng mười bằng hai mươi."
+      },
+      {
+        "id": 877,
+        "sentence": "Is it a _ _ _ _? No, it isn't.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/isitaballnoitisnt.mp3",
+        "answer": "ball",
+        "hint": "Is it a ball? No, it isn't: Đó có phải là quả bóng không? Không phải."
+      },
+      {
+        "id": 878,
+        "sentence": "This is Linh. She has a red _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thisislinhshehasaredtop.mp3",
+        "answer": "top",
+        "hint": "This is Linh. She has a red top: Đây là Linh. Cô ấy có một con quay màu đỏ."
+      },
+      {
+        "id": 879,
+        "sentence": "There is a bag on the _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/thereisabagonthedesk.png",
+        "audioUrl": "",
+        "answer": "desk",
+        "hint": "There is a bag on the desk: Có một cái cặp ở trên cái bàn học."
+      },
+      {
+        "id": 880,
+        "sentence": "Where is the picture? It's on the _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/whereisthepictureitsonthedesk.png",
+        "audioUrl": "",
+        "answer": "desk",
+        "hint": "Where is the picture? It's on the desk: Bức tranh ở đâu? Nó ở trên cái bàn học."
+      },
+      {
+        "id": 881,
+        "sentence": "I can see a _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/icanseeadoor.mp3",
+        "answer": "door",
+        "hint": "I can see a door: Mình có thể nhìn thấy một cái cửa ra vào."
+      },
+      {
+        "id": 882,
+        "sentence": "I have a _ _ _ and an egg.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/ihaveacarandanegg.png",
+        "audioUrl": "",
+        "answer": "car",
+        "hint": "I have a car and an egg: Mình có một chiếc ô tô và một quả trứng."
+      },
+      {
+        "id": 883,
+        "sentence": "There is a _ _ _ on the shelf.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/thereisapenontheshelf.png",
+        "audioUrl": "",
+        "answer": "pen",
+        "hint": "There is a pen on the shelf: Có một cái bút mực ở trên cái kệ."
+      },
+      {
+        "id": 884,
+        "sentence": "I can see _ _ _ _ cats.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/icanseeninecats.png",
+        "audioUrl": "",
+        "answer": "nine",
+        "hint": "I can see nine cats: Mình có thể nhìn thấy chín con mèo."
+      },
+      {
+        "id": 885,
+        "sentence": "This is Lan. She has a _ _ _ _ top.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thisislanshehasabluetop.mp3",
+        "answer": "blue",
+        "hint": "This is Lan. She has a blue top: Đây là Lan. Cô ấy có một con quay màu xanh dương."
+      },
+      {
+        "id": 886,
+        "sentence": "I can see a _ _ _ _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/icanseeabutterfly.mp3",
+        "answer": "butterfly",
+        "hint": "I can see a butterfly: Mình có thể nhìn thấy một con bướm."
+      },
+      {
+        "id": 887,
+        "sentence": "There is a _ _ _ in the bag.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thereisapeninthebag.mp3",
+        "answer": "pen",
+        "hint": "There is a pen in the bag: Có một cái bút mực ở trong cái cặp."
+      },
+      {
+        "id": 888,
+        "sentence": "I can see _ _ _ _ kites.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/icanseefivekites.png",
+        "audioUrl": "",
+        "answer": "five",
+        "hint": "I can see five kites: Mình có thể nhìn thấy năm con diều."
+      },
+      {
+        "id": 889,
+        "sentence": "There is a _ _ _ _ _ _ on the table.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thereisapencilonthetable.mp3",
+        "answer": "pencil",
+        "hint": "There is a pencil on the table: Có một cái bút chì ở trên cái bàn."
+      },
+      {
+        "id": 890,
+        "sentence": "Ten plus six is _ _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "sixteen",
+        "hint": "Ten plus six is sixteen: Mười cộng sáu bằng mười sáu."
+      },
+      {
+        "id": 891,
+        "sentence": "Two plus one is _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "three",
+        "hint": "Two plus one is three: Hai cộng một bằng ba."
+      },
+      {
+        "id": 892,
+        "sentence": "Mai is in the _ _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/maiisinthekitchen.png",
+        "audioUrl": "",
+        "answer": "kitchen",
+        "hint": "Mai is in the kitchen: Mai đang ở trong nhà bếp."
+      },
+      {
+        "id": 893,
+        "sentence": "Seven plus seven is _ _ _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "fourteen",
+        "hint": "Seven plus seven is fourteen: Bảy cộng bảy bằng mười bốn."
+      },
+      {
+        "id": 894,
+        "sentence": "There is a bed in the _ _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/thereisabedinthebedroom.png",
+        "audioUrl": "",
+        "answer": "bedroom",
+        "hint": "There is a bed in the bedroom: Có một cái giường ở trong phòng ngủ."
+      },
+      {
+        "id": 895,
+        "sentence": "There is a doll on the _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/thereisadollonthebed.mp3",
+        "answer": "bed",
+        "hint": "There is a doll on the bed: Có một con búp bê ở trên cái giường."
+      },
+      {
+        "id": 896,
+        "sentence": "She has a brown _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/shehasabrowncap.mp3",
+        "answer": "cap",
+        "hint": "She has a brown cap: Cô ấy có một cái mũ lưỡi trai màu nâu."
+      },
+      {
+        "id": 897,
+        "sentence": "I like rice and _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/ilikericeandcandy.png",
+        "audioUrl": "",
+        "answer": "candy",
+        "hint": "I like rice and candy: Mình thích cơm và kẹo."
+      },
+      {
+        "id": 898,
+        "sentence": "I have a _ _ _ and a bag.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/ihaveadogandabag.mp3",
+        "answer": "dog",
+        "hint": "I have a dog and a bag: Mình có một con chó và một cái cặp."
+      },
+      {
+        "id": 899,
+        "sentence": "I have a _ _ _ _ _ and a dog.",
+        "imageUrl": "https://hoangminhtiendev.github.io/ioelop3/photos/ihaveatruckandadog.png",
+        "audioUrl": "",
+        "answer": "truck",
+        "hint": "I have a truck and a dog: Mình có một chiếc xe tải và một con chó."
+      },
+      {
+        "id": 900,
+        "sentence": "Tony has a _ _ _ net.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/ioelop3/audios/tonyhasarednet.mp3",
+        "answer": "red",
+        "hint": "Tony has a red net: Tony có một cái lưới màu đỏ."
       }
     ]
   }
